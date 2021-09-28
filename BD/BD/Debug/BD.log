@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\bigdataonc\bigdataonc\bd\bd\source.cpp(13): warning C4091: typedef : пропускается слева от "elem", когда ни одна переменная не объявлена
+  BD.vcxproj -> D:\BigDataonC\BigDataonC\BD\Debug\BD.exe
