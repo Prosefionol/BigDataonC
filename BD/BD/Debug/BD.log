@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-d:\bigdataonc\bigdataonc\bd\bd\source.cpp(13): warning C4091: typedef : пропускается слева от "elem", когда ни одна переменная не объявлена
+d:\bigdataonc\bigdataonc\bd\bd\source.cpp(22): warning C4091: typedef : пропускается слева от "elem", когда ни одна переменная не объявлена
+d:\bigdataonc\bigdataonc\bd\bd\source.cpp(35): warning C4101: i: неиспользованная локальная переменная
   BD.vcxproj -> D:\BigDataonC\BigDataonC\BD\Debug\BD.exe

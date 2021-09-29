@@ -4,10 +4,19 @@
 #include <string>
 #include <fstream>
 
+// Структура для хранения информации о продукции
+struct product
+{
+	std::string name;
+	double property[2];
+	double relevance;
+};
+
 // Двунаправленный список
 typedef struct elem
 {
-	std::string word;
+	std::string supplier;
+	product pr;
 	elem* Ladr;
 	elem* Radr;
 };
@@ -16,28 +25,24 @@ typedef struct elem
 void GetFromFile(elem** nach, elem** konc, int n); // Заполняем двунаправленный список из файла
 void WriteBase(elem* nach, int n); // Вывод двунаправленного списка с начала
 void BaseWrite(elem* konc, int n); // Вывод двунаправленного списка с конца
-void StrSort(elem** nach); // Сортировка двунаправленного списка
-int DeleteLishnee(elem** nach, elem** konc); // Удаление повторяющихся элементов двунаправленного списка
+void RelevanceSort(elem** nach, elem** konc); // Сортировка двунаправленного списка по релевантности
+void CalculatingRelevance(elem** nach); // Подсчёт релевантности
+void DataSwap(elem* a, elem* b); // Поменять местами два элемента в двунаправленном списке
 
 // Главная функция
 int main()
-// int _tmain(int argc, _TCHAR* argv[])
 {
 	int i, n;
 	elem* nach = NULL, *konc = NULL;
-	std::cout << "Vvedite kol-vo slov v file" << std::endl;
+	std::cout << "Database size:" << std::endl;
 	std::cin >> n;
 	GetFromFile(&nach, &konc, n);
-	StrSort(&nach);
-	std::cout << "Otsortirovanniy spisok:" << std::endl;
-	BaseWrite(konc, n);
-	// Удаляем до тех пор, пока в списке будет нечего удалять (проходим в цикле)
-	i = DeleteLishnee(&nach, &konc);
-	while (i == 1)
+	if (nach != NULL)
 	{
-		i = DeleteLishnee(&nach, &konc);
+		CalculatingRelevance(&nach);
 	}
-	std::cout << "Otsortirovanniy spisok bez povtorov:" << std::endl;
+	RelevanceSort(&nach, &konc);
+	std::cout << "Output:" << std::endl;
 	BaseWrite(konc, n);
 	_getch();
 	return 0;
@@ -47,16 +52,23 @@ int main()
 void GetFromFile(elem** nach, elem** konc, int n)
 {
 	std::fstream f;
-	std::string str;
+	std::string str, str1;
+	double a[2];
 	elem* t;
 	f.open("input.txt", std::ios::in); // Открываем файл на чтение
 	for (int i = 0; i < n; i++) // Заполняем список словами из файла
 	{
 		f >> str;
+		f >> str1;
+		f >> a[0];
+		f >> a[1];
 		t = new(elem);
 		if (*nach == NULL) // Если список пуст
 		{
-			t->word = str;
+			t->supplier = str;
+			t->pr.name = str1;
+			t->pr.property[0] = a[0];
+			t->pr.property[1] = a[1];
 			t->Radr = NULL;
 			t->Ladr = NULL;
 			*nach = t;
@@ -64,7 +76,10 @@ void GetFromFile(elem** nach, elem** konc, int n)
 		}
 		else // Если в списке есть елементы
 		{
-			t->word = str;
+			t->supplier = str;
+			t->pr.name = str1;
+			t->pr.property[0] = a[0];
+			t->pr.property[1] = a[1];
 			t->Radr = *nach;
 			t->Ladr = NULL;
 			(*nach)->Ladr = t;
@@ -82,13 +97,13 @@ void WriteBase(elem* nach, int n)
 	{
 		while (t != NULL)
 		{
-			std::cout << t->word << std::endl;
+			std::cout << t->pr.name << " " << t->pr.relevance << " " << t->supplier << std::endl;
 			t = t->Radr;
 		}
 	}
 	else
 	{
-		std::cout << "Spisok pust!" << std::endl;
+		std::cout << "Empty database!" << std::endl;
 	}
 }
 
@@ -100,17 +115,17 @@ void BaseWrite(elem* konc, int n)
 	{
 		while (t != NULL)
 		{
-			std::cout << t->word << std::endl;
+			std::cout << t->pr.name << " " << t->pr.relevance << " " << t->supplier << std::endl;
 			t = t->Ladr;
 		}
 	}
 	else
 	{
-		std::cout << "Spisok pust!" << std::endl;
+		std::cout << "Empty database!" << std::endl;
 	}
 }
 
-void StrSort(elem** nach)
+void RelevanceSort(elem** nach, elem** konc)
 {
 	elem* t;
 	t = new(elem);
@@ -118,63 +133,44 @@ void StrSort(elem** nach)
 	{
 		for (elem* j = *nach; j; j = j->Radr)
 		{
-			if ((i->word).length() > (j->word).length()) // Первоначально сортируем по длине
+			if ((i->pr.name) > (j->pr.name)) // Первоначально сортируем по категории продукта
 			{
-				t->word = j->word;
-				j->word = i->word;
-				i->word = t->word;
+				DataSwap(i, j);
 			}
-			// Если равная длина, то в алфавитном порядке
-			if (((i->word).length() == (j->word).length()) && ((i->word) > (j->word)))
+			// Если категория одинаковая, то смотрим релевантность
+			if (((i->pr.name) == (j->pr.name)) && ((i->pr.relevance) > (j->pr.relevance)))
 			{
-				t->word = j->word;
-				j->word = i->word;
-				i->word = t->word;
+				DataSwap(i, j);
 			}
 		}
 	}
 }
 
-int DeleteLishnee(elem** nach, elem** konc)
+void CalculatingRelevance(elem** nach)
 {
+	for (elem* i = *nach; i; i = i->Radr)
+	{
+		i->pr.relevance = i->pr.property[0] + i->pr.property[1];
+	}
+}
 
-	int d = 0;
-	elem* i = *nach;
-	elem* j = i->Radr;
-	elem* k;
-	k = new(elem);
-	if (j != NULL)
-	{
-		elem* k = j->Radr; // Если j существует, то запоминаем следующий за ним элемент
-	}
-	while (j != NULL)
-	{
-		if ((i->word) == (j->word))
-		{
-			i->Radr = j->Radr;
-			d = 1;
-			// Если за j не последний элемент в списке, то изменяем левый адрес элемента, который следует за ним
-			if (j->Radr != NULL)
-			{
-				k->Ladr = i;
-				delete j;
-				break;
-			}
-			// Если j - последний, то теперь i - последний
-			else
-			{
-				*konc = i;
-				delete j;
-				break;
-			}
-		}
-		// Делаем шаг вперёд, если это возможно (список пока не закончился)
-		i = i->Radr;
-		j = i->Radr;
-		if (j != NULL)
-		{
-			k = j->Radr;
-		}
-	}
-	return d; // Отправляем в мейн удалили ли мы что-то
+void DataSwap(elem* a, elem* b)
+{
+	elem* t;
+	t = new(elem);
+	t->supplier = a->supplier;
+	a->supplier = b->supplier;
+	b->supplier = t->supplier;
+	t->pr.name = a->pr.name;
+	a->pr.name = b->pr.name;
+	b->pr.name = t->pr.name;
+	t->pr.relevance = a->pr.relevance;
+	a->pr.relevance = b->pr.relevance;
+	b->pr.relevance = t->pr.relevance;
+	t->pr.property[0] = a->pr.property[0];
+	a->pr.property[0] = b->pr.property[0];
+	b->pr.property[0] = t->pr.property[0];
+	t->pr.property[1] = a->pr.property[1];
+	a->pr.property[1] = b->pr.property[1];
+	b->pr.property[1] = t->pr.property[1];
 }
