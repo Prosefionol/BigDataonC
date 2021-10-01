@@ -1,18 +1,3000 @@
-Postavchik2
-Pivo
-49.99 45.00
-Postavchik1
-Sukhari
-49.99 50.00
-Postavchik3
-Semga
-24.99 5.01
-Postavchik3
-Pivo
-24.99 5.01
-Postavchik1
-Grenki
-39.99 12.00
-Postavchik4
-Pivo
-112.99 12.00
+Vovchik
+Frizer
+63.35 15.06
+Alina
+Konditsioner
+14.80 43.64
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+57.06 31.51
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+99.62 4.92
+Vladimir_Vladimirovich
+Frizer
+48.28 4.38
+Kuparenkov
+Perenosnoy_holodil'nik
+39.03 1.54
+Vovan
+Ice_generator
+74.23 37.20
+Alina
+Vitrina
+54.48 17.31
+Isyanova
+Holodil'nik
+18.70 49.16
+Alina
+Konditsioner
+70.37 48.96
+Isyanova
+Perenosnoy_holodil'nik
+13.26 3.40
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+51.43 27.13
+Isyanova
+Konditsioner
+55.50 26.50
+Bazhenov
+Perenosnoy_holodil'nik
+0.40 28.62
+Isyanova
+Lari
+75.32 7.79
+Vovan
+Holodil'naya_vetrina
+21.93 18.43
+Kuparenkov
+Konditsioner
+90.41 39.44
+Vovan
+Holodil'niy_stol
+74.49 38.10
+Vovchik
+Perenosnoy_holodil'nik
+43.73 3.54
+Iluha
+Perenosnoy_holodil'nik
+43.96 35.49
+Kuparenkov
+Vitrina
+40.87 49.58
+Kuparenkov
+Vitrina
+49.67 23.78
+Alina
+Konditsioner
+69.46 24.46
+Isyanova
+Konditsioner
+55.38 15.43
+Alina
+Lari
+29.32 15.45
+Kuparenkov
+Holodil'naya_vetrina
+46.40 46.64
+Konstantin_Valer'evich
+Lari
+39.79 23.07
+Isyanova
+Lari
+50.22 37.51
+Vovchik
+Konditsioner
+62.71 8.31
+Isyanova
+Lari
+50.98 15.16
+Bazhenov
+Perenosnoy_holodil'nik
+91.62 36.40
+Alina
+Frizer
+36.58 5.78
+Alina
+Konditsioner
+73.53 11.51
+Iluha
+Ice_generator
+39.68 34.31
+Iluha
+Vitrina
+80.09 13.40
+Vovan
+Holodil'naya_vetrina
+77.56 3.86
+Vovchik
+Frizer
+22.13 47.60
+Isyanova
+Lari
+64.23 49.51
+Isyanova
+Ice_generator
+64.15 41.74
+Kuparenkov
+Holodil'naya_vetrina
+87.64 16.56
+Vovan
+Vitrina
+76.27 5.42
+Isyanova
+Lari
+75.98 40.42
+Isyanova
+Vitrina
+2.93 8.43
+Vovchik
+Holodil'niy_stol
+45.97 40.26
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+96.70 44.89
+Bazhenov
+Holodil'nik
+0.54 20.00
+Iluha
+Holodil'naya_vetrina
+69.01 37.89
+Bazhenov
+Frizer
+37.29 48.96
+Konstantin_Valer'evich
+Konditsioner
+78.09 24.22
+Kuparenkov
+Holodil'naya_vetrina
+28.16 45.16
+Alina
+Holodil'naya_vetrina
+89.37 24.55
+Alina
+Holodil'naya_vetrina
+65.21 15.63
+Bazhenov
+Holodil'nik
+62.25 10.11
+Iluha
+Holodil'naya_vetrina
+49.91 27.09
+Kuparenkov
+Konditsioner
+30.94 43.46
+Vovan
+Lari
+93.17 45.05
+Vovchik
+Holodil'nik
+34.60 16.20
+Konstantin_Valer'evich
+Vitrina
+48.00 2.85
+Vovchik
+Frizer
+80.12 21.63
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+85.40 22.95
+Alina
+Vitrina
+81.92 46.63
+Isyanova
+Frizer
+98.17 28.93
+Vovan
+Holodil'nik
+62.04 26.35
+Alina
+Lari
+3.31 26.51
+Bazhenov
+Frizer
+88.77 34.39
+Vladimir_Vladimirovich
+Holodil'nik
+38.47 14.17
+Isyanova
+Lari
+3.24 36.55
+Vovan
+Holodil'naya_vetrina
+35.58 34.82
+Bazhenov
+Frizer
+50.76 7.15
+Alina
+Frizer
+10.06 18.75
+Vovchik
+Holodil'nik
+34.03 47.91
+Kuparenkov
+Ice_generator
+50.03 5.88
+Alina
+Ice_generator
+70.91 14.33
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+98.33 9.39
+Isyanova
+Lari
+57.24 21.93
+Vovchik
+Holodil'nik
+23.69 36.98
+Vovchik
+Ice_generator
+34.35 15.53
+Vladimir_Vladimirovich
+Frizer
+1.49 30.64
+Bazhenov
+Holodil'nik
+61.41 24.26
+Vladimir_Vladimirovich
+Holodil'niy_stol
+66.89 25.32
+Vovan
+Holodil'niy_stol
+98.68 29.52
+Vovan
+Holodil'naya_vetrina
+32.98 4.21
+Alina
+Holodil'niy_stol
+44.91 12.86
+Alina
+Lari
+81.16 17.04
+Vovchik
+Ice_generator
+57.87 22.66
+Isyanova
+Konditsioner
+11.89 0.58
+Iluha
+Frizer
+18.33 9.50
+Isyanova
+Holodil'nik
+83.24 45.62
+Iluha
+Konditsioner
+4.82 41.45
+Iluha
+Frizer
+71.30 21.62
+Kuparenkov
+Holodil'naya_vetrina
+11.75 4.69
+Isyanova
+Vitrina
+62.95 14.45
+Kuparenkov
+Frizer
+61.57 45.16
+Isyanova
+Lari
+31.88 33.15
+Bazhenov
+Vitrina
+21.69 40.21
+Vovan
+Vitrina
+79.60 23.93
+Vovchik
+Ice_generator
+64.80 44.15
+Alina
+Lari
+93.37 8.80
+Kuparenkov
+Frizer
+18.35 30.76
+Alina
+Konditsioner
+75.19 31.79
+Vladimir_Vladimirovich
+Vitrina
+17.64 26.69
+Isyanova
+Frizer
+31.03 34.82
+Alina
+Holodil'niy_stol
+48.03 41.00
+Alina
+Perenosnoy_holodil'nik
+15.44 19.25
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+30.63 41.84
+Vladimir_Vladimirovich
+Holodil'nik
+75.07 25.99
+Kuparenkov
+Frizer
+84.93 1.43
+Vovchik
+Holodil'naya_vetrina
+30.66 29.02
+Alina
+Frizer
+24.16 9.81
+Vovchik
+Konditsioner
+2.36 8.40
+Bazhenov
+Holodil'naya_vetrina
+88.98 46.68
+Vovan
+Holodil'niy_stol
+1.41 36.97
+Vovan
+Perenosnoy_holodil'nik
+80.22 21.26
+Alina
+Holodil'niy_stol
+26.61 13.08
+Bazhenov
+Holodil'naya_vetrina
+46.79 25.98
+Bazhenov
+Vitrina
+10.19 34.70
+Vovchik
+Holodil'niy_stol
+28.01 30.91
+Bazhenov
+Holodil'nik
+90.11 47.58
+Vovan
+Holodil'naya_vetrina
+95.77 2.34
+Bazhenov
+Perenosnoy_holodil'nik
+71.65 1.11
+Vladimir_Vladimirovich
+Holodil'niy_stol
+95.68 34.88
+Iluha
+Holodil'naya_vetrina
+26.26 6.33
+Vovan
+Vitrina
+54.26 35.26
+Alina
+Holodil'niy_stol
+1.24 46.01
+Isyanova
+Holodil'niy_stol
+1.97 25.32
+Vovan
+Ice_generator
+62.03 31.18
+Alina
+Holodil'niy_stol
+90.14 7.78
+Iluha
+Vitrina
+11.56 15.25
+Kuparenkov
+Holodil'naya_vetrina
+1.92 17.68
+Alina
+Ice_generator
+86.64 38.32
+Iluha
+Konditsioner
+89.60 25.82
+Vovan
+Holodil'naya_vetrina
+14.79 12.01
+Iluha
+Holodil'niy_stol
+23.04 27.63
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+64.78 1.10
+Alina
+Konditsioner
+98.03 28.55
+Konstantin_Valer'evich
+Holodil'nik
+29.95 23.90
+Bazhenov
+Perenosnoy_holodil'nik
+11.15 37.10
+Bazhenov
+Konditsioner
+60.73 43.56
+Vovan
+Holodil'niy_stol
+5.59 32.21
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+85.27 33.60
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+38.72 43.67
+Alina
+Frizer
+96.20 1.15
+Kuparenkov
+Lari
+15.87 40.46
+Konstantin_Valer'evich
+Holodil'nik
+42.32 45.66
+Vladimir_Vladimirovich
+Holodil'niy_stol
+22.99 48.61
+Isyanova
+Perenosnoy_holodil'nik
+35.85 47.40
+Iluha
+Ice_generator
+14.60 43.72
+Vovchik
+Holodil'naya_vetrina
+26.08 24.84
+Isyanova
+Ice_generator
+0.69 28.53
+Vovan
+Vitrina
+22.24 21.47
+Iluha
+Holodil'niy_stol
+27.44 1.80
+Iluha
+Vitrina
+32.22 28.74
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+52.07 17.90
+Kuparenkov
+Konditsioner
+22.82 27.06
+Vladimir_Vladimirovich
+Frizer
+16.38 15.40
+Iluha
+Holodil'niy_stol
+1.78 7.11
+Vovchik
+Holodil'nik
+58.83 3.01
+Vovan
+Holodil'nik
+98.57 48.60
+Isyanova
+Vitrina
+76.14 8.84
+Iluha
+Frizer
+17.53 34.47
+Kuparenkov
+Konditsioner
+0.42 43.15
+Isyanova
+Holodil'naya_vetrina
+28.20 6.11
+Kuparenkov
+Konditsioner
+81.15 7.02
+Isyanova
+Frizer
+0.43 14.94
+Isyanova
+Konditsioner
+94.99 25.90
+Vladimir_Vladimirovich
+Ice_generator
+93.55 43.18
+Iluha
+Konditsioner
+20.47 12.61
+Isyanova
+Holodil'naya_vetrina
+11.94 26.07
+Bazhenov
+Holodil'niy_stol
+85.06 38.30
+Konstantin_Valer'evich
+Ice_generator
+92.95 9.99
+Alina
+Holodil'nik
+55.64 16.34
+Vovchik
+Lari
+61.32 12.47
+Iluha
+Vitrina
+6.04 10.79
+Bazhenov
+Ice_generator
+82.14 39.97
+Iluha
+Lari
+33.95 7.63
+Konstantin_Valer'evich
+Holodil'niy_stol
+80.30 40.85
+Vovan
+Lari
+55.00 49.75
+Vovchik
+Perenosnoy_holodil'nik
+26.08 5.04
+Alina
+Konditsioner
+57.07 23.64
+Bazhenov
+Holodil'niy_stol
+74.92 32.44
+Vovchik
+Holodil'nik
+76.20 9.18
+Vovan
+Frizer
+18.22 42.34
+Iluha
+Vitrina
+49.76 15.40
+Konstantin_Valer'evich
+Konditsioner
+11.01 12.50
+Iluha
+Holodil'niy_stol
+29.72 28.68
+Alina
+Vitrina
+15.48 37.18
+Vovchik
+Lari
+17.70 2.66
+Vovchik
+Frizer
+82.92 9.48
+Iluha
+Holodil'nik
+32.48 5.14
+Vovan
+Perenosnoy_holodil'nik
+96.02 33.29
+Kuparenkov
+Konditsioner
+71.55 0.93
+Vovan
+Holodil'nik
+99.04 21.07
+Vovchik
+Frizer
+16.02 19.75
+Isyanova
+Lari
+0.29 15.48
+Iluha
+Holodil'nik
+29.44 26.40
+Alina
+Lari
+50.50 46.82
+Vovan
+Holodil'naya_vetrina
+6.09 20.67
+Alina
+Lari
+99.57 8.93
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+79.50 28.46
+Bazhenov
+Perenosnoy_holodil'nik
+7.49 20.73
+Kuparenkov
+Holodil'naya_vetrina
+80.37 22.33
+Isyanova
+Holodil'nik
+98.54 6.35
+Bazhenov
+Ice_generator
+99.25 33.60
+Bazhenov
+Ice_generator
+49.45 49.58
+Alina
+Holodil'naya_vetrina
+54.14 10.30
+Konstantin_Valer'evich
+Vitrina
+25.52 44.98
+Alina
+Holodil'naya_vetrina
+79.66 33.47
+Isyanova
+Lari
+61.44 12.03
+Konstantin_Valer'evich
+Ice_generator
+4.29 46.09
+Bazhenov
+Lari
+24.08 17.07
+Vladimir_Vladimirovich
+Holodil'niy_stol
+93.77 1.00
+Vovchik
+Ice_generator
+47.38 41.47
+Vladimir_Vladimirovich
+Holodil'nik
+82.57 16.54
+Vovchik
+Holodil'niy_stol
+4.85 13.56
+Kuparenkov
+Perenosnoy_holodil'nik
+82.32 28.45
+Kuparenkov
+Holodil'niy_stol
+26.41 41.87
+Vladimir_Vladimirovich
+Lari
+56.63 16.39
+Iluha
+Lari
+14.19 34.55
+Vovan
+Frizer
+22.36 4.56
+Vovan
+Holodil'naya_vetrina
+63.06 42.59
+Vovan
+Holodil'nik
+23.19 42.14
+Bazhenov
+Ice_generator
+92.03 10.85
+Konstantin_Valer'evich
+Konditsioner
+40.53 41.60
+Vovchik
+Holodil'nik
+19.05 36.77
+Konstantin_Valer'evich
+Frizer
+49.04 35.62
+Vovan
+Holodil'nik
+12.83 36.56
+Isyanova
+Perenosnoy_holodil'nik
+54.03 19.25
+Konstantin_Valer'evich
+Konditsioner
+38.79 2.64
+Kuparenkov
+Holodil'naya_vetrina
+39.74 0.10
+Iluha
+Ice_generator
+65.07 23.95
+Konstantin_Valer'evich
+Vitrina
+66.99 5.91
+Vovchik
+Ice_generator
+90.39 14.12
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+25.10 49.63
+Alina
+Holodil'niy_stol
+15.16 2.75
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+0.59 47.03
+Iluha
+Holodil'naya_vetrina
+51.19 12.19
+Iluha
+Lari
+83.32 30.40
+Alina
+Holodil'naya_vetrina
+80.85 19.55
+Isyanova
+Konditsioner
+44.87 47.79
+Bazhenov
+Ice_generator
+59.54 15.43
+Vladimir_Vladimirovich
+Vitrina
+71.12 9.04
+Konstantin_Valer'evich
+Vitrina
+39.80 31.36
+Vovan
+Perenosnoy_holodil'nik
+61.16 0.11
+Alina
+Holodil'niy_stol
+17.24 13.68
+Bazhenov
+Holodil'naya_vetrina
+47.81 22.02
+Vovan
+Holodil'niy_stol
+19.77 10.72
+Isyanova
+Ice_generator
+61.56 42.98
+Isyanova
+Frizer
+96.77 6.33
+Iluha
+Perenosnoy_holodil'nik
+33.10 46.94
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+1.18 22.52
+Kuparenkov
+Ice_generator
+66.82 28.66
+Kuparenkov
+Frizer
+88.27 18.18
+Bazhenov
+Perenosnoy_holodil'nik
+86.69 40.93
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+13.41 6.88
+Kuparenkov
+Ice_generator
+47.23 10.66
+Vovchik
+Lari
+79.04 48.79
+Konstantin_Valer'evich
+Konditsioner
+27.49 17.69
+Bazhenov
+Holodil'nik
+48.07 22.71
+Iluha
+Holodil'niy_stol
+19.11 43.12
+Kuparenkov
+Holodil'niy_stol
+11.39 16.36
+Iluha
+Ice_generator
+40.85 35.61
+Vovchik
+Frizer
+99.99 41.58
+Bazhenov
+Konditsioner
+47.10 2.49
+Iluha
+Vitrina
+51.32 1.21
+Vovchik
+Holodil'naya_vetrina
+47.25 47.10
+Isyanova
+Frizer
+52.72 24.81
+Vovan
+Frizer
+79.21 8.69
+Bazhenov
+Frizer
+84.89 12.01
+Bazhenov
+Holodil'naya_vetrina
+21.60 20.25
+Iluha
+Vitrina
+30.39 39.26
+Kuparenkov
+Konditsioner
+66.03 8.14
+Iluha
+Holodil'naya_vetrina
+92.95 46.03
+Konstantin_Valer'evich
+Holodil'nik
+83.54 4.53
+Vovan
+Holodil'nik
+83.18 45.76
+Vovchik
+Holodil'nik
+23.39 34.01
+Alina
+Ice_generator
+58.31 38.54
+Vovchik
+Holodil'naya_vetrina
+44.50 19.29
+Bazhenov
+Holodil'niy_stol
+45.23 9.43
+Vovan
+Holodil'nik
+51.65 16.56
+Isyanova
+Holodil'nik
+23.64 17.61
+Kuparenkov
+Ice_generator
+87.15 19.52
+Isyanova
+Lari
+86.39 26.69
+Kuparenkov
+Frizer
+15.23 4.76
+Kuparenkov
+Frizer
+32.36 25.73
+Vovchik
+Vitrina
+95.59 39.68
+Vovan
+Vitrina
+25.51 24.73
+Konstantin_Valer'evich
+Holodil'nik
+83.53 43.36
+Isyanova
+Holodil'naya_vetrina
+97.39 13.40
+Vovan
+Holodil'nik
+23.95 26.38
+Konstantin_Valer'evich
+Lari
+15.95 49.53
+Bazhenov
+Lari
+33.39 0.07
+Isyanova
+Holodil'niy_stol
+86.67 49.72
+Iluha
+Holodil'niy_stol
+92.83 20.87
+Alina
+Holodil'niy_stol
+86.55 31.96
+Iluha
+Lari
+83.99 25.74
+Iluha
+Perenosnoy_holodil'nik
+91.77 38.23
+Vladimir_Vladimirovich
+Holodil'niy_stol
+19.42 2.94
+Vovan
+Lari
+38.06 25.87
+Vladimir_Vladimirovich
+Holodil'niy_stol
+16.16 26.10
+Iluha
+Holodil'niy_stol
+68.95 10.78
+Kuparenkov
+Perenosnoy_holodil'nik
+96.97 45.75
+Bazhenov
+Lari
+11.76 29.72
+Vladimir_Vladimirovich
+Lari
+62.71 44.30
+Vladimir_Vladimirovich
+Holodil'nik
+7.78 37.81
+Vovan
+Frizer
+41.83 3.97
+Konstantin_Valer'evich
+Holodil'niy_stol
+8.75 13.65
+Vladimir_Vladimirovich
+Holodil'niy_stol
+44.61 4.75
+Konstantin_Valer'evich
+Konditsioner
+61.25 5.53
+Vovan
+Perenosnoy_holodil'nik
+56.08 2.02
+Kuparenkov
+Lari
+63.45 7.55
+Konstantin_Valer'evich
+Holodil'niy_stol
+16.74 34.44
+Kuparenkov
+Frizer
+97.63 9.69
+Kuparenkov
+Vitrina
+19.09 22.27
+Vovchik
+Konditsioner
+52.05 44.92
+Alina
+Holodil'niy_stol
+59.46 18.12
+Iluha
+Ice_generator
+13.69 26.96
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+5.60 9.81
+Kuparenkov
+Frizer
+82.85 12.28
+Kuparenkov
+Holodil'nik
+85.86 19.54
+Konstantin_Valer'evich
+Holodil'nik
+20.21 47.79
+Vovan
+Ice_generator
+21.86 38.61
+Vovchik
+Perenosnoy_holodil'nik
+43.25 14.88
+Iluha
+Lari
+16.45 25.36
+Alina
+Perenosnoy_holodil'nik
+10.72 19.96
+Iluha
+Ice_generator
+68.30 27.29
+Vovchik
+Holodil'niy_stol
+6.99 26.16
+Bazhenov
+Holodil'naya_vetrina
+14.10 5.47
+Vovan
+Lari
+2.42 42.42
+Bazhenov
+Konditsioner
+25.04 38.52
+Kuparenkov
+Vitrina
+36.53 31.55
+Vovchik
+Vitrina
+58.71 6.82
+Konstantin_Valer'evich
+Frizer
+77.15 47.97
+Vovan
+Holodil'naya_vetrina
+9.75 28.35
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+51.78 38.80
+Iluha
+Holodil'nik
+43.66 13.82
+Iluha
+Lari
+22.38 30.25
+Vovan
+Frizer
+1.72 23.28
+Kuparenkov
+Frizer
+81.85 10.61
+Konstantin_Valer'evich
+Konditsioner
+16.71 25.35
+Alina
+Frizer
+72.14 48.62
+Vladimir_Vladimirovich
+Konditsioner
+27.43 36.12
+Alina
+Holodil'nik
+84.36 8.43
+Kuparenkov
+Holodil'naya_vetrina
+48.69 48.70
+Iluha
+Holodil'nik
+92.58 27.55
+Iluha
+Holodil'niy_stol
+84.61 26.62
+Alina
+Vitrina
+8.10 2.83
+Vovan
+Holodil'niy_stol
+63.66 20.82
+Alina
+Holodil'nik
+78.34 33.62
+Bazhenov
+Holodil'naya_vetrina
+89.29 44.98
+Vovan
+Frizer
+67.67 17.36
+Bazhenov
+Ice_generator
+18.39 18.97
+Vovchik
+Holodil'naya_vetrina
+93.55 13.72
+Vovchik
+Vitrina
+66.09 42.54
+Bazhenov
+Frizer
+95.36 22.10
+Konstantin_Valer'evich
+Vitrina
+32.46 26.55
+Bazhenov
+Lari
+1.90 11.04
+Iluha
+Lari
+95.24 48.55
+Iluha
+Holodil'niy_stol
+98.94 22.06
+Kuparenkov
+Holodil'nik
+57.00 49.20
+Vovchik
+Perenosnoy_holodil'nik
+29.33 25.51
+Bazhenov
+Vitrina
+9.00 25.30
+Vovchik
+Lari
+74.93 11.95
+Bazhenov
+Holodil'nik
+15.61 8.38
+Vovan
+Perenosnoy_holodil'nik
+27.86 35.33
+Vovan
+Holodil'niy_stol
+87.94 33.95
+Vladimir_Vladimirovich
+Holodil'niy_stol
+15.81 19.85
+Isyanova
+Ice_generator
+0.74 1.98
+Kuparenkov
+Vitrina
+38.28 12.83
+Alina
+Lari
+35.80 11.62
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+1.60 34.50
+Kuparenkov
+Holodil'nik
+3.82 20.14
+Vovan
+Holodil'naya_vetrina
+64.78 35.07
+Vladimir_Vladimirovich
+Holodil'nik
+41.98 20.77
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+90.21 37.67
+Vovan
+Holodil'naya_vetrina
+11.67 16.87
+Kuparenkov
+Perenosnoy_holodil'nik
+54.55 27.42
+Vovan
+Holodil'nik
+28.63 3.99
+Vladimir_Vladimirovich
+Vitrina
+9.06 26.00
+Iluha
+Holodil'nik
+91.99 20.38
+Vovchik
+Holodil'niy_stol
+72.41 35.18
+Vovchik
+Lari
+2.42 38.86
+Vovan
+Holodil'niy_stol
+17.62 21.08
+Isyanova
+Holodil'niy_stol
+72.97 49.18
+Kuparenkov
+Frizer
+35.81 0.64
+Bazhenov
+Perenosnoy_holodil'nik
+40.09 37.34
+Konstantin_Valer'evich
+Ice_generator
+26.79 46.81
+Konstantin_Valer'evich
+Konditsioner
+17.86 5.69
+Konstantin_Valer'evich
+Holodil'nik
+61.73 12.46
+Vovan
+Frizer
+1.70 0.57
+Vovan
+Perenosnoy_holodil'nik
+89.23 17.50
+Alina
+Perenosnoy_holodil'nik
+21.45 14.50
+Vovchik
+Lari
+46.31 49.22
+Konstantin_Valer'evich
+Vitrina
+54.71 29.17
+Bazhenov
+Lari
+90.92 48.17
+Iluha
+Konditsioner
+6.43 10.58
+Isyanova
+Konditsioner
+94.88 12.33
+Bazhenov
+Frizer
+31.86 33.96
+Iluha
+Vitrina
+30.66 20.71
+Isyanova
+Holodil'nik
+25.80 10.83
+Iluha
+Konditsioner
+46.12 19.54
+Konstantin_Valer'evich
+Frizer
+99.78 34.92
+Kuparenkov
+Holodil'naya_vetrina
+33.34 38.68
+Isyanova
+Holodil'naya_vetrina
+70.10 24.38
+Vovan
+Vitrina
+85.25 48.83
+Vovan
+Konditsioner
+72.32 21.88
+Kuparenkov
+Frizer
+63.22 15.40
+Vovan
+Ice_generator
+42.11 46.48
+Bazhenov
+Konditsioner
+1.93 4.29
+Kuparenkov
+Frizer
+34.56 20.29
+Vovan
+Holodil'nik
+92.56 17.80
+Bazhenov
+Holodil'naya_vetrina
+8.63 24.36
+Iluha
+Frizer
+41.99 21.11
+Vovan
+Frizer
+72.98 12.87
+Isyanova
+Holodil'naya_vetrina
+59.49 21.30
+Iluha
+Holodil'nik
+13.78 17.75
+Konstantin_Valer'evich
+Vitrina
+20.76 42.55
+Bazhenov
+Perenosnoy_holodil'nik
+16.44 38.94
+Alina
+Holodil'naya_vetrina
+47.48 36.86
+Kuparenkov
+Konditsioner
+64.51 48.04
+Vovan
+Perenosnoy_holodil'nik
+8.58 13.69
+Bazhenov
+Ice_generator
+15.65 32.50
+Isyanova
+Vitrina
+15.51 43.58
+Isyanova
+Lari
+27.00 31.14
+Vovan
+Vitrina
+71.73 25.30
+Kuparenkov
+Perenosnoy_holodil'nik
+34.78 43.82
+Iluha
+Ice_generator
+66.73 38.07
+Alina
+Frizer
+39.90 43.22
+Alina
+Vitrina
+96.59 12.96
+Vladimir_Vladimirovich
+Konditsioner
+69.50 22.07
+Kuparenkov
+Holodil'niy_stol
+33.97 17.01
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+55.31 47.91
+Vovan
+Holodil'naya_vetrina
+19.71 39.84
+Alina
+Konditsioner
+66.28 36.85
+Konstantin_Valer'evich
+Vitrina
+59.31 21.00
+Isyanova
+Holodil'nik
+52.01 17.88
+Vovchik
+Holodil'naya_vetrina
+24.22 7.15
+Bazhenov
+Holodil'nik
+74.18 10.87
+Iluha
+Ice_generator
+13.32 22.69
+Alina
+Ice_generator
+31.89 45.10
+Vovan
+Ice_generator
+80.77 14.37
+Konstantin_Valer'evich
+Holodil'niy_stol
+2.70 46.94
+Vovan
+Holodil'niy_stol
+13.15 26.08
+Vovchik
+Konditsioner
+77.69 40.28
+Kuparenkov
+Vitrina
+5.43 25.41
+Vovchik
+Holodil'niy_stol
+73.56 32.92
+Iluha
+Holodil'niy_stol
+30.95 15.88
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+4.96 32.19
+Konstantin_Valer'evich
+Holodil'niy_stol
+94.50 6.69
+Vladimir_Vladimirovich
+Holodil'nik
+50.86 40.99
+Vladimir_Vladimirovich
+Frizer
+39.65 17.86
+Iluha
+Perenosnoy_holodil'nik
+36.57 33.44
+Iluha
+Frizer
+60.82 48.71
+Kuparenkov
+Perenosnoy_holodil'nik
+9.71 32.52
+Kuparenkov
+Konditsioner
+87.71 20.44
+Vovan
+Holodil'nik
+37.82 6.68
+Bazhenov
+Holodil'niy_stol
+79.39 20.96
+Isyanova
+Lari
+77.21 18.41
+Iluha
+Lari
+84.57 7.27
+Iluha
+Holodil'niy_stol
+35.61 41.58
+Vovan
+Lari
+79.06 4.43
+Vovan
+Ice_generator
+28.88 19.67
+Isyanova
+Holodil'nik
+7.99 12.09
+Vovchik
+Holodil'nik
+53.41 20.79
+Vovan
+Holodil'naya_vetrina
+77.41 35.48
+Alina
+Vitrina
+90.99 38.82
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+34.03 7.08
+Vovchik
+Holodil'naya_vetrina
+41.42 35.93
+Vladimir_Vladimirovich
+Vitrina
+83.18 44.00
+Vladimir_Vladimirovich
+Konditsioner
+20.15 31.40
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+50.46 7.43
+Iluha
+Lari
+45.15 42.50
+Alina
+Frizer
+37.20 47.16
+Bazhenov
+Perenosnoy_holodil'nik
+33.36 27.62
+Bazhenov
+Ice_generator
+53.04 26.45
+Bazhenov
+Ice_generator
+91.08 47.96
+Vovan
+Vitrina
+36.53 37.55
+Iluha
+Ice_generator
+59.89 20.44
+Kuparenkov
+Holodil'niy_stol
+14.22 8.18
+Iluha
+Holodil'niy_stol
+10.67 22.31
+Konstantin_Valer'evich
+Holodil'nik
+47.70 4.77
+Isyanova
+Vitrina
+15.95 14.92
+Alina
+Holodil'nik
+13.26 15.42
+Isyanova
+Vitrina
+25.92 47.15
+Iluha
+Frizer
+92.24 34.76
+Vovchik
+Holodil'nik
+39.58 49.79
+Isyanova
+Holodil'naya_vetrina
+32.64 1.40
+Konstantin_Valer'evich
+Ice_generator
+90.36 20.89
+Isyanova
+Perenosnoy_holodil'nik
+59.95 47.93
+Vovchik
+Holodil'naya_vetrina
+10.03 41.09
+Alina
+Perenosnoy_holodil'nik
+26.70 31.35
+Bazhenov
+Frizer
+30.00 35.46
+Vladimir_Vladimirovich
+Ice_generator
+88.39 48.47
+Bazhenov
+Holodil'niy_stol
+10.31 42.70
+Bazhenov
+Frizer
+34.92 26.06
+Isyanova
+Frizer
+11.99 36.97
+Vladimir_Vladimirovich
+Vitrina
+93.04 23.68
+Alina
+Konditsioner
+74.23 34.50
+Vladimir_Vladimirovich
+Holodil'nik
+67.43 0.26
+Konstantin_Valer'evich
+Holodil'nik
+30.18 30.57
+Kuparenkov
+Frizer
+52.81 48.86
+Konstantin_Valer'evich
+Holodil'nik
+38.23 27.14
+Alina
+Perenosnoy_holodil'nik
+1.45 22.95
+Bazhenov
+Perenosnoy_holodil'nik
+46.07 46.24
+Vovan
+Frizer
+17.27 19.88
+Alina
+Perenosnoy_holodil'nik
+82.26 5.99
+Konstantin_Valer'evich
+Holodil'nik
+49.88 44.51
+Vovan
+Lari
+57.51 4.94
+Vovchik
+Lari
+81.38 47.00
+Vladimir_Vladimirovich
+Lari
+32.27 19.09
+Vladimir_Vladimirovich
+Lari
+19.24 23.78
+Konstantin_Valer'evich
+Lari
+67.35 45.63
+Konstantin_Valer'evich
+Lari
+81.85 20.77
+Vovchik
+Ice_generator
+67.42 4.39
+Konstantin_Valer'evich
+Frizer
+22.81 32.87
+Iluha
+Holodil'naya_vetrina
+41.28 41.23
+Isyanova
+Konditsioner
+21.23 5.82
+Kuparenkov
+Perenosnoy_holodil'nik
+5.59 28.00
+Vovan
+Holodil'niy_stol
+87.94 34.33
+Iluha
+Frizer
+48.77 9.09
+Vladimir_Vladimirovich
+Lari
+87.20 17.96
+Bazhenov
+Frizer
+33.52 33.31
+Kuparenkov
+Perenosnoy_holodil'nik
+30.75 35.92
+Iluha
+Konditsioner
+14.94 32.40
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+70.65 6.84
+Bazhenov
+Vitrina
+41.79 34.83
+Iluha
+Konditsioner
+24.72 40.01
+Vovchik
+Vitrina
+95.18 26.27
+Vovchik
+Holodil'niy_stol
+57.24 38.43
+Konstantin_Valer'evich
+Frizer
+44.02 39.80
+Isyanova
+Perenosnoy_holodil'nik
+69.46 48.39
+Vovchik
+Vitrina
+27.03 37.09
+Kuparenkov
+Holodil'niy_stol
+6.89 33.48
+Konstantin_Valer'evich
+Holodil'niy_stol
+84.15 14.03
+Bazhenov
+Konditsioner
+31.64 39.37
+Isyanova
+Perenosnoy_holodil'nik
+98.79 13.85
+Vladimir_Vladimirovich
+Holodil'nik
+67.08 38.77
+Alina
+Holodil'niy_stol
+21.99 25.71
+Vladimir_Vladimirovich
+Frizer
+85.90 28.13
+Iluha
+Frizer
+24.29 18.73
+Vovan
+Lari
+30.65 15.52
+Bazhenov
+Ice_generator
+91.00 0.29
+Kuparenkov
+Holodil'nik
+0.52 10.56
+Vovan
+Vitrina
+94.59 9.73
+Vovchik
+Holodil'nik
+15.33 49.68
+Alina
+Konditsioner
+5.58 25.33
+Vovan
+Ice_generator
+5.95 18.09
+Vovan
+Perenosnoy_holodil'nik
+74.51 23.22
+Alina
+Perenosnoy_holodil'nik
+93.86 1.36
+Isyanova
+Holodil'nik
+35.72 33.04
+Alina
+Holodil'nik
+35.86 22.58
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+4.92 1.06
+Vladimir_Vladimirovich
+Ice_generator
+7.24 42.76
+Kuparenkov
+Holodil'nik
+3.42 16.46
+Isyanova
+Lari
+23.53 46.60
+Isyanova
+Lari
+26.87 39.94
+Iluha
+Ice_generator
+44.23 18.99
+Konstantin_Valer'evich
+Frizer
+23.63 17.46
+Kuparenkov
+Holodil'naya_vetrina
+31.91 1.83
+Bazhenov
+Konditsioner
+39.44 18.48
+Alina
+Konditsioner
+43.81 19.20
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+0.64 3.91
+Iluha
+Holodil'nik
+94.63 27.10
+Vovan
+Frizer
+51.55 35.30
+Vladimir_Vladimirovich
+Ice_generator
+91.51 37.31
+Iluha
+Frizer
+30.51 41.21
+Alina
+Holodil'naya_vetrina
+95.54 37.79
+Isyanova
+Holodil'niy_stol
+67.48 25.13
+Bazhenov
+Ice_generator
+5.00 21.05
+Bazhenov
+Holodil'naya_vetrina
+80.56 30.46
+Vovchik
+Holodil'naya_vetrina
+15.64 8.40
+Vovan
+Lari
+72.41 19.16
+Konstantin_Valer'evich
+Frizer
+85.83 4.81
+Vovan
+Vitrina
+91.80 2.22
+Alina
+Konditsioner
+68.01 21.86
+Kuparenkov
+Holodil'nik
+28.84 16.63
+Isyanova
+Holodil'naya_vetrina
+94.22 47.74
+Vovchik
+Lari
+58.44 26.89
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+17.21 18.93
+Kuparenkov
+Frizer
+17.51 0.66
+Iluha
+Holodil'naya_vetrina
+56.22 10.85
+Vovchik
+Perenosnoy_holodil'nik
+30.30 36.35
+Kuparenkov
+Holodil'niy_stol
+86.32 41.76
+Bazhenov
+Frizer
+22.97 4.34
+Alina
+Holodil'niy_stol
+66.13 11.83
+Iluha
+Holodil'nik
+64.60 6.48
+Bazhenov
+Lari
+70.40 38.98
+Vovan
+Perenosnoy_holodil'nik
+29.95 37.88
+Bazhenov
+Konditsioner
+82.91 46.66
+Vovchik
+Holodil'nik
+11.55 34.27
+Vladimir_Vladimirovich
+Holodil'niy_stol
+66.41 37.09
+Vovan
+Vitrina
+36.64 26.64
+Isyanova
+Konditsioner
+26.55 27.72
+Alina
+Konditsioner
+72.11 14.98
+Vovan
+Holodil'nik
+80.60 34.23
+Vovan
+Frizer
+67.90 32.72
+Iluha
+Holodil'nik
+25.06 49.84
+Vovchik
+Frizer
+5.31 24.62
+Vovan
+Ice_generator
+75.41 38.32
+Konstantin_Valer'evich
+Lari
+44.00 37.61
+Alina
+Holodil'naya_vetrina
+4.83 6.21
+Bazhenov
+Ice_generator
+85.99 41.65
+Konstantin_Valer'evich
+Frizer
+76.71 5.43
+Isyanova
+Holodil'nik
+49.20 13.75
+Isyanova
+Konditsioner
+37.60 4.37
+Alina
+Holodil'niy_stol
+7.27 24.02
+Bazhenov
+Perenosnoy_holodil'nik
+3.95 5.55
+Iluha
+Holodil'nik
+61.95 29.36
+Vovchik
+Lari
+36.91 32.17
+Vovchik
+Frizer
+26.31 25.00
+Alina
+Holodil'naya_vetrina
+38.80 16.50
+Vladimir_Vladimirovich
+Ice_generator
+6.70 8.82
+Isyanova
+Perenosnoy_holodil'nik
+54.39 46.04
+Alina
+Lari
+17.32 31.58
+Bazhenov
+Perenosnoy_holodil'nik
+93.86 39.72
+Vladimir_Vladimirovich
+Frizer
+67.06 48.72
+Isyanova
+Vitrina
+82.26 36.88
+Iluha
+Vitrina
+0.50 24.76
+Vladimir_Vladimirovich
+Holodil'niy_stol
+98.16 10.94
+Kuparenkov
+Konditsioner
+16.05 6.02
+Vovan
+Holodil'niy_stol
+5.07 1.60
+Iluha
+Lari
+78.12 28.93
+Alina
+Holodil'niy_stol
+38.19 43.66
+Isyanova
+Frizer
+50.92 25.04
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+68.41 25.73
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+86.44 49.92
+Isyanova
+Holodil'niy_stol
+81.88 0.88
+Vladimir_Vladimirovich
+Frizer
+12.54 36.90
+Iluha
+Vitrina
+81.31 5.08
+Vovan
+Konditsioner
+64.27 35.66
+Isyanova
+Holodil'niy_stol
+8.89 44.31
+Vovan
+Holodil'nik
+64.79 8.86
+Vovan
+Ice_generator
+12.64 0.47
+Konstantin_Valer'evich
+Ice_generator
+38.57 25.21
+Iluha
+Vitrina
+51.37 22.57
+Vovan
+Ice_generator
+63.36 10.06
+Bazhenov
+Holodil'niy_stol
+59.75 25.92
+Vladimir_Vladimirovich
+Holodil'nik
+20.84 9.38
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+18.26 37.22
+Bazhenov
+Vitrina
+30.39 49.99
+Vovchik
+Ice_generator
+17.18 36.94
+Kuparenkov
+Lari
+9.48 41.07
+Kuparenkov
+Holodil'niy_stol
+8.40 8.64
+Iluha
+Frizer
+33.95 22.03
+Vladimir_Vladimirovich
+Ice_generator
+6.76 18.67
+Vovchik
+Lari
+24.81 12.41
+Vovchik
+Vitrina
+96.11 42.07
+Iluha
+Vitrina
+1.37 14.02
+Konstantin_Valer'evich
+Holodil'niy_stol
+1.72 7.41
+Bazhenov
+Holodil'naya_vetrina
+11.41 37.25
+Vladimir_Vladimirovich
+Ice_generator
+16.78 15.80
+Bazhenov
+Ice_generator
+77.03 29.63
+Alina
+Holodil'nik
+84.50 1.01
+Kuparenkov
+Holodil'niy_stol
+51.39 45.09
+Vladimir_Vladimirovich
+Frizer
+29.45 2.66
+Isyanova
+Holodil'naya_vetrina
+46.46 26.72
+Iluha
+Holodil'naya_vetrina
+98.60 30.46
+Alina
+Konditsioner
+16.24 19.17
+Alina
+Konditsioner
+8.42 47.16
+Isyanova
+Frizer
+49.59 27.65
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+50.94 42.46
+Iluha
+Konditsioner
+52.28 18.01
+Konstantin_Valer'evich
+Konditsioner
+22.76 31.37
+Vladimir_Vladimirovich
+Frizer
+21.72 18.64
+Vovan
+Frizer
+19.11 48.81
+Isyanova
+Holodil'niy_stol
+94.03 30.29
+Kuparenkov
+Holodil'naya_vetrina
+94.13 7.69
+Vladimir_Vladimirovich
+Frizer
+6.79 37.87
+Isyanova
+Lari
+98.35 8.94
+Kuparenkov
+Holodil'niy_stol
+77.37 1.96
+Vovan
+Ice_generator
+20.89 20.25
+Konstantin_Valer'evich
+Holodil'niy_stol
+26.00 13.81
+Alina
+Vitrina
+81.10 29.30
+Bazhenov
+Holodil'niy_stol
+63.67 41.04
+Alina
+Holodil'nik
+8.21 43.21
+Vovan
+Frizer
+63.41 25.57
+Vovchik
+Perenosnoy_holodil'nik
+14.81 18.20
+Alina
+Lari
+80.77 0.26
+Kuparenkov
+Ice_generator
+19.89 24.43
+Vovan
+Ice_generator
+90.04 13.25
+Alina
+Vitrina
+70.57 35.13
+Vladimir_Vladimirovich
+Vitrina
+97.63 15.35
+Vovan
+Frizer
+63.88 1.45
+Vovchik
+Ice_generator
+21.64 16.27
+Vovchik
+Holodil'naya_vetrina
+11.88 1.14
+Vovan
+Konditsioner
+59.35 4.20
+Alina
+Ice_generator
+50.15 34.17
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+87.40 33.73
+Konstantin_Valer'evich
+Frizer
+80.08 25.88
+Vladimir_Vladimirovich
+Ice_generator
+44.91 49.63
+Konstantin_Valer'evich
+Frizer
+70.15 4.19
+Vovchik
+Holodil'nik
+70.94 34.74
+Vovan
+Perenosnoy_holodil'nik
+35.45 23.75
+Isyanova
+Lari
+52.77 15.33
+Bazhenov
+Perenosnoy_holodil'nik
+54.70 25.10
+Vovchik
+Ice_generator
+78.95 24.52
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+25.73 35.22
+Vovchik
+Ice_generator
+24.97 45.07
+Kuparenkov
+Ice_generator
+42.64 14.14
+Vovchik
+Holodil'naya_vetrina
+43.61 4.73
+Isyanova
+Frizer
+99.50 15.17
+Konstantin_Valer'evich
+Ice_generator
+4.90 17.68
+Vovan
+Holodil'naya_vetrina
+66.35 24.72
+Alina
+Holodil'naya_vetrina
+85.23 22.85
+Konstantin_Valer'evich
+Lari
+47.08 20.97
+Alina
+Perenosnoy_holodil'nik
+16.91 46.30
+Konstantin_Valer'evich
+Lari
+20.48 23.59
+Vovchik
+Holodil'nik
+31.55 4.73
+Vladimir_Vladimirovich
+Holodil'niy_stol
+69.22 6.37
+Konstantin_Valer'evich
+Holodil'nik
+57.79 11.03
+Vovchik
+Lari
+30.55 40.12
+Alina
+Perenosnoy_holodil'nik
+97.23 48.46
+Kuparenkov
+Konditsioner
+62.63 9.54
+Vovchik
+Konditsioner
+87.19 30.48
+Isyanova
+Perenosnoy_holodil'nik
+66.28 21.21
+Isyanova
+Konditsioner
+41.73 17.98
+Kuparenkov
+Holodil'naya_vetrina
+88.68 46.96
+Bazhenov
+Perenosnoy_holodil'nik
+30.02 22.15
+Vovan
+Holodil'nik
+54.79 13.81
+Alina
+Lari
+37.90 3.62
+Kuparenkov
+Konditsioner
+14.36 1.48
+Vovchik
+Lari
+45.06 29.49
+Isyanova
+Holodil'niy_stol
+21.59 14.31
+Isyanova
+Holodil'naya_vetrina
+40.75 43.47
+Vovan
+Konditsioner
+53.21 16.17
+Isyanova
+Vitrina
+38.33 21.29
+Alina
+Frizer
+14.65 23.36
+Vovan
+Frizer
+72.93 34.02
+Vovan
+Perenosnoy_holodil'nik
+23.18 49.18
+Isyanova
+Konditsioner
+59.37 18.72
+Alina
+Ice_generator
+79.12 39.76
+Alina
+Konditsioner
+65.72 18.18
+Isyanova
+Vitrina
+53.86 34.08
+Bazhenov
+Lari
+86.84 5.71
+Iluha
+Lari
+36.88 31.74
+Iluha
+Perenosnoy_holodil'nik
+27.68 12.40
+Vovchik
+Holodil'niy_stol
+61.18 45.93
+Vovchik
+Vitrina
+14.06 0.54
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+27.43 25.35
+Vovan
+Holodil'naya_vetrina
+57.93 33.80
+Kuparenkov
+Frizer
+16.07 44.90
+Isyanova
+Frizer
+83.89 16.16
+Vladimir_Vladimirovich
+Holodil'nik
+82.61 9.29
+Isyanova
+Lari
+14.82 27.21
+Kuparenkov
+Lari
+68.55 14.61
+Vovan
+Vitrina
+8.10 48.55
+Vovan
+Frizer
+61.63 22.97
+Iluha
+Frizer
+1.47 42.30
+Vovan
+Perenosnoy_holodil'nik
+5.61 22.46
+Kuparenkov
+Frizer
+63.68 20.36
+Kuparenkov
+Holodil'naya_vetrina
+53.32 22.68
+Kuparenkov
+Lari
+89.83 21.67
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+19.81 18.98
+Iluha
+Holodil'niy_stol
+44.71 7.90
+Alina
+Ice_generator
+72.67 36.37
+Kuparenkov
+Vitrina
+23.18 11.40
+Vovan
+Holodil'nik
+22.60 25.94
+Vovchik
+Lari
+64.68 29.56
+Vovchik
+Perenosnoy_holodil'nik
+29.39 1.76
+Bazhenov
+Holodil'niy_stol
+95.52 26.96
+Bazhenov
+Holodil'naya_vetrina
+12.95 2.42
+Alina
+Konditsioner
+52.99 17.15
+Vladimir_Vladimirovich
+Lari
+58.10 37.92
+Bazhenov
+Lari
+81.83 35.75
+Kuparenkov
+Perenosnoy_holodil'nik
+62.93 49.65
+Iluha
+Frizer
+68.10 31.97
+Isyanova
+Ice_generator
+70.12 39.17
+Konstantin_Valer'evich
+Frizer
+62.06 40.01
+Vovchik
+Frizer
+69.49 49.15
+Vovan
+Perenosnoy_holodil'nik
+66.27 25.16
+Vladimir_Vladimirovich
+Vitrina
+11.28 46.36
+Vladimir_Vladimirovich
+Frizer
+51.29 25.83
+Iluha
+Holodil'nik
+1.44 1.04
+Vovchik
+Perenosnoy_holodil'nik
+14.79 31.55
+Kuparenkov
+Vitrina
+58.32 13.00
+Kuparenkov
+Frizer
+79.24 29.28
+Iluha
+Ice_generator
+62.13 17.57
+Konstantin_Valer'evich
+Holodil'niy_stol
+32.94 13.26
+Vovan
+Vitrina
+4.45 10.07
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+92.71 24.54
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+36.42 39.36
+Vovan
+Lari
+88.37 42.51
+Kuparenkov
+Konditsioner
+27.98 3.15
+Alina
+Vitrina
+7.35 39.92
+Isyanova
+Holodil'niy_stol
+42.50 45.62
+Bazhenov
+Vitrina
+71.85 23.03
+Kuparenkov
+Perenosnoy_holodil'nik
+33.35 40.48
+Iluha
+Lari
+10.08 40.54
+Vovchik
+Frizer
+17.40 48.05
+Iluha
+Konditsioner
+4.42 33.81
+Iluha
+Ice_generator
+36.60 13.64
+Bazhenov
+Holodil'naya_vetrina
+10.89 38.60
+Kuparenkov
+Holodil'niy_stol
+85.71 6.67
+Isyanova
+Konditsioner
+78.40 34.03
+Iluha
+Holodil'nik
+17.24 28.73
+Kuparenkov
+Holodil'naya_vetrina
+11.55 9.52
+Vovchik
+Perenosnoy_holodil'nik
+45.09 29.13
+Vovchik
+Ice_generator
+76.66 17.87
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+48.31 22.62
+Iluha
+Konditsioner
+80.25 7.74
+Konstantin_Valer'evich
+Lari
+18.09 36.89
+Iluha
+Perenosnoy_holodil'nik
+18.43 8.34
+Vladimir_Vladimirovich
+Frizer
+9.70 39.99
+Bazhenov
+Ice_generator
+3.49 32.85
+Vovchik
+Holodil'naya_vetrina
+99.13 8.75
+Kuparenkov
+Perenosnoy_holodil'nik
+23.08 6.38
+Vovan
+Frizer
+95.30 21.39
+Kuparenkov
+Lari
+82.36 39.96
+Isyanova
+Ice_generator
+89.45 30.15
+Vovan
+Holodil'naya_vetrina
+45.14 45.98
+Alina
+Holodil'niy_stol
+32.37 2.61
+Isyanova
+Holodil'naya_vetrina
+51.92 44.46
+Vovchik
+Vitrina
+27.23 14.90
+Vovan
+Holodil'niy_stol
+4.39 32.27
+Vovchik
+Holodil'nik
+88.68 36.29
+Kuparenkov
+Holodil'niy_stol
+26.90 15.93
+Isyanova
+Lari
+28.53 37.63
+Isyanova
+Lari
+26.81 24.04
+Vladimir_Vladimirovich
+Holodil'nik
+58.13 2.27
+Isyanova
+Holodil'niy_stol
+10.19 16.21
+Vovan
+Holodil'nik
+83.71 16.48
+Vovchik
+Vitrina
+13.26 33.19
+Konstantin_Valer'evich
+Konditsioner
+46.21 34.61
+Kuparenkov
+Vitrina
+10.89 21.01
+Vladimir_Vladimirovich
+Ice_generator
+15.26 29.14
+Alina
+Konditsioner
+63.61 18.53
+Vladimir_Vladimirovich
+Holodil'nik
+38.74 43.28
+Isyanova
+Ice_generator
+19.00 24.75
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+46.42 6.48
+Alina
+Ice_generator
+68.26 29.33
+Bazhenov
+Vitrina
+25.96 29.95
+Iluha
+Holodil'naya_vetrina
+46.41 0.85
+Konstantin_Valer'evich
+Frizer
+25.36 48.61
+Vovchik
+Holodil'naya_vetrina
+26.25 26.98
+Iluha
+Vitrina
+77.18 4.08
+Bazhenov
+Konditsioner
+6.41 40.17
+Konstantin_Valer'evich
+Ice_generator
+99.80 7.51
+Konstantin_Valer'evich
+Vitrina
+64.47 6.57
+Vladimir_Vladimirovich
+Frizer
+20.38 15.54
+Vladimir_Vladimirovich
+Ice_generator
+60.63 39.05
+Vovchik
+Lari
+68.89 14.09
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+17.30 12.68
+Vladimir_Vladimirovich
+Lari
+99.93 31.70
+Isyanova
+Ice_generator
+70.95 31.88
+Alina
+Ice_generator
+68.68 33.05
+Alina
+Frizer
+12.02 33.29
+Iluha
+Lari
+17.69 47.74
+Bazhenov
+Perenosnoy_holodil'nik
+12.64 7.23
+Vovan
+Holodil'nik
+96.26 12.24
+Vladimir_Vladimirovich
+Lari
+9.86 4.62
+Kuparenkov
+Holodil'niy_stol
+56.96 25.06
+Bazhenov
+Holodil'nik
+15.38 18.20
+Isyanova
+Ice_generator
+12.20 42.95
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+19.22 15.90
+Kuparenkov
+Holodil'niy_stol
+12.73 12.54
+Vovchik
+Lari
+4.25 31.73
+Isyanova
+Vitrina
+19.97 3.85
+Iluha
+Lari
+8.94 8.82
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+4.85 29.44
+Isyanova
+Holodil'nik
+12.94 38.98
+Iluha
+Konditsioner
+13.01 48.93
+Konstantin_Valer'evich
+Holodil'niy_stol
+15.50 37.77
+Alina
+Holodil'niy_stol
+40.72 42.24
+Kuparenkov
+Lari
+52.40 49.15
+Vovan
+Konditsioner
+65.09 1.55
+Iluha
+Vitrina
+62.32 19.27
+Alina
+Holodil'naya_vetrina
+23.70 14.23
+Iluha
+Frizer
+96.48 49.83
+Vovan
+Holodil'naya_vetrina
+77.25 9.07
+Vovan
+Konditsioner
+11.58 3.52
+Iluha
+Holodil'naya_vetrina
+71.19 15.57
+Kuparenkov
+Konditsioner
+5.93 34.09
+Bazhenov
+Konditsioner
+46.53 8.86
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+77.42 12.48
+Vladimir_Vladimirovich
+Frizer
+17.08 45.19
+Iluha
+Holodil'naya_vetrina
+86.25 22.08
+Konstantin_Valer'evich
+Holodil'niy_stol
+62.28 5.56
+Vovan
+Lari
+94.70 17.01
+Konstantin_Valer'evich
+Holodil'nik
+24.91 7.61
+Alina
+Holodil'niy_stol
+84.13 21.36
+Alina
+Frizer
+19.52 31.17
+Vladimir_Vladimirovich
+Konditsioner
+76.73 8.42
+Vladimir_Vladimirovich
+Holodil'nik
+39.78 6.73
+Vovan
+Holodil'nik
+17.52 4.04
+Vovchik
+Lari
+4.36 16.97
+Konstantin_Valer'evich
+Perenosnoy_holodil'nik
+67.17 3.34
+Alina
+Holodil'niy_stol
+18.40 23.02
+Iluha
+Perenosnoy_holodil'nik
+10.57 28.29
+Vovchik
+Konditsioner
+45.91 20.24
+Vovchik
+Vitrina
+97.80 26.31
+Bazhenov
+Konditsioner
+25.51 12.81
+Konstantin_Valer'evich
+Holodil'nik
+40.64 4.29
+Iluha
+Lari
+90.94 40.48
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+74.07 36.86
+Iluha
+Holodil'naya_vetrina
+47.11 29.62
+Isyanova
+Perenosnoy_holodil'nik
+34.67 10.20
+Alina
+Holodil'nik
+83.37 1.92
+Vladimir_Vladimirovich
+Vitrina
+10.08 28.88
+Konstantin_Valer'evich
+Holodil'nik
+31.45 23.81
+Vovchik
+Holodil'naya_vetrina
+65.58 24.87
+Alina
+Perenosnoy_holodil'nik
+77.57 2.90
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+20.10 13.17
+Vovan
+Ice_generator
+29.98 47.09
+Iluha
+Ice_generator
+82.38 4.88
+Vladimir_Vladimirovich
+Lari
+96.16 26.19
+Vladimir_Vladimirovich
+Vitrina
+53.53 11.33
+Bazhenov
+Holodil'naya_vetrina
+66.02 18.71
+Vovan
+Holodil'niy_stol
+89.69 17.11
+Alina
+Konditsioner
+26.42 27.38
+Alina
+Holodil'naya_vetrina
+25.03 27.08
+Vladimir_Vladimirovich
+Frizer
+92.59 46.96
+Alina
+Holodil'nik
+50.14 38.13
+Konstantin_Valer'evich
+Lari
+16.64 6.18
+Vovan
+Holodil'naya_vetrina
+27.75 1.37
+Vovan
+Lari
+88.81 22.87
+Bazhenov
+Ice_generator
+80.77 3.53
+Vovan
+Holodil'naya_vetrina
+6.28 27.98
+Konstantin_Valer'evich
+Holodil'niy_stol
+40.56 39.17
+Iluha
+Holodil'naya_vetrina
+0.87 41.65
+Kuparenkov
+Ice_generator
+93.99 18.25
+Vovan
+Ice_generator
+39.19 40.07
+Alina
+Lari
+75.08 42.42
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+82.93 18.99
+Vovan
+Holodil'nik
+10.85 5.93
+Vovchik
+Vitrina
+98.58 48.33
+Isyanova
+Frizer
+44.30 48.01
+Vladimir_Vladimirovich
+Holodil'niy_stol
+55.07 17.69
+Vovan
+Konditsioner
+85.08 41.51
+Kuparenkov
+Konditsioner
+98.56 44.71
+Alina
+Ice_generator
+42.12 4.96
+Isyanova
+Holodil'niy_stol
+10.40 30.66
+Iluha
+Lari
+50.16 17.33
+Vladimir_Vladimirovich
+Vitrina
+19.12 28.47
+Konstantin_Valer'evich
+Holodil'nik
+90.35 29.17
+Vovan
+Holodil'niy_stol
+6.69 13.45
+Iluha
+Vitrina
+54.17 8.95
+Vovchik
+Holodil'naya_vetrina
+8.46 27.82
+Vladimir_Vladimirovich
+Konditsioner
+45.92 2.88
+Isyanova
+Holodil'nik
+56.71 0.09
+Kuparenkov
+Vitrina
+45.43 2.26
+Isyanova
+Konditsioner
+7.17 4.77
+Iluha
+Konditsioner
+3.31 29.42
+Iluha
+Frizer
+75.24 13.70
+Vladimir_Vladimirovich
+Holodil'naya_vetrina
+2.51 15.07
+Isyanova
+Holodil'niy_stol
+61.43 26.71
+Kuparenkov
+Lari
+90.89 32.61
+Konstantin_Valer'evich
+Holodil'niy_stol
+58.58 26.83
+Konstantin_Valer'evich
+Holodil'naya_vetrina
+41.57 1.97
+Alina
+Perenosnoy_holodil'nik
+8.62 9.99
+Vladimir_Vladimirovich
+Lari
+39.68 17.08
+Alina
+Holodil'niy_stol
+14.64 44.06
+Vovan
+Perenosnoy_holodil'nik
+90.97 9.13
+Vladimir_Vladimirovich
+Holodil'nik
+45.87 2.81
+Bazhenov
+Konditsioner
+68.80 23.08
+Alina
+Perenosnoy_holodil'nik
+31.65 23.59
+Alina
+Frizer
+43.15 1.47
+Bazhenov
+Konditsioner
+82.02 6.50
+Vovan
+Ice_generator
+26.48 9.41
+Alina
+Holodil'naya_vetrina
+74.54 9.80
+Isyanova
+Frizer
+40.10 22.89
+Vovan
+Ice_generator
+56.77 36.17
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+86.45 13.43
+Kuparenkov
+Vitrina
+15.04 10.40
+Iluha
+Konditsioner
+14.37 34.75
+Bazhenov
+Konditsioner
+47.99 42.03
+Isyanova
+Vitrina
+50.34 0.70
+Konstantin_Valer'evich
+Holodil'nik
+55.81 40.25
+Alina
+Ice_generator
+13.17 3.85
+Isyanova
+Lari
+84.91 3.23
+Kuparenkov
+Vitrina
+82.61 8.56
+Konstantin_Valer'evich
+Holodil'nik
+43.65 20.44
+Konstantin_Valer'evich
+Ice_generator
+17.62 35.06
+Vladimir_Vladimirovich
+Vitrina
+50.60 27.20
+Bazhenov
+Ice_generator
+85.25 45.46
+Vovan
+Vitrina
+10.53 5.66
+Bazhenov
+Lari
+33.12 9.72
+Vladimir_Vladimirovich
+Frizer
+72.27 32.26
+Vovchik
+Holodil'nik
+66.49 18.10
+Konstantin_Valer'evich
+Holodil'nik
+14.45 38.74
+Vladimir_Vladimirovich
+Lari
+91.78 1.39
+Vovchik
+Konditsioner
+57.46 30.22
+Bazhenov
+Perenosnoy_holodil'nik
+92.54 8.47
+Bazhenov
+Holodil'nik
+69.67 5.85
+Alina
+Holodil'naya_vetrina
+93.37 3.00
+Vovchik
+Ice_generator
+12.06 20.19
+Vladimir_Vladimirovich
+Perenosnoy_holodil'nik
+34.67 11.95
+Vladimir_Vladimirovich
+Holodil'niy_stol
+37.03 2.22
+Kuparenkov
+Frizer
+46.26 20.68
+Vovchik
+Vitrina
+15.06 26.68
+Vovchik
+Perenosnoy_holodil'nik
+76.34 47.95
+Vladimir_Vladimirovich
+Lari
+60.04 31.55
+Vovchik
+Konditsioner
+91.56 11.89
+Isyanova
+Holodil'naya_vetrina
+4.07 43.51
+Alina
+Frizer
+43.38 47.96
+Bazhenov
+Konditsioner
+55.33 38.62
+Isyanova
+Perenosnoy_holodil'nik
+77.78 6.94
+Konstantin_Valer'evich
+Frizer
+37.97 38.55
+Vladimir_Vladimirovich
+Frizer
+0.38 43.67
+Vladimir_Vladimirovich
+Lari
+87.30 25.35
+Isyanova
+Holodil'naya_vetrina
+68.08 19.37
+Konstantin_Valer'evich
+Frizer
+16.20 41.88

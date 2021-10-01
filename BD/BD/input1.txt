@@ -1,0 +1,18 @@
+Postavchik2
+Pivo
+49.99 45.00
+Postavchik1
+Sukhari
+49.99 50.00
+Postavchik3
+Semga
+24.99 5.01
+Postavchik3
+Pivo
+24.99 5.01
+Postavchik1
+Grenki
+39.99 12.00
+Postavchik4
+Pivo
+112.99 12.00
