@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\BigDataonC\BigDataonC\DB\DB\Source.cpp(22,2): warning C4091: typedef : пропускается слева от "elem", когда ни одна переменная не объявлена
+D:\BigDataonC\BigDataonC\DB\DB\Source.cpp(35,6): warning C4101: i: неиспользованная локальная переменная
+  DB.vcxproj -> D:\BigDataonC\BigDataonC\DB\x64\Debug\DB.exe

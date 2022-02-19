@@ -1,0 +1,3000 @@
+Postavchik_C
+Frizer
+63.35 15.06
+Postavchik_C
+Konditsioner
+14.80 43.64
+Postavchik_B
+Holodil'naya_vetrina
+57.06 31.51
+Postavchik_B
+Perenosnoy_holodil'nik
+99.62 4.92
+Postavchik_B
+Frizer
+48.28 4.38
+Postavchik_A
+Perenosnoy_holodil'nik
+39.03 1.54
+Postavchik_B
+Ice_generator
+74.23 37.20
+Postavchik_C
+Vitrina
+54.48 17.31
+Postavchik_C
+Holodil'nik
+18.70 49.16
+Postavchik_C
+Konditsioner
+70.37 48.96
+Postavchik_C
+Perenosnoy_holodil'nik
+13.26 3.40
+Postavchik_A
+Holodil'naya_vetrina
+51.43 27.13
+Postavchik_C
+Konditsioner
+55.50 26.50
+Postavchik_B
+Perenosnoy_holodil'nik
+0.40 28.62
+Postavchik_C
+Lari
+75.32 7.79
+Postavchik_B
+Holodil'naya_vetrina
+21.93 18.43
+Postavchik_A
+Konditsioner
+90.41 39.44
+Postavchik_B
+Holodil'niy_stol
+74.49 38.10
+Postavchik_C
+Perenosnoy_holodil'nik
+43.73 3.54
+Postavchik_A
+Perenosnoy_holodil'nik
+43.96 35.49
+Postavchik_A
+Vitrina
+40.87 49.58
+Postavchik_A
+Vitrina
+49.67 23.78
+Postavchik_C
+Konditsioner
+69.46 24.46
+Postavchik_C
+Konditsioner
+55.38 15.43
+Postavchik_C
+Lari
+29.32 15.45
+Postavchik_A
+Holodil'naya_vetrina
+46.40 46.64
+Postavchik_A
+Lari
+39.79 23.07
+Postavchik_C
+Lari
+50.22 37.51
+Postavchik_C
+Konditsioner
+62.71 8.31
+Postavchik_C
+Lari
+50.98 15.16
+Postavchik_B
+Perenosnoy_holodil'nik
+91.62 36.40
+Postavchik_C
+Frizer
+36.58 5.78
+Postavchik_C
+Konditsioner
+73.53 11.51
+Postavchik_A
+Ice_generator
+39.68 34.31
+Postavchik_A
+Vitrina
+80.09 13.40
+Postavchik_B
+Holodil'naya_vetrina
+77.56 3.86
+Postavchik_C
+Frizer
+22.13 47.60
+Postavchik_C
+Lari
+64.23 49.51
+Postavchik_C
+Ice_generator
+64.15 41.74
+Postavchik_A
+Holodil'naya_vetrina
+87.64 16.56
+Postavchik_B
+Vitrina
+76.27 5.42
+Postavchik_C
+Lari
+75.98 40.42
+Postavchik_C
+Vitrina
+2.93 8.43
+Postavchik_C
+Holodil'niy_stol
+45.97 40.26
+Postavchik_A
+Perenosnoy_holodil'nik
+96.70 44.89
+Postavchik_B
+Holodil'nik
+0.54 20.00
+Postavchik_A
+Holodil'naya_vetrina
+69.01 37.89
+Postavchik_B
+Frizer
+37.29 48.96
+Postavchik_A
+Konditsioner
+78.09 24.22
+Postavchik_A
+Holodil'naya_vetrina
+28.16 45.16
+Postavchik_C
+Holodil'naya_vetrina
+89.37 24.55
+Postavchik_C
+Holodil'naya_vetrina
+65.21 15.63
+Postavchik_B
+Holodil'nik
+62.25 10.11
+Postavchik_A
+Holodil'naya_vetrina
+49.91 27.09
+Postavchik_A
+Konditsioner
+30.94 43.46
+Postavchik_B
+Lari
+93.17 45.05
+Postavchik_C
+Holodil'nik
+34.60 16.20
+Postavchik_A
+Vitrina
+48.00 2.85
+Postavchik_C
+Frizer
+80.12 21.63
+Postavchik_A
+Perenosnoy_holodil'nik
+85.40 22.95
+Postavchik_C
+Vitrina
+81.92 46.63
+Postavchik_C
+Frizer
+98.17 28.93
+Postavchik_B
+Holodil'nik
+62.04 26.35
+Postavchik_C
+Lari
+3.31 26.51
+Postavchik_B
+Frizer
+88.77 34.39
+Postavchik_B
+Holodil'nik
+38.47 14.17
+Postavchik_C
+Lari
+3.24 36.55
+Postavchik_B
+Holodil'naya_vetrina
+35.58 34.82
+Postavchik_B
+Frizer
+50.76 7.15
+Postavchik_C
+Frizer
+10.06 18.75
+Postavchik_C
+Holodil'nik
+34.03 47.91
+Postavchik_A
+Ice_generator
+50.03 5.88
+Postavchik_C
+Ice_generator
+70.91 14.33
+Postavchik_A
+Perenosnoy_holodil'nik
+98.33 9.39
+Postavchik_C
+Lari
+57.24 21.93
+Postavchik_C
+Holodil'nik
+23.69 36.98
+Postavchik_C
+Ice_generator
+34.35 15.53
+Postavchik_B
+Frizer
+1.49 30.64
+Postavchik_B
+Holodil'nik
+61.41 24.26
+Postavchik_B
+Holodil'niy_stol
+66.89 25.32
+Postavchik_B
+Holodil'niy_stol
+98.68 29.52
+Postavchik_B
+Holodil'naya_vetrina
+32.98 4.21
+Postavchik_C
+Holodil'niy_stol
+44.91 12.86
+Postavchik_C
+Lari
+81.16 17.04
+Postavchik_C
+Ice_generator
+57.87 22.66
+Postavchik_C
+Konditsioner
+11.89 0.58
+Postavchik_A
+Frizer
+18.33 9.50
+Postavchik_C
+Holodil'nik
+83.24 45.62
+Postavchik_A
+Konditsioner
+4.82 41.45
+Postavchik_A
+Frizer
+71.30 21.62
+Postavchik_A
+Holodil'naya_vetrina
+11.75 4.69
+Postavchik_C
+Vitrina
+62.95 14.45
+Postavchik_A
+Frizer
+61.57 45.16
+Postavchik_C
+Lari
+31.88 33.15
+Postavchik_B
+Vitrina
+21.69 40.21
+Postavchik_B
+Vitrina
+79.60 23.93
+Postavchik_C
+Ice_generator
+64.80 44.15
+Postavchik_C
+Lari
+93.37 8.80
+Postavchik_A
+Frizer
+18.35 30.76
+Postavchik_C
+Konditsioner
+75.19 31.79
+Postavchik_B
+Vitrina
+17.64 26.69
+Postavchik_C
+Frizer
+31.03 34.82
+Postavchik_C
+Holodil'niy_stol
+48.03 41.00
+Postavchik_C
+Perenosnoy_holodil'nik
+15.44 19.25
+Postavchik_B
+Holodil'naya_vetrina
+30.63 41.84
+Postavchik_B
+Holodil'nik
+75.07 25.99
+Postavchik_A
+Frizer
+84.93 1.43
+Postavchik_C
+Holodil'naya_vetrina
+30.66 29.02
+Postavchik_C
+Frizer
+24.16 9.81
+Postavchik_C
+Konditsioner
+2.36 8.40
+Postavchik_B
+Holodil'naya_vetrina
+88.98 46.68
+Postavchik_B
+Holodil'niy_stol
+1.41 36.97
+Postavchik_B
+Perenosnoy_holodil'nik
+80.22 21.26
+Postavchik_C
+Holodil'niy_stol
+26.61 13.08
+Postavchik_B
+Holodil'naya_vetrina
+46.79 25.98
+Postavchik_B
+Vitrina
+10.19 34.70
+Postavchik_C
+Holodil'niy_stol
+28.01 30.91
+Postavchik_B
+Holodil'nik
+90.11 47.58
+Postavchik_B
+Holodil'naya_vetrina
+95.77 2.34
+Postavchik_B
+Perenosnoy_holodil'nik
+71.65 1.11
+Postavchik_B
+Holodil'niy_stol
+95.68 34.88
+Postavchik_A
+Holodil'naya_vetrina
+26.26 6.33
+Postavchik_B
+Vitrina
+54.26 35.26
+Postavchik_C
+Holodil'niy_stol
+1.24 46.01
+Postavchik_C
+Holodil'niy_stol
+1.97 25.32
+Postavchik_B
+Ice_generator
+62.03 31.18
+Postavchik_C
+Holodil'niy_stol
+90.14 7.78
+Postavchik_A
+Vitrina
+11.56 15.25
+Postavchik_A
+Holodil'naya_vetrina
+1.92 17.68
+Postavchik_C
+Ice_generator
+86.64 38.32
+Postavchik_A
+Konditsioner
+89.60 25.82
+Postavchik_B
+Holodil'naya_vetrina
+14.79 12.01
+Postavchik_A
+Holodil'niy_stol
+23.04 27.63
+Postavchik_B
+Holodil'naya_vetrina
+64.78 1.10
+Postavchik_C
+Konditsioner
+98.03 28.55
+Postavchik_A
+Holodil'nik
+29.95 23.90
+Postavchik_B
+Perenosnoy_holodil'nik
+11.15 37.10
+Postavchik_B
+Konditsioner
+60.73 43.56
+Postavchik_B
+Holodil'niy_stol
+5.59 32.21
+Postavchik_A
+Perenosnoy_holodil'nik
+85.27 33.60
+Postavchik_A
+Perenosnoy_holodil'nik
+38.72 43.67
+Postavchik_C
+Frizer
+96.20 1.15
+Postavchik_A
+Lari
+15.87 40.46
+Postavchik_A
+Holodil'nik
+42.32 45.66
+Postavchik_B
+Holodil'niy_stol
+22.99 48.61
+Postavchik_C
+Perenosnoy_holodil'nik
+35.85 47.40
+Postavchik_A
+Ice_generator
+14.60 43.72
+Postavchik_C
+Holodil'naya_vetrina
+26.08 24.84
+Postavchik_C
+Ice_generator
+0.69 28.53
+Postavchik_B
+Vitrina
+22.24 21.47
+Postavchik_A
+Holodil'niy_stol
+27.44 1.80
+Postavchik_A
+Vitrina
+32.22 28.74
+Postavchik_A
+Holodil'naya_vetrina
+52.07 17.90
+Postavchik_A
+Konditsioner
+22.82 27.06
+Postavchik_B
+Frizer
+16.38 15.40
+Postavchik_A
+Holodil'niy_stol
+1.78 7.11
+Postavchik_C
+Holodil'nik
+58.83 3.01
+Postavchik_B
+Holodil'nik
+98.57 48.60
+Postavchik_C
+Vitrina
+76.14 8.84
+Postavchik_A
+Frizer
+17.53 34.47
+Postavchik_A
+Konditsioner
+0.42 43.15
+Postavchik_C
+Holodil'naya_vetrina
+28.20 6.11
+Postavchik_A
+Konditsioner
+81.15 7.02
+Postavchik_C
+Frizer
+0.43 14.94
+Postavchik_C
+Konditsioner
+94.99 25.90
+Postavchik_B
+Ice_generator
+93.55 43.18
+Postavchik_A
+Konditsioner
+20.47 12.61
+Postavchik_C
+Holodil'naya_vetrina
+11.94 26.07
+Postavchik_B
+Holodil'niy_stol
+85.06 38.30
+Postavchik_A
+Ice_generator
+92.95 9.99
+Postavchik_C
+Holodil'nik
+55.64 16.34
+Postavchik_C
+Lari
+61.32 12.47
+Postavchik_A
+Vitrina
+6.04 10.79
+Postavchik_B
+Ice_generator
+82.14 39.97
+Postavchik_A
+Lari
+33.95 7.63
+Postavchik_A
+Holodil'niy_stol
+80.30 40.85
+Postavchik_B
+Lari
+55.00 49.75
+Postavchik_C
+Perenosnoy_holodil'nik
+26.08 5.04
+Postavchik_C
+Konditsioner
+57.07 23.64
+Postavchik_B
+Holodil'niy_stol
+74.92 32.44
+Postavchik_C
+Holodil'nik
+76.20 9.18
+Postavchik_B
+Frizer
+18.22 42.34
+Postavchik_A
+Vitrina
+49.76 15.40
+Postavchik_A
+Konditsioner
+11.01 12.50
+Postavchik_A
+Holodil'niy_stol
+29.72 28.68
+Postavchik_C
+Vitrina
+15.48 37.18
+Postavchik_C
+Lari
+17.70 2.66
+Postavchik_C
+Frizer
+82.92 9.48
+Postavchik_A
+Holodil'nik
+32.48 5.14
+Postavchik_B
+Perenosnoy_holodil'nik
+96.02 33.29
+Postavchik_A
+Konditsioner
+71.55 0.93
+Postavchik_B
+Holodil'nik
+99.04 21.07
+Postavchik_C
+Frizer
+16.02 19.75
+Postavchik_C
+Lari
+0.29 15.48
+Postavchik_A
+Holodil'nik
+29.44 26.40
+Postavchik_C
+Lari
+50.50 46.82
+Postavchik_B
+Holodil'naya_vetrina
+6.09 20.67
+Postavchik_C
+Lari
+99.57 8.93
+Postavchik_B
+Perenosnoy_holodil'nik
+79.50 28.46
+Postavchik_B
+Perenosnoy_holodil'nik
+7.49 20.73
+Postavchik_A
+Holodil'naya_vetrina
+80.37 22.33
+Postavchik_C
+Holodil'nik
+98.54 6.35
+Postavchik_B
+Ice_generator
+99.25 33.60
+Postavchik_B
+Ice_generator
+49.45 49.58
+Postavchik_C
+Holodil'naya_vetrina
+54.14 10.30
+Postavchik_A
+Vitrina
+25.52 44.98
+Postavchik_C
+Holodil'naya_vetrina
+79.66 33.47
+Postavchik_C
+Lari
+61.44 12.03
+Postavchik_A
+Ice_generator
+4.29 46.09
+Postavchik_B
+Lari
+24.08 17.07
+Postavchik_B
+Holodil'niy_stol
+93.77 1.00
+Postavchik_C
+Ice_generator
+47.38 41.47
+Postavchik_B
+Holodil'nik
+82.57 16.54
+Postavchik_C
+Holodil'niy_stol
+4.85 13.56
+Postavchik_A
+Perenosnoy_holodil'nik
+82.32 28.45
+Postavchik_A
+Holodil'niy_stol
+26.41 41.87
+Postavchik_B
+Lari
+56.63 16.39
+Postavchik_A
+Lari
+14.19 34.55
+Postavchik_B
+Frizer
+22.36 4.56
+Postavchik_B
+Holodil'naya_vetrina
+63.06 42.59
+Postavchik_B
+Holodil'nik
+23.19 42.14
+Postavchik_B
+Ice_generator
+92.03 10.85
+Postavchik_A
+Konditsioner
+40.53 41.60
+Postavchik_C
+Holodil'nik
+19.05 36.77
+Postavchik_A
+Frizer
+49.04 35.62
+Postavchik_B
+Holodil'nik
+12.83 36.56
+Postavchik_C
+Perenosnoy_holodil'nik
+54.03 19.25
+Postavchik_A
+Konditsioner
+38.79 2.64
+Postavchik_A
+Holodil'naya_vetrina
+39.74 0.10
+Postavchik_A
+Ice_generator
+65.07 23.95
+Postavchik_A
+Vitrina
+66.99 5.91
+Postavchik_C
+Ice_generator
+90.39 14.12
+Postavchik_A
+Perenosnoy_holodil'nik
+25.10 49.63
+Postavchik_C
+Holodil'niy_stol
+15.16 2.75
+Postavchik_B
+Perenosnoy_holodil'nik
+0.59 47.03
+Postavchik_A
+Holodil'naya_vetrina
+51.19 12.19
+Postavchik_A
+Lari
+83.32 30.40
+Postavchik_C
+Holodil'naya_vetrina
+80.85 19.55
+Postavchik_C
+Konditsioner
+44.87 47.79
+Postavchik_B
+Ice_generator
+59.54 15.43
+Postavchik_B
+Vitrina
+71.12 9.04
+Postavchik_A
+Vitrina
+39.80 31.36
+Postavchik_B
+Perenosnoy_holodil'nik
+61.16 0.11
+Postavchik_C
+Holodil'niy_stol
+17.24 13.68
+Postavchik_B
+Holodil'naya_vetrina
+47.81 22.02
+Postavchik_B
+Holodil'niy_stol
+19.77 10.72
+Postavchik_C
+Ice_generator
+61.56 42.98
+Postavchik_C
+Frizer
+96.77 6.33
+Postavchik_A
+Perenosnoy_holodil'nik
+33.10 46.94
+Postavchik_A
+Holodil'naya_vetrina
+1.18 22.52
+Postavchik_A
+Ice_generator
+66.82 28.66
+Postavchik_A
+Frizer
+88.27 18.18
+Postavchik_B
+Perenosnoy_holodil'nik
+86.69 40.93
+Postavchik_A
+Holodil'naya_vetrina
+13.41 6.88
+Postavchik_A
+Ice_generator
+47.23 10.66
+Postavchik_C
+Lari
+79.04 48.79
+Postavchik_A
+Konditsioner
+27.49 17.69
+Postavchik_B
+Holodil'nik
+48.07 22.71
+Postavchik_A
+Holodil'niy_stol
+19.11 43.12
+Postavchik_A
+Holodil'niy_stol
+11.39 16.36
+Postavchik_A
+Ice_generator
+40.85 35.61
+Postavchik_C
+Frizer
+99.99 41.58
+Postavchik_B
+Konditsioner
+47.10 2.49
+Postavchik_A
+Vitrina
+51.32 1.21
+Postavchik_C
+Holodil'naya_vetrina
+47.25 47.10
+Postavchik_C
+Frizer
+52.72 24.81
+Postavchik_B
+Frizer
+79.21 8.69
+Postavchik_B
+Frizer
+84.89 12.01
+Postavchik_B
+Holodil'naya_vetrina
+21.60 20.25
+Postavchik_A
+Vitrina
+30.39 39.26
+Postavchik_A
+Konditsioner
+66.03 8.14
+Postavchik_A
+Holodil'naya_vetrina
+92.95 46.03
+Postavchik_A
+Holodil'nik
+83.54 4.53
+Postavchik_B
+Holodil'nik
+83.18 45.76
+Postavchik_C
+Holodil'nik
+23.39 34.01
+Postavchik_C
+Ice_generator
+58.31 38.54
+Postavchik_C
+Holodil'naya_vetrina
+44.50 19.29
+Postavchik_B
+Holodil'niy_stol
+45.23 9.43
+Postavchik_B
+Holodil'nik
+51.65 16.56
+Postavchik_C
+Holodil'nik
+23.64 17.61
+Postavchik_A
+Ice_generator
+87.15 19.52
+Postavchik_C
+Lari
+86.39 26.69
+Postavchik_A
+Frizer
+15.23 4.76
+Postavchik_A
+Frizer
+32.36 25.73
+Postavchik_C
+Vitrina
+95.59 39.68
+Postavchik_B
+Vitrina
+25.51 24.73
+Postavchik_A
+Holodil'nik
+83.53 43.36
+Postavchik_C
+Holodil'naya_vetrina
+97.39 13.40
+Postavchik_B
+Holodil'nik
+23.95 26.38
+Postavchik_A
+Lari
+15.95 49.53
+Postavchik_B
+Lari
+33.39 0.07
+Postavchik_C
+Holodil'niy_stol
+86.67 49.72
+Postavchik_A
+Holodil'niy_stol
+92.83 20.87
+Postavchik_C
+Holodil'niy_stol
+86.55 31.96
+Postavchik_A
+Lari
+83.99 25.74
+Postavchik_A
+Perenosnoy_holodil'nik
+91.77 38.23
+Postavchik_B
+Holodil'niy_stol
+19.42 2.94
+Postavchik_B
+Lari
+38.06 25.87
+Postavchik_B
+Holodil'niy_stol
+16.16 26.10
+Postavchik_A
+Holodil'niy_stol
+68.95 10.78
+Postavchik_A
+Perenosnoy_holodil'nik
+96.97 45.75
+Postavchik_B
+Lari
+11.76 29.72
+Postavchik_B
+Lari
+62.71 44.30
+Postavchik_B
+Holodil'nik
+7.78 37.81
+Postavchik_B
+Frizer
+41.83 3.97
+Postavchik_A
+Holodil'niy_stol
+8.75 13.65
+Postavchik_B
+Holodil'niy_stol
+44.61 4.75
+Postavchik_A
+Konditsioner
+61.25 5.53
+Postavchik_B
+Perenosnoy_holodil'nik
+56.08 2.02
+Postavchik_A
+Lari
+63.45 7.55
+Postavchik_A
+Holodil'niy_stol
+16.74 34.44
+Postavchik_A
+Frizer
+97.63 9.69
+Postavchik_A
+Vitrina
+19.09 22.27
+Postavchik_C
+Konditsioner
+52.05 44.92
+Postavchik_C
+Holodil'niy_stol
+59.46 18.12
+Postavchik_A
+Ice_generator
+13.69 26.96
+Postavchik_B
+Holodil'naya_vetrina
+5.60 9.81
+Postavchik_A
+Frizer
+82.85 12.28
+Postavchik_A
+Holodil'nik
+85.86 19.54
+Postavchik_A
+Holodil'nik
+20.21 47.79
+Postavchik_B
+Ice_generator
+21.86 38.61
+Postavchik_C
+Perenosnoy_holodil'nik
+43.25 14.88
+Postavchik_A
+Lari
+16.45 25.36
+Postavchik_C
+Perenosnoy_holodil'nik
+10.72 19.96
+Postavchik_A
+Ice_generator
+68.30 27.29
+Postavchik_C
+Holodil'niy_stol
+6.99 26.16
+Postavchik_B
+Holodil'naya_vetrina
+14.10 5.47
+Postavchik_B
+Lari
+2.42 42.42
+Postavchik_B
+Konditsioner
+25.04 38.52
+Postavchik_A
+Vitrina
+36.53 31.55
+Postavchik_C
+Vitrina
+58.71 6.82
+Postavchik_A
+Frizer
+77.15 47.97
+Postavchik_B
+Holodil'naya_vetrina
+9.75 28.35
+Postavchik_B
+Holodil'naya_vetrina
+51.78 38.80
+Postavchik_A
+Holodil'nik
+43.66 13.82
+Postavchik_A
+Lari
+22.38 30.25
+Postavchik_B
+Frizer
+1.72 23.28
+Postavchik_A
+Frizer
+81.85 10.61
+Postavchik_A
+Konditsioner
+16.71 25.35
+Postavchik_C
+Frizer
+72.14 48.62
+Postavchik_B
+Konditsioner
+27.43 36.12
+Postavchik_C
+Holodil'nik
+84.36 8.43
+Postavchik_A
+Holodil'naya_vetrina
+48.69 48.70
+Postavchik_A
+Holodil'nik
+92.58 27.55
+Postavchik_A
+Holodil'niy_stol
+84.61 26.62
+Postavchik_C
+Vitrina
+8.10 2.83
+Postavchik_B
+Holodil'niy_stol
+63.66 20.82
+Postavchik_C
+Holodil'nik
+78.34 33.62
+Postavchik_B
+Holodil'naya_vetrina
+89.29 44.98
+Postavchik_B
+Frizer
+67.67 17.36
+Postavchik_B
+Ice_generator
+18.39 18.97
+Postavchik_C
+Holodil'naya_vetrina
+93.55 13.72
+Postavchik_C
+Vitrina
+66.09 42.54
+Postavchik_B
+Frizer
+95.36 22.10
+Postavchik_A
+Vitrina
+32.46 26.55
+Postavchik_B
+Lari
+1.90 11.04
+Postavchik_A
+Lari
+95.24 48.55
+Postavchik_A
+Holodil'niy_stol
+98.94 22.06
+Postavchik_A
+Holodil'nik
+57.00 49.20
+Postavchik_C
+Perenosnoy_holodil'nik
+29.33 25.51
+Postavchik_B
+Vitrina
+9.00 25.30
+Postavchik_C
+Lari
+74.93 11.95
+Postavchik_B
+Holodil'nik
+15.61 8.38
+Postavchik_B
+Perenosnoy_holodil'nik
+27.86 35.33
+Postavchik_B
+Holodil'niy_stol
+87.94 33.95
+Postavchik_B
+Holodil'niy_stol
+15.81 19.85
+Postavchik_C
+Ice_generator
+0.74 1.98
+Postavchik_A
+Vitrina
+38.28 12.83
+Postavchik_C
+Lari
+35.80 11.62
+Postavchik_A
+Holodil'naya_vetrina
+1.60 34.50
+Postavchik_A
+Holodil'nik
+3.82 20.14
+Postavchik_B
+Holodil'naya_vetrina
+64.78 35.07
+Postavchik_B
+Holodil'nik
+41.98 20.77
+Postavchik_A
+Holodil'naya_vetrina
+90.21 37.67
+Postavchik_B
+Holodil'naya_vetrina
+11.67 16.87
+Postavchik_A
+Perenosnoy_holodil'nik
+54.55 27.42
+Postavchik_B
+Holodil'nik
+28.63 3.99
+Postavchik_B
+Vitrina
+9.06 26.00
+Postavchik_A
+Holodil'nik
+91.99 20.38
+Postavchik_C
+Holodil'niy_stol
+72.41 35.18
+Postavchik_C
+Lari
+2.42 38.86
+Postavchik_B
+Holodil'niy_stol
+17.62 21.08
+Postavchik_C
+Holodil'niy_stol
+72.97 49.18
+Postavchik_A
+Frizer
+35.81 0.64
+Postavchik_B
+Perenosnoy_holodil'nik
+40.09 37.34
+Postavchik_A
+Ice_generator
+26.79 46.81
+Postavchik_A
+Konditsioner
+17.86 5.69
+Postavchik_A
+Holodil'nik
+61.73 12.46
+Postavchik_B
+Frizer
+1.70 0.57
+Postavchik_B
+Perenosnoy_holodil'nik
+89.23 17.50
+Postavchik_C
+Perenosnoy_holodil'nik
+21.45 14.50
+Postavchik_C
+Lari
+46.31 49.22
+Postavchik_A
+Vitrina
+54.71 29.17
+Postavchik_B
+Lari
+90.92 48.17
+Postavchik_A
+Konditsioner
+6.43 10.58
+Postavchik_C
+Konditsioner
+94.88 12.33
+Postavchik_B
+Frizer
+31.86 33.96
+Postavchik_A
+Vitrina
+30.66 20.71
+Postavchik_C
+Holodil'nik
+25.80 10.83
+Postavchik_A
+Konditsioner
+46.12 19.54
+Postavchik_A
+Frizer
+99.78 34.92
+Postavchik_A
+Holodil'naya_vetrina
+33.34 38.68
+Postavchik_C
+Holodil'naya_vetrina
+70.10 24.38
+Postavchik_B
+Vitrina
+85.25 48.83
+Postavchik_B
+Konditsioner
+72.32 21.88
+Postavchik_A
+Frizer
+63.22 15.40
+Postavchik_B
+Ice_generator
+42.11 46.48
+Postavchik_B
+Konditsioner
+1.93 4.29
+Postavchik_A
+Frizer
+34.56 20.29
+Postavchik_B
+Holodil'nik
+92.56 17.80
+Postavchik_B
+Holodil'naya_vetrina
+8.63 24.36
+Postavchik_A
+Frizer
+41.99 21.11
+Postavchik_B
+Frizer
+72.98 12.87
+Postavchik_C
+Holodil'naya_vetrina
+59.49 21.30
+Postavchik_A
+Holodil'nik
+13.78 17.75
+Postavchik_A
+Vitrina
+20.76 42.55
+Postavchik_B
+Perenosnoy_holodil'nik
+16.44 38.94
+Postavchik_C
+Holodil'naya_vetrina
+47.48 36.86
+Postavchik_A
+Konditsioner
+64.51 48.04
+Postavchik_B
+Perenosnoy_holodil'nik
+8.58 13.69
+Postavchik_B
+Ice_generator
+15.65 32.50
+Postavchik_C
+Vitrina
+15.51 43.58
+Postavchik_C
+Lari
+27.00 31.14
+Postavchik_B
+Vitrina
+71.73 25.30
+Postavchik_A
+Perenosnoy_holodil'nik
+34.78 43.82
+Postavchik_A
+Ice_generator
+66.73 38.07
+Postavchik_C
+Frizer
+39.90 43.22
+Postavchik_C
+Vitrina
+96.59 12.96
+Postavchik_B
+Konditsioner
+69.50 22.07
+Postavchik_A
+Holodil'niy_stol
+33.97 17.01
+Postavchik_A
+Perenosnoy_holodil'nik
+55.31 47.91
+Postavchik_B
+Holodil'naya_vetrina
+19.71 39.84
+Postavchik_C
+Konditsioner
+66.28 36.85
+Postavchik_A
+Vitrina
+59.31 21.00
+Postavchik_C
+Holodil'nik
+52.01 17.88
+Postavchik_C
+Holodil'naya_vetrina
+24.22 7.15
+Postavchik_B
+Holodil'nik
+74.18 10.87
+Postavchik_A
+Ice_generator
+13.32 22.69
+Postavchik_C
+Ice_generator
+31.89 45.10
+Postavchik_B
+Ice_generator
+80.77 14.37
+Postavchik_A
+Holodil'niy_stol
+2.70 46.94
+Postavchik_B
+Holodil'niy_stol
+13.15 26.08
+Postavchik_C
+Konditsioner
+77.69 40.28
+Postavchik_A
+Vitrina
+5.43 25.41
+Postavchik_C
+Holodil'niy_stol
+73.56 32.92
+Postavchik_A
+Holodil'niy_stol
+30.95 15.88
+Postavchik_B
+Perenosnoy_holodil'nik
+4.96 32.19
+Postavchik_A
+Holodil'niy_stol
+94.50 6.69
+Postavchik_B
+Holodil'nik
+50.86 40.99
+Postavchik_B
+Frizer
+39.65 17.86
+Postavchik_A
+Perenosnoy_holodil'nik
+36.57 33.44
+Postavchik_A
+Frizer
+60.82 48.71
+Postavchik_A
+Perenosnoy_holodil'nik
+9.71 32.52
+Postavchik_A
+Konditsioner
+87.71 20.44
+Postavchik_B
+Holodil'nik
+37.82 6.68
+Postavchik_B
+Holodil'niy_stol
+79.39 20.96
+Postavchik_C
+Lari
+77.21 18.41
+Postavchik_A
+Lari
+84.57 7.27
+Postavchik_A
+Holodil'niy_stol
+35.61 41.58
+Postavchik_B
+Lari
+79.06 4.43
+Postavchik_B
+Ice_generator
+28.88 19.67
+Postavchik_C
+Holodil'nik
+7.99 12.09
+Postavchik_C
+Holodil'nik
+53.41 20.79
+Postavchik_B
+Holodil'naya_vetrina
+77.41 35.48
+Postavchik_C
+Vitrina
+90.99 38.82
+Postavchik_B
+Holodil'naya_vetrina
+34.03 7.08
+Postavchik_C
+Holodil'naya_vetrina
+41.42 35.93
+Postavchik_B
+Vitrina
+83.18 44.00
+Postavchik_B
+Konditsioner
+20.15 31.40
+Postavchik_B
+Perenosnoy_holodil'nik
+50.46 7.43
+Postavchik_A
+Lari
+45.15 42.50
+Postavchik_C
+Frizer
+37.20 47.16
+Postavchik_B
+Perenosnoy_holodil'nik
+33.36 27.62
+Postavchik_B
+Ice_generator
+53.04 26.45
+Postavchik_B
+Ice_generator
+91.08 47.96
+Postavchik_B
+Vitrina
+36.53 37.55
+Postavchik_A
+Ice_generator
+59.89 20.44
+Postavchik_A
+Holodil'niy_stol
+14.22 8.18
+Postavchik_A
+Holodil'niy_stol
+10.67 22.31
+Postavchik_A
+Holodil'nik
+47.70 4.77
+Postavchik_C
+Vitrina
+15.95 14.92
+Postavchik_C
+Holodil'nik
+13.26 15.42
+Postavchik_C
+Vitrina
+25.92 47.15
+Postavchik_A
+Frizer
+92.24 34.76
+Postavchik_C
+Holodil'nik
+39.58 49.79
+Postavchik_C
+Holodil'naya_vetrina
+32.64 1.40
+Postavchik_A
+Ice_generator
+90.36 20.89
+Postavchik_C
+Perenosnoy_holodil'nik
+59.95 47.93
+Postavchik_C
+Holodil'naya_vetrina
+10.03 41.09
+Postavchik_C
+Perenosnoy_holodil'nik
+26.70 31.35
+Postavchik_B
+Frizer
+30.00 35.46
+Postavchik_B
+Ice_generator
+88.39 48.47
+Postavchik_B
+Holodil'niy_stol
+10.31 42.70
+Postavchik_B
+Frizer
+34.92 26.06
+Postavchik_C
+Frizer
+11.99 36.97
+Postavchik_B
+Vitrina
+93.04 23.68
+Postavchik_C
+Konditsioner
+74.23 34.50
+Postavchik_B
+Holodil'nik
+67.43 0.26
+Postavchik_A
+Holodil'nik
+30.18 30.57
+Postavchik_A
+Frizer
+52.81 48.86
+Postavchik_A
+Holodil'nik
+38.23 27.14
+Postavchik_C
+Perenosnoy_holodil'nik
+1.45 22.95
+Postavchik_B
+Perenosnoy_holodil'nik
+46.07 46.24
+Postavchik_B
+Frizer
+17.27 19.88
+Postavchik_C
+Perenosnoy_holodil'nik
+82.26 5.99
+Postavchik_A
+Holodil'nik
+49.88 44.51
+Postavchik_B
+Lari
+57.51 4.94
+Postavchik_C
+Lari
+81.38 47.00
+Postavchik_B
+Lari
+32.27 19.09
+Postavchik_B
+Lari
+19.24 23.78
+Postavchik_A
+Lari
+67.35 45.63
+Postavchik_A
+Lari
+81.85 20.77
+Postavchik_C
+Ice_generator
+67.42 4.39
+Postavchik_A
+Frizer
+22.81 32.87
+Postavchik_A
+Holodil'naya_vetrina
+41.28 41.23
+Postavchik_C
+Konditsioner
+21.23 5.82
+Postavchik_A
+Perenosnoy_holodil'nik
+5.59 28.00
+Postavchik_B
+Holodil'niy_stol
+87.94 34.33
+Postavchik_A
+Frizer
+48.77 9.09
+Postavchik_B
+Lari
+87.20 17.96
+Postavchik_B
+Frizer
+33.52 33.31
+Postavchik_A
+Perenosnoy_holodil'nik
+30.75 35.92
+Postavchik_A
+Konditsioner
+14.94 32.40
+Postavchik_B
+Holodil'naya_vetrina
+70.65 6.84
+Postavchik_B
+Vitrina
+41.79 34.83
+Postavchik_A
+Konditsioner
+24.72 40.01
+Postavchik_C
+Vitrina
+95.18 26.27
+Postavchik_C
+Holodil'niy_stol
+57.24 38.43
+Postavchik_A
+Frizer
+44.02 39.80
+Postavchik_C
+Perenosnoy_holodil'nik
+69.46 48.39
+Postavchik_C
+Vitrina
+27.03 37.09
+Postavchik_A
+Holodil'niy_stol
+6.89 33.48
+Postavchik_A
+Holodil'niy_stol
+84.15 14.03
+Postavchik_B
+Konditsioner
+31.64 39.37
+Postavchik_C
+Perenosnoy_holodil'nik
+98.79 13.85
+Postavchik_B
+Holodil'nik
+67.08 38.77
+Postavchik_C
+Holodil'niy_stol
+21.99 25.71
+Postavchik_B
+Frizer
+85.90 28.13
+Postavchik_A
+Frizer
+24.29 18.73
+Postavchik_B
+Lari
+30.65 15.52
+Postavchik_B
+Ice_generator
+91.00 0.29
+Postavchik_A
+Holodil'nik
+0.52 10.56
+Postavchik_B
+Vitrina
+94.59 9.73
+Postavchik_C
+Holodil'nik
+15.33 49.68
+Postavchik_C
+Konditsioner
+5.58 25.33
+Postavchik_B
+Ice_generator
+5.95 18.09
+Postavchik_B
+Perenosnoy_holodil'nik
+74.51 23.22
+Postavchik_C
+Perenosnoy_holodil'nik
+93.86 1.36
+Postavchik_C
+Holodil'nik
+35.72 33.04
+Postavchik_C
+Holodil'nik
+35.86 22.58
+Postavchik_B
+Holodil'naya_vetrina
+4.92 1.06
+Postavchik_B
+Ice_generator
+7.24 42.76
+Postavchik_A
+Holodil'nik
+3.42 16.46
+Postavchik_C
+Lari
+23.53 46.60
+Postavchik_C
+Lari
+26.87 39.94
+Postavchik_A
+Ice_generator
+44.23 18.99
+Postavchik_A
+Frizer
+23.63 17.46
+Postavchik_A
+Holodil'naya_vetrina
+31.91 1.83
+Postavchik_B
+Konditsioner
+39.44 18.48
+Postavchik_C
+Konditsioner
+43.81 19.20
+Postavchik_A
+Perenosnoy_holodil'nik
+0.64 3.91
+Postavchik_A
+Holodil'nik
+94.63 27.10
+Postavchik_B
+Frizer
+51.55 35.30
+Postavchik_B
+Ice_generator
+91.51 37.31
+Postavchik_A
+Frizer
+30.51 41.21
+Postavchik_C
+Holodil'naya_vetrina
+95.54 37.79
+Postavchik_C
+Holodil'niy_stol
+67.48 25.13
+Postavchik_B
+Ice_generator
+5.00 21.05
+Postavchik_B
+Holodil'naya_vetrina
+80.56 30.46
+Postavchik_C
+Holodil'naya_vetrina
+15.64 8.40
+Postavchik_B
+Lari
+72.41 19.16
+Postavchik_A
+Frizer
+85.83 4.81
+Postavchik_B
+Vitrina
+91.80 2.22
+Postavchik_C
+Konditsioner
+68.01 21.86
+Postavchik_A
+Holodil'nik
+28.84 16.63
+Postavchik_C
+Holodil'naya_vetrina
+94.22 47.74
+Postavchik_C
+Lari
+58.44 26.89
+Postavchik_B
+Holodil'naya_vetrina
+17.21 18.93
+Postavchik_A
+Frizer
+17.51 0.66
+Postavchik_A
+Holodil'naya_vetrina
+56.22 10.85
+Postavchik_C
+Perenosnoy_holodil'nik
+30.30 36.35
+Postavchik_A
+Holodil'niy_stol
+86.32 41.76
+Postavchik_B
+Frizer
+22.97 4.34
+Postavchik_C
+Holodil'niy_stol
+66.13 11.83
+Postavchik_A
+Holodil'nik
+64.60 6.48
+Postavchik_B
+Lari
+70.40 38.98
+Postavchik_B
+Perenosnoy_holodil'nik
+29.95 37.88
+Postavchik_B
+Konditsioner
+82.91 46.66
+Postavchik_C
+Holodil'nik
+11.55 34.27
+Postavchik_B
+Holodil'niy_stol
+66.41 37.09
+Postavchik_B
+Vitrina
+36.64 26.64
+Postavchik_C
+Konditsioner
+26.55 27.72
+Postavchik_C
+Konditsioner
+72.11 14.98
+Postavchik_B
+Holodil'nik
+80.60 34.23
+Postavchik_B
+Frizer
+67.90 32.72
+Postavchik_A
+Holodil'nik
+25.06 49.84
+Postavchik_C
+Frizer
+5.31 24.62
+Postavchik_B
+Ice_generator
+75.41 38.32
+Postavchik_A
+Lari
+44.00 37.61
+Postavchik_C
+Holodil'naya_vetrina
+4.83 6.21
+Postavchik_B
+Ice_generator
+85.99 41.65
+Postavchik_A
+Frizer
+76.71 5.43
+Postavchik_C
+Holodil'nik
+49.20 13.75
+Postavchik_C
+Konditsioner
+37.60 4.37
+Postavchik_C
+Holodil'niy_stol
+7.27 24.02
+Postavchik_B
+Perenosnoy_holodil'nik
+3.95 5.55
+Postavchik_A
+Holodil'nik
+61.95 29.36
+Postavchik_C
+Lari
+36.91 32.17
+Postavchik_C
+Frizer
+26.31 25.00
+Postavchik_C
+Holodil'naya_vetrina
+38.80 16.50
+Postavchik_B
+Ice_generator
+6.70 8.82
+Postavchik_C
+Perenosnoy_holodil'nik
+54.39 46.04
+Postavchik_C
+Lari
+17.32 31.58
+Postavchik_B
+Perenosnoy_holodil'nik
+93.86 39.72
+Postavchik_B
+Frizer
+67.06 48.72
+Postavchik_C
+Vitrina
+82.26 36.88
+Postavchik_A
+Vitrina
+0.50 24.76
+Postavchik_B
+Holodil'niy_stol
+98.16 10.94
+Postavchik_A
+Konditsioner
+16.05 6.02
+Postavchik_B
+Holodil'niy_stol
+5.07 1.60
+Postavchik_A
+Lari
+78.12 28.93
+Postavchik_C
+Holodil'niy_stol
+38.19 43.66
+Postavchik_C
+Frizer
+50.92 25.04
+Postavchik_A
+Perenosnoy_holodil'nik
+68.41 25.73
+Postavchik_A
+Perenosnoy_holodil'nik
+86.44 49.92
+Postavchik_C
+Holodil'niy_stol
+81.88 0.88
+Postavchik_B
+Frizer
+12.54 36.90
+Postavchik_A
+Vitrina
+81.31 5.08
+Postavchik_B
+Konditsioner
+64.27 35.66
+Postavchik_C
+Holodil'niy_stol
+8.89 44.31
+Postavchik_B
+Holodil'nik
+64.79 8.86
+Postavchik_B
+Ice_generator
+12.64 0.47
+Postavchik_A
+Ice_generator
+38.57 25.21
+Postavchik_A
+Vitrina
+51.37 22.57
+Postavchik_B
+Ice_generator
+63.36 10.06
+Postavchik_B
+Holodil'niy_stol
+59.75 25.92
+Postavchik_B
+Holodil'nik
+20.84 9.38
+Postavchik_A
+Holodil'naya_vetrina
+18.26 37.22
+Postavchik_B
+Vitrina
+30.39 49.99
+Postavchik_C
+Ice_generator
+17.18 36.94
+Postavchik_A
+Lari
+9.48 41.07
+Postavchik_A
+Holodil'niy_stol
+8.40 8.64
+Postavchik_A
+Frizer
+33.95 22.03
+Postavchik_B
+Ice_generator
+6.76 18.67
+Postavchik_C
+Lari
+24.81 12.41
+Postavchik_C
+Vitrina
+96.11 42.07
+Postavchik_A
+Vitrina
+1.37 14.02
+Postavchik_A
+Holodil'niy_stol
+1.72 7.41
+Postavchik_B
+Holodil'naya_vetrina
+11.41 37.25
+Postavchik_B
+Ice_generator
+16.78 15.80
+Postavchik_B
+Ice_generator
+77.03 29.63
+Postavchik_C
+Holodil'nik
+84.50 1.01
+Postavchik_A
+Holodil'niy_stol
+51.39 45.09
+Postavchik_B
+Frizer
+29.45 2.66
+Postavchik_C
+Holodil'naya_vetrina
+46.46 26.72
+Postavchik_A
+Holodil'naya_vetrina
+98.60 30.46
+Postavchik_C
+Konditsioner
+16.24 19.17
+Postavchik_C
+Konditsioner
+8.42 47.16
+Postavchik_C
+Frizer
+49.59 27.65
+Postavchik_B
+Perenosnoy_holodil'nik
+50.94 42.46
+Postavchik_A
+Konditsioner
+52.28 18.01
+Postavchik_A
+Konditsioner
+22.76 31.37
+Postavchik_B
+Frizer
+21.72 18.64
+Postavchik_B
+Frizer
+19.11 48.81
+Postavchik_C
+Holodil'niy_stol
+94.03 30.29
+Postavchik_A
+Holodil'naya_vetrina
+94.13 7.69
+Postavchik_B
+Frizer
+6.79 37.87
+Postavchik_C
+Lari
+98.35 8.94
+Postavchik_A
+Holodil'niy_stol
+77.37 1.96
+Postavchik_B
+Ice_generator
+20.89 20.25
+Postavchik_A
+Holodil'niy_stol
+26.00 13.81
+Postavchik_C
+Vitrina
+81.10 29.30
+Postavchik_B
+Holodil'niy_stol
+63.67 41.04
+Postavchik_C
+Holodil'nik
+8.21 43.21
+Postavchik_B
+Frizer
+63.41 25.57
+Postavchik_C
+Perenosnoy_holodil'nik
+14.81 18.20
+Postavchik_C
+Lari
+80.77 0.26
+Postavchik_A
+Ice_generator
+19.89 24.43
+Postavchik_B
+Ice_generator
+90.04 13.25
+Postavchik_C
+Vitrina
+70.57 35.13
+Postavchik_B
+Vitrina
+97.63 15.35
+Postavchik_B
+Frizer
+63.88 1.45
+Postavchik_C
+Ice_generator
+21.64 16.27
+Postavchik_C
+Holodil'naya_vetrina
+11.88 1.14
+Postavchik_B
+Konditsioner
+59.35 4.20
+Postavchik_C
+Ice_generator
+50.15 34.17
+Postavchik_B
+Perenosnoy_holodil'nik
+87.40 33.73
+Postavchik_A
+Frizer
+80.08 25.88
+Postavchik_B
+Ice_generator
+44.91 49.63
+Postavchik_A
+Frizer
+70.15 4.19
+Postavchik_C
+Holodil'nik
+70.94 34.74
+Postavchik_B
+Perenosnoy_holodil'nik
+35.45 23.75
+Postavchik_C
+Lari
+52.77 15.33
+Postavchik_B
+Perenosnoy_holodil'nik
+54.70 25.10
+Postavchik_C
+Ice_generator
+78.95 24.52
+Postavchik_B
+Perenosnoy_holodil'nik
+25.73 35.22
+Postavchik_C
+Ice_generator
+24.97 45.07
+Postavchik_A
+Ice_generator
+42.64 14.14
+Postavchik_C
+Holodil'naya_vetrina
+43.61 4.73
+Postavchik_C
+Frizer
+99.50 15.17
+Postavchik_A
+Ice_generator
+4.90 17.68
+Postavchik_B
+Holodil'naya_vetrina
+66.35 24.72
+Postavchik_C
+Holodil'naya_vetrina
+85.23 22.85
+Postavchik_A
+Lari
+47.08 20.97
+Postavchik_C
+Perenosnoy_holodil'nik
+16.91 46.30
+Postavchik_A
+Lari
+20.48 23.59
+Postavchik_C
+Holodil'nik
+31.55 4.73
+Postavchik_B
+Holodil'niy_stol
+69.22 6.37
+Postavchik_A
+Holodil'nik
+57.79 11.03
+Postavchik_C
+Lari
+30.55 40.12
+Postavchik_C
+Perenosnoy_holodil'nik
+97.23 48.46
+Postavchik_A
+Konditsioner
+62.63 9.54
+Postavchik_C
+Konditsioner
+87.19 30.48
+Postavchik_C
+Perenosnoy_holodil'nik
+66.28 21.21
+Postavchik_C
+Konditsioner
+41.73 17.98
+Postavchik_A
+Holodil'naya_vetrina
+88.68 46.96
+Postavchik_B
+Perenosnoy_holodil'nik
+30.02 22.15
+Postavchik_B
+Holodil'nik
+54.79 13.81
+Postavchik_C
+Lari
+37.90 3.62
+Postavchik_A
+Konditsioner
+14.36 1.48
+Postavchik_C
+Lari
+45.06 29.49
+Postavchik_C
+Holodil'niy_stol
+21.59 14.31
+Postavchik_C
+Holodil'naya_vetrina
+40.75 43.47
+Postavchik_B
+Konditsioner
+53.21 16.17
+Postavchik_C
+Vitrina
+38.33 21.29
+Postavchik_C
+Frizer
+14.65 23.36
+Postavchik_B
+Frizer
+72.93 34.02
+Postavchik_B
+Perenosnoy_holodil'nik
+23.18 49.18
+Postavchik_C
+Konditsioner
+59.37 18.72
+Postavchik_C
+Ice_generator
+79.12 39.76
+Postavchik_C
+Konditsioner
+65.72 18.18
+Postavchik_C
+Vitrina
+53.86 34.08
+Postavchik_B
+Lari
+86.84 5.71
+Postavchik_A
+Lari
+36.88 31.74
+Postavchik_A
+Perenosnoy_holodil'nik
+27.68 12.40
+Postavchik_C
+Holodil'niy_stol
+61.18 45.93
+Postavchik_C
+Vitrina
+14.06 0.54
+Postavchik_B
+Perenosnoy_holodil'nik
+27.43 25.35
+Postavchik_B
+Holodil'naya_vetrina
+57.93 33.80
+Postavchik_A
+Frizer
+16.07 44.90
+Postavchik_C
+Frizer
+83.89 16.16
+Postavchik_B
+Holodil'nik
+82.61 9.29
+Postavchik_C
+Lari
+14.82 27.21
+Postavchik_A
+Lari
+68.55 14.61
+Postavchik_B
+Vitrina
+8.10 48.55
+Postavchik_B
+Frizer
+61.63 22.97
+Postavchik_A
+Frizer
+1.47 42.30
+Postavchik_B
+Perenosnoy_holodil'nik
+5.61 22.46
+Postavchik_A
+Frizer
+63.68 20.36
+Postavchik_A
+Holodil'naya_vetrina
+53.32 22.68
+Postavchik_A
+Lari
+89.83 21.67
+Postavchik_B
+Holodil'naya_vetrina
+19.81 18.98
+Postavchik_A
+Holodil'niy_stol
+44.71 7.90
+Postavchik_C
+Ice_generator
+72.67 36.37
+Postavchik_A
+Vitrina
+23.18 11.40
+Postavchik_B
+Holodil'nik
+22.60 25.94
+Postavchik_C
+Lari
+64.68 29.56
+Postavchik_C
+Perenosnoy_holodil'nik
+29.39 1.76
+Postavchik_B
+Holodil'niy_stol
+95.52 26.96
+Postavchik_B
+Holodil'naya_vetrina
+12.95 2.42
+Postavchik_C
+Konditsioner
+52.99 17.15
+Postavchik_B
+Lari
+58.10 37.92
+Postavchik_B
+Lari
+81.83 35.75
+Postavchik_A
+Perenosnoy_holodil'nik
+62.93 49.65
+Postavchik_A
+Frizer
+68.10 31.97
+Postavchik_C
+Ice_generator
+70.12 39.17
+Postavchik_A
+Frizer
+62.06 40.01
+Postavchik_C
+Frizer
+69.49 49.15
+Postavchik_B
+Perenosnoy_holodil'nik
+66.27 25.16
+Postavchik_B
+Vitrina
+11.28 46.36
+Postavchik_B
+Frizer
+51.29 25.83
+Postavchik_A
+Holodil'nik
+1.44 1.04
+Postavchik_C
+Perenosnoy_holodil'nik
+14.79 31.55
+Postavchik_A
+Vitrina
+58.32 13.00
+Postavchik_A
+Frizer
+79.24 29.28
+Postavchik_A
+Ice_generator
+62.13 17.57
+Postavchik_A
+Holodil'niy_stol
+32.94 13.26
+Postavchik_B
+Vitrina
+4.45 10.07
+Postavchik_B
+Holodil'naya_vetrina
+92.71 24.54
+Postavchik_A
+Perenosnoy_holodil'nik
+36.42 39.36
+Postavchik_B
+Lari
+88.37 42.51
+Postavchik_A
+Konditsioner
+27.98 3.15
+Postavchik_C
+Vitrina
+7.35 39.92
+Postavchik_C
+Holodil'niy_stol
+42.50 45.62
+Postavchik_B
+Vitrina
+71.85 23.03
+Postavchik_A
+Perenosnoy_holodil'nik
+33.35 40.48
+Postavchik_A
+Lari
+10.08 40.54
+Postavchik_C
+Frizer
+17.40 48.05
+Postavchik_A
+Konditsioner
+4.42 33.81
+Postavchik_A
+Ice_generator
+36.60 13.64
+Postavchik_B
+Holodil'naya_vetrina
+10.89 38.60
+Postavchik_A
+Holodil'niy_stol
+85.71 6.67
+Postavchik_C
+Konditsioner
+78.40 34.03
+Postavchik_A
+Holodil'nik
+17.24 28.73
+Postavchik_A
+Holodil'naya_vetrina
+11.55 9.52
+Postavchik_C
+Perenosnoy_holodil'nik
+45.09 29.13
+Postavchik_C
+Ice_generator
+76.66 17.87
+Postavchik_B
+Perenosnoy_holodil'nik
+48.31 22.62
+Postavchik_A
+Konditsioner
+80.25 7.74
+Postavchik_A
+Lari
+18.09 36.89
+Postavchik_A
+Perenosnoy_holodil'nik
+18.43 8.34
+Postavchik_B
+Frizer
+9.70 39.99
+Postavchik_B
+Ice_generator
+3.49 32.85
+Postavchik_C
+Holodil'naya_vetrina
+99.13 8.75
+Postavchik_A
+Perenosnoy_holodil'nik
+23.08 6.38
+Postavchik_B
+Frizer
+95.30 21.39
+Postavchik_A
+Lari
+82.36 39.96
+Postavchik_C
+Ice_generator
+89.45 30.15
+Postavchik_B
+Holodil'naya_vetrina
+45.14 45.98
+Postavchik_C
+Holodil'niy_stol
+32.37 2.61
+Postavchik_C
+Holodil'naya_vetrina
+51.92 44.46
+Postavchik_C
+Vitrina
+27.23 14.90
+Postavchik_B
+Holodil'niy_stol
+4.39 32.27
+Postavchik_C
+Holodil'nik
+88.68 36.29
+Postavchik_A
+Holodil'niy_stol
+26.90 15.93
+Postavchik_C
+Lari
+28.53 37.63
+Postavchik_C
+Lari
+26.81 24.04
+Postavchik_B
+Holodil'nik
+58.13 2.27
+Postavchik_C
+Holodil'niy_stol
+10.19 16.21
+Postavchik_B
+Holodil'nik
+83.71 16.48
+Postavchik_C
+Vitrina
+13.26 33.19
+Postavchik_A
+Konditsioner
+46.21 34.61
+Postavchik_A
+Vitrina
+10.89 21.01
+Postavchik_B
+Ice_generator
+15.26 29.14
+Postavchik_C
+Konditsioner
+63.61 18.53
+Postavchik_B
+Holodil'nik
+38.74 43.28
+Postavchik_C
+Ice_generator
+19.00 24.75
+Postavchik_A
+Perenosnoy_holodil'nik
+46.42 6.48
+Postavchik_C
+Ice_generator
+68.26 29.33
+Postavchik_B
+Vitrina
+25.96 29.95
+Postavchik_A
+Holodil'naya_vetrina
+46.41 0.85
+Postavchik_A
+Frizer
+25.36 48.61
+Postavchik_C
+Holodil'naya_vetrina
+26.25 26.98
+Postavchik_A
+Vitrina
+77.18 4.08
+Postavchik_B
+Konditsioner
+6.41 40.17
+Postavchik_A
+Ice_generator
+99.80 7.51
+Postavchik_A
+Vitrina
+64.47 6.57
+Postavchik_B
+Frizer
+20.38 15.54
+Postavchik_B
+Ice_generator
+60.63 39.05
+Postavchik_C
+Lari
+68.89 14.09
+Postavchik_B
+Perenosnoy_holodil'nik
+17.30 12.68
+Postavchik_B
+Lari
+99.93 31.70
+Postavchik_C
+Ice_generator
+70.95 31.88
+Postavchik_C
+Ice_generator
+68.68 33.05
+Postavchik_C
+Frizer
+12.02 33.29
+Postavchik_A
+Lari
+17.69 47.74
+Postavchik_B
+Perenosnoy_holodil'nik
+12.64 7.23
+Postavchik_B
+Holodil'nik
+96.26 12.24
+Postavchik_B
+Lari
+9.86 4.62
+Postavchik_A
+Holodil'niy_stol
+56.96 25.06
+Postavchik_B
+Holodil'nik
+15.38 18.20
+Postavchik_C
+Ice_generator
+12.20 42.95
+Postavchik_A
+Holodil'naya_vetrina
+19.22 15.90
+Postavchik_A
+Holodil'niy_stol
+12.73 12.54
+Postavchik_C
+Lari
+4.25 31.73
+Postavchik_C
+Vitrina
+19.97 3.85
+Postavchik_A
+Lari
+8.94 8.82
+Postavchik_A
+Perenosnoy_holodil'nik
+4.85 29.44
+Postavchik_C
+Holodil'nik
+12.94 38.98
+Postavchik_A
+Konditsioner
+13.01 48.93
+Postavchik_A
+Holodil'niy_stol
+15.50 37.77
+Postavchik_C
+Holodil'niy_stol
+40.72 42.24
+Postavchik_A
+Lari
+52.40 49.15
+Postavchik_B
+Konditsioner
+65.09 1.55
+Postavchik_A
+Vitrina
+62.32 19.27
+Postavchik_C
+Holodil'naya_vetrina
+23.70 14.23
+Postavchik_A
+Frizer
+96.48 49.83
+Postavchik_B
+Holodil'naya_vetrina
+77.25 9.07
+Postavchik_B
+Konditsioner
+11.58 3.52
+Postavchik_A
+Holodil'naya_vetrina
+71.19 15.57
+Postavchik_A
+Konditsioner
+5.93 34.09
+Postavchik_B
+Konditsioner
+46.53 8.86
+Postavchik_B
+Holodil'naya_vetrina
+77.42 12.48
+Postavchik_B
+Frizer
+17.08 45.19
+Postavchik_A
+Holodil'naya_vetrina
+86.25 22.08
+Postavchik_A
+Holodil'niy_stol
+62.28 5.56
+Postavchik_B
+Lari
+94.70 17.01
+Postavchik_A
+Holodil'nik
+24.91 7.61
+Postavchik_C
+Holodil'niy_stol
+84.13 21.36
+Postavchik_C
+Frizer
+19.52 31.17
+Postavchik_B
+Konditsioner
+76.73 8.42
+Postavchik_B
+Holodil'nik
+39.78 6.73
+Postavchik_B
+Holodil'nik
+17.52 4.04
+Postavchik_C
+Lari
+4.36 16.97
+Postavchik_A
+Perenosnoy_holodil'nik
+67.17 3.34
+Postavchik_C
+Holodil'niy_stol
+18.40 23.02
+Postavchik_A
+Perenosnoy_holodil'nik
+10.57 28.29
+Postavchik_C
+Konditsioner
+45.91 20.24
+Postavchik_C
+Vitrina
+97.80 26.31
+Postavchik_B
+Konditsioner
+25.51 12.81
+Postavchik_A
+Holodil'nik
+40.64 4.29
+Postavchik_A
+Lari
+90.94 40.48
+Postavchik_A
+Holodil'naya_vetrina
+74.07 36.86
+Postavchik_A
+Holodil'naya_vetrina
+47.11 29.62
+Postavchik_C
+Perenosnoy_holodil'nik
+34.67 10.20
+Postavchik_C
+Holodil'nik
+83.37 1.92
+Postavchik_B
+Vitrina
+10.08 28.88
+Postavchik_A
+Holodil'nik
+31.45 23.81
+Postavchik_C
+Holodil'naya_vetrina
+65.58 24.87
+Postavchik_C
+Perenosnoy_holodil'nik
+77.57 2.90
+Postavchik_B
+Perenosnoy_holodil'nik
+20.10 13.17
+Postavchik_B
+Ice_generator
+29.98 47.09
+Postavchik_A
+Ice_generator
+82.38 4.88
+Postavchik_B
+Lari
+96.16 26.19
+Postavchik_B
+Vitrina
+53.53 11.33
+Postavchik_B
+Holodil'naya_vetrina
+66.02 18.71
+Postavchik_B
+Holodil'niy_stol
+89.69 17.11
+Postavchik_C
+Konditsioner
+26.42 27.38
+Postavchik_C
+Holodil'naya_vetrina
+25.03 27.08
+Postavchik_B
+Frizer
+92.59 46.96
+Postavchik_C
+Holodil'nik
+50.14 38.13
+Postavchik_A
+Lari
+16.64 6.18
+Postavchik_B
+Holodil'naya_vetrina
+27.75 1.37
+Postavchik_B
+Lari
+88.81 22.87
+Postavchik_B
+Ice_generator
+80.77 3.53
+Postavchik_B
+Holodil'naya_vetrina
+6.28 27.98
+Postavchik_A
+Holodil'niy_stol
+40.56 39.17
+Postavchik_A
+Holodil'naya_vetrina
+0.87 41.65
+Postavchik_A
+Ice_generator
+93.99 18.25
+Postavchik_B
+Ice_generator
+39.19 40.07
+Postavchik_C
+Lari
+75.08 42.42
+Postavchik_B
+Holodil'naya_vetrina
+82.93 18.99
+Postavchik_B
+Holodil'nik
+10.85 5.93
+Postavchik_C
+Vitrina
+98.58 48.33
+Postavchik_C
+Frizer
+44.30 48.01
+Postavchik_B
+Holodil'niy_stol
+55.07 17.69
+Postavchik_B
+Konditsioner
+85.08 41.51
+Postavchik_A
+Konditsioner
+98.56 44.71
+Postavchik_C
+Ice_generator
+42.12 4.96
+Postavchik_C
+Holodil'niy_stol
+10.40 30.66
+Postavchik_A
+Lari
+50.16 17.33
+Postavchik_B
+Vitrina
+19.12 28.47
+Postavchik_A
+Holodil'nik
+90.35 29.17
+Postavchik_B
+Holodil'niy_stol
+6.69 13.45
+Postavchik_A
+Vitrina
+54.17 8.95
+Postavchik_C
+Holodil'naya_vetrina
+8.46 27.82
+Postavchik_B
+Konditsioner
+45.92 2.88
+Postavchik_C
+Holodil'nik
+56.71 0.09
+Postavchik_A
+Vitrina
+45.43 2.26
+Postavchik_C
+Konditsioner
+7.17 4.77
+Postavchik_A
+Konditsioner
+3.31 29.42
+Postavchik_A
+Frizer
+75.24 13.70
+Postavchik_B
+Holodil'naya_vetrina
+2.51 15.07
+Postavchik_C
+Holodil'niy_stol
+61.43 26.71
+Postavchik_A
+Lari
+90.89 32.61
+Postavchik_A
+Holodil'niy_stol
+58.58 26.83
+Postavchik_A
+Holodil'naya_vetrina
+41.57 1.97
+Postavchik_C
+Perenosnoy_holodil'nik
+8.62 9.99
+Postavchik_B
+Lari
+39.68 17.08
+Postavchik_C
+Holodil'niy_stol
+14.64 44.06
+Postavchik_B
+Perenosnoy_holodil'nik
+90.97 9.13
+Postavchik_B
+Holodil'nik
+45.87 2.81
+Postavchik_B
+Konditsioner
+68.80 23.08
+Postavchik_C
+Perenosnoy_holodil'nik
+31.65 23.59
+Postavchik_C
+Frizer
+43.15 1.47
+Postavchik_B
+Konditsioner
+82.02 6.50
+Postavchik_B
+Ice_generator
+26.48 9.41
+Postavchik_C
+Holodil'naya_vetrina
+74.54 9.80
+Postavchik_C
+Frizer
+40.10 22.89
+Postavchik_B
+Ice_generator
+56.77 36.17
+Postavchik_B
+Perenosnoy_holodil'nik
+86.45 13.43
+Postavchik_A
+Vitrina
+15.04 10.40
+Postavchik_A
+Konditsioner
+14.37 34.75
+Postavchik_B
+Konditsioner
+47.99 42.03
+Postavchik_C
+Vitrina
+50.34 0.70
+Postavchik_A
+Holodil'nik
+55.81 40.25
+Postavchik_C
+Ice_generator
+13.17 3.85
+Postavchik_C
+Lari
+84.91 3.23
+Postavchik_A
+Vitrina
+82.61 8.56
+Postavchik_A
+Holodil'nik
+43.65 20.44
+Postavchik_A
+Ice_generator
+17.62 35.06
+Postavchik_B
+Vitrina
+50.60 27.20
+Postavchik_B
+Ice_generator
+85.25 45.46
+Postavchik_B
+Vitrina
+10.53 5.66
+Postavchik_B
+Lari
+33.12 9.72
+Postavchik_B
+Frizer
+72.27 32.26
+Postavchik_C
+Holodil'nik
+66.49 18.10
+Postavchik_A
+Holodil'nik
+14.45 38.74
+Postavchik_B
+Lari
+91.78 1.39
+Postavchik_C
+Konditsioner
+57.46 30.22
+Postavchik_B
+Perenosnoy_holodil'nik
+92.54 8.47
+Postavchik_B
+Holodil'nik
+69.67 5.85
+Postavchik_C
+Holodil'naya_vetrina
+93.37 3.00
+Postavchik_C
+Ice_generator
+12.06 20.19
+Postavchik_B
+Perenosnoy_holodil'nik
+34.67 11.95
+Postavchik_B
+Holodil'niy_stol
+37.03 2.22
+Postavchik_A
+Frizer
+46.26 20.68
+Postavchik_C
+Vitrina
+15.06 26.68
+Postavchik_C
+Perenosnoy_holodil'nik
+76.34 47.95
+Postavchik_B
+Lari
+60.04 31.55
+Postavchik_C
+Konditsioner
+91.56 11.89
+Postavchik_C
+Holodil'naya_vetrina
+4.07 43.51
+Postavchik_C
+Frizer
+43.38 47.96
+Postavchik_B
+Konditsioner
+55.33 38.62
+Postavchik_C
+Perenosnoy_holodil'nik
+77.78 6.94
+Postavchik_A
+Frizer
+37.97 38.55
+Postavchik_B
+Frizer
+0.38 43.67
+Postavchik_B
+Lari
+87.30 25.35
+Postavchik_C
+Holodil'naya_vetrina
+68.08 19.37
+Postavchik_A
+Frizer
+16.20 41.88
