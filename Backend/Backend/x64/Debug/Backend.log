@@ -1,0 +1,30 @@
+﻿  BFunc.cpp
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(7,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(8,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(9,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(10,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(11,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(12,57): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(13,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(14,74): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(5,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(47,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(75,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(108,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(139,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(156,57): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(193,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.cpp(219,74): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Elem.cpp
+  Main.cpp
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(7,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(8,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(9,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(10,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(11,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(12,57): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(13,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Backend\Backend\BFunc.h(14,74): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Oshibka.cpp
+  Создание кода...
+  Backend.vcxproj -> D:\BigDataonC\BigDataonC\Backend\x64\Debug\Backend.exe
