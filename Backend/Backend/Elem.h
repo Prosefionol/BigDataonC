@@ -34,6 +34,10 @@ public:
 	{
 		return pr;
 	}
+	void SetRelevance(double rel)
+	{
+		pr.relevance = rel;
+	}
 
 	Elem& operator= (Elem eold);
 };

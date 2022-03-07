@@ -1,13 +1,13 @@
 3
 Postavchik_1
 Product_1
-0 1 2 3 4 5 6 7
-0.3
+9 10 2 5 8 7 10 5
+0.
 Postavchik_2
 Product_1
-1 2 3 4 5 6 7 8
-0.2
+5 3 10 10 8 2 6 3
+0.
 Postavchik_3
 Product_1
-2 3 4 5 6 7 8 9
-0.1
+4 8 4 5 7 10 6 8
+0.

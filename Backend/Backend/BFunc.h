@@ -12,4 +12,4 @@ void CopyData(Elem* enew, Elem* eold, int n) throw (Oshibka&); // Копирование да
 void DeleteData(Elem* e, int n, int del) throw (Oshibka&); // Удаление данных
 void SortingRelevance(Elem* e, int n) throw (Oshibka&); // Сортировка данных
 void SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&); // Сохранение в файл
-
+void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&); // Применение метода TOPSIS
