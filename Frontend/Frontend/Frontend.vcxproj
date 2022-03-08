@@ -120,12 +120,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AboutForm.cpp" />
+    <ClCompile Include="BFunc.cpp" />
+    <ClCompile Include="ChangingForm.cpp" />
+    <ClCompile Include="Elem.cpp" />
+    <ClCompile Include="InputForm.cpp" />
     <ClCompile Include="MenuForm.cpp" />
+    <ClCompile Include="Oshibka.cpp" />
+    <ClCompile Include="SavingForm.cpp" />
+    <ClCompile Include="TopsisForm.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AboutForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="BFunc.h" />
+    <ClInclude Include="ChangingForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="Elem.h" />
+    <ClInclude Include="InputForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
     <ClInclude Include="MenuForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Oshibka.h" />
+    <ClInclude Include="SavingForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+    <ClInclude Include="TopsisForm.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MenuForm.resx">
+      <DependentUpon>MenuForm.h</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

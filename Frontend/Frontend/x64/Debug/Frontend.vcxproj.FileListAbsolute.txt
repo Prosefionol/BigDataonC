@@ -1,2 +1,4 @@
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.AssemblyReference.cache
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.SuggestedBindingRedirects.cache
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.MenuForm.resources
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.GenerateResource.cache

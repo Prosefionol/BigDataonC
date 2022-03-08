@@ -1,6 +1,26 @@
-﻿  MenuForm.cpp
+﻿  BFunc.cpp
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(7,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(8,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(9,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(10,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(11,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(12,57): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(13,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(14,74): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.h(15,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(5,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(47,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(75,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(108,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(139,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(156,57): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(193,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(219,74): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BigDataonC\BigDataonC\Frontend\Frontend\BFunc.cpp(260,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Elem.cpp
+  MenuForm.cpp
 D:\BigDataonC\BigDataonC\Frontend\Frontend\MenuForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Oshibka.cpp
   Создание кода...
-  MenuForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BFunc.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   Frontend.vcxproj -> D:\BigDataonC\BigDataonC\Frontend\x64\Debug\Frontend.exe
