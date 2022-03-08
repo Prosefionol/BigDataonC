@@ -34,6 +34,16 @@ namespace Frontend {
 				delete components;
 			}
 		}
+	private: System::Windows::Forms::MenuStrip^ menuStrip1;
+	protected:
+	private: System::Windows::Forms::ToolStripMenuItem^ Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem;
+	private: System::Windows::Forms::Label^ label1;
+	private: System::Windows::Forms::Label^ label2;
+	private: System::Windows::Forms::Label^ label3;
+	private: System::Windows::Forms::Label^ label4;
+	private: System::Windows::Forms::LinkLabel^ linkLabel1;
+	private: System::Windows::Forms::Label^ label5;
+	private: System::Windows::Forms::LinkLabel^ linkLabel2;
 
 	private:
 		/// <summary>
@@ -48,12 +58,142 @@ namespace Frontend {
 		/// </summary>
 		void InitializeComponent(void)
 		{
-			this->components = gcnew System::ComponentModel::Container();
-			this->Size = System::Drawing::Size(300,300);
-			this->Text = L"AboutForm";
-			this->Padding = System::Windows::Forms::Padding(0);
+			this->menuStrip1 = (gcnew System::Windows::Forms::MenuStrip());
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem = (gcnew System::Windows::Forms::ToolStripMenuItem());
+			this->label1 = (gcnew System::Windows::Forms::Label());
+			this->label2 = (gcnew System::Windows::Forms::Label());
+			this->label3 = (gcnew System::Windows::Forms::Label());
+			this->label4 = (gcnew System::Windows::Forms::Label());
+			this->linkLabel1 = (gcnew System::Windows::Forms::LinkLabel());
+			this->label5 = (gcnew System::Windows::Forms::Label());
+			this->linkLabel2 = (gcnew System::Windows::Forms::LinkLabel());
+			this->menuStrip1->SuspendLayout();
+			this->SuspendLayout();
+			// 
+			// menuStrip1
+			// 
+			this->menuStrip1->ImageScalingSize = System::Drawing::Size(20, 20);
+			this->menuStrip1->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(1) { this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem });
+			this->menuStrip1->Location = System::Drawing::Point(0, 0);
+			this->menuStrip1->Name = L"menuStrip1";
+			this->menuStrip1->Size = System::Drawing::Size(344, 28);
+			this->menuStrip1->TabIndex = 0;
+			this->menuStrip1->Text = L"menuStrip1";
+			// 
+			// Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem
+			// 
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Name = L"Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem";
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Size = System::Drawing::Size(124, 24);
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Text = L"<- Õ‡ „Î‡‚ÌÛ˛";
+			// 
+			// label1
+			// 
+			this->label1->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(204)));
+			this->label1->Location = System::Drawing::Point(12, 47);
+			this->label1->Name = L"label1";
+			this->label1->Size = System::Drawing::Size(320, 180);
+			this->label1->TabIndex = 1;
+			this->label1->Text = L"œÓ„‡ÏÏ‡ ·˚Î‡ ‡Á‡·ÓÚ‡Ì‡ ‚ Í‡˜ÂÒÚ‚Â ‚˚ÔÛÒÍÌÓÈ Í‚‡ÎËÙËÍ‡ˆËÓÌÌÓÈ ‡·ÓÚ˚, ‡ Ú‡ÍÊÂ "
+				L"‰Îˇ ÔÓÒÎÂ‰Û˛˘Â„Ó ÔËÏÂÌÂÌËˇ Ì‡ ıÓÎÓ‰ËÎ¸ÌÓÏ ÔÂ‰ÔËˇÚËË.";
+			this->label1->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			// 
+			// label2
+			// 
+			this->label2->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->label2->Location = System::Drawing::Point(12, 236);
+			this->label2->Name = L"label2";
+			this->label2->Size = System::Drawing::Size(320, 29);
+			this->label2->TabIndex = 2;
+			this->label2->Text = L"–‡Á‡·ÓÚ˜ËÍ: ";
+			this->label2->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			this->label2->Click += gcnew System::EventHandler(this, &AboutForm::label2_Click);
+			// 
+			// label3
+			// 
+			this->label3->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->label3->Location = System::Drawing::Point(12, 265);
+			this->label3->Name = L"label3";
+			this->label3->Size = System::Drawing::Size(320, 32);
+			this->label3->TabIndex = 3;
+			this->label3->Text = L" ÛÔ‡ÂÌÍÓ‚ ».¿. »”3-83¡.";
+			this->label3->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			// 
+			// label4
+			// 
+			this->label4->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->label4->Location = System::Drawing::Point(12, 297);
+			this->label4->Name = L"label4";
+			this->label4->Size = System::Drawing::Size(320, 29);
+			this->label4->TabIndex = 4;
+			this->label4->Text = L" ÓÌÚ‡ÍÚ˚ ‰Îˇ Ò‚ˇÁË: ";
+			this->label4->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			// 
+			// linkLabel1
+			// 
+			this->linkLabel1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(204)));
+			this->linkLabel1->Location = System::Drawing::Point(12, 326);
+			this->linkLabel1->Name = L"linkLabel1";
+			this->linkLabel1->Size = System::Drawing::Size(320, 23);
+			this->linkLabel1->TabIndex = 5;
+			this->linkLabel1->TabStop = true;
+			this->linkLabel1->Text = L"vk.com/prosefionol";
+			this->linkLabel1->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			// 
+			// label5
+			// 
+			this->label5->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->label5->Location = System::Drawing::Point(12, 377);
+			this->label5->Name = L"label5";
+			this->label5->Size = System::Drawing::Size(320, 68);
+			this->label5->TabIndex = 6;
+			this->label5->Text = L" Ó‰ ÔÓ„‡ÏÏ˚ ‰ÓÒÚÛÔÂÌ ÔÓ ÒÒ˚ÎÍÂ:";
+			this->label5->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			// 
+			// linkLabel2
+			// 
+			this->linkLabel2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(204)));
+			this->linkLabel2->Location = System::Drawing::Point(12, 445);
+			this->linkLabel2->Name = L"linkLabel2";
+			this->linkLabel2->Size = System::Drawing::Size(320, 28);
+			this->linkLabel2->TabIndex = 7;
+			this->linkLabel2->TabStop = true;
+			this->linkLabel2->Text = L"github.com/Prosefionol/BigDataonC";
+			this->linkLabel2->TextAlign = System::Drawing::ContentAlignment::TopCenter;
+			// 
+			// AboutForm
+			// 
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
+			this->ClientSize = System::Drawing::Size(344, 505);
+			this->Controls->Add(this->linkLabel2);
+			this->Controls->Add(this->label5);
+			this->Controls->Add(this->linkLabel1);
+			this->Controls->Add(this->label4);
+			this->Controls->Add(this->label3);
+			this->Controls->Add(this->label2);
+			this->Controls->Add(this->label1);
+			this->Controls->Add(this->menuStrip1);
+			this->MainMenuStrip = this->menuStrip1;
+			this->MaximizeBox = false;
+			this->MaximumSize = System::Drawing::Size(362, 552);
+			this->MinimumSize = System::Drawing::Size(362, 552);
+			this->Name = L"AboutForm";
+			this->Text = L"Œ ÔÓ„‡ÏÏÂ";
+			this->menuStrip1->ResumeLayout(false);
+			this->menuStrip1->PerformLayout();
+			this->ResumeLayout(false);
+			this->PerformLayout();
+
 		}
 #pragma endregion
-	};
+	private: System::Void label2_Click(System::Object^ sender, System::EventArgs^ e) {
+	}
+};
 }
