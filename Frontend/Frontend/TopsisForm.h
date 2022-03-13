@@ -1,5 +1,11 @@
 #pragma once
 
+#include "AboutForm.h"
+#include "ChangingForm.h"
+#include "InputForm.h"
+#include "MenuForm.h"
+#include "SavingForm.h"
+
 namespace Frontend {
 
 	using namespace System;
@@ -34,6 +40,14 @@ namespace Frontend {
 				delete components;
 			}
 		}
+	private: System::Windows::Forms::Button^ button1;
+	protected:
+	private: System::Windows::Forms::Button^ button2;
+	private: System::Windows::Forms::Label^ label1;
+	private: System::Windows::Forms::Label^ label2;
+	private: System::Windows::Forms::DataGridView^ dataGridView1;
+	private: System::Windows::Forms::MenuStrip^ menuStrip1;
+	private: System::Windows::Forms::ToolStripMenuItem^ Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem;
 
 	private:
 		/// <summary>
@@ -48,12 +62,113 @@ namespace Frontend {
 		/// </summary>
 		void InitializeComponent(void)
 		{
-			this->components = gcnew System::ComponentModel::Container();
-			this->Size = System::Drawing::Size(300,300);
-			this->Text = L"TopsisForm";
-			this->Padding = System::Windows::Forms::Padding(0);
+			this->button1 = (gcnew System::Windows::Forms::Button());
+			this->button2 = (gcnew System::Windows::Forms::Button());
+			this->label1 = (gcnew System::Windows::Forms::Label());
+			this->label2 = (gcnew System::Windows::Forms::Label());
+			this->dataGridView1 = (gcnew System::Windows::Forms::DataGridView());
+			this->menuStrip1 = (gcnew System::Windows::Forms::MenuStrip());
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem = (gcnew System::Windows::Forms::ToolStripMenuItem());
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dataGridView1))->BeginInit();
+			this->menuStrip1->SuspendLayout();
+			this->SuspendLayout();
+			// 
+			// button1
+			// 
+			this->button1->Font = (gcnew System::Drawing::Font(L"GOST type A", 19.8F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->button1->Location = System::Drawing::Point(70, 109);
+			this->button1->Name = L"button1";
+			this->button1->Size = System::Drawing::Size(237, 113);
+			this->button1->TabIndex = 0;
+			this->button1->Text = L"Õ‡ÈÚË ÎÛ˜¯ËÈ ‚‡Ë‡ÌÚ";
+			this->button1->UseVisualStyleBackColor = true;
+			// 
+			// button2
+			// 
+			this->button2->Font = (gcnew System::Drawing::Font(L"GOST type A", 19.8F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->button2->Location = System::Drawing::Point(70, 320);
+			this->button2->Name = L"button2";
+			this->button2->Size = System::Drawing::Size(237, 113);
+			this->button2->TabIndex = 1;
+			this->button2->Text = L"Õ‡ÈÚË ıÛ‰¯ËÈ ‚‡Ë‡ÌÚ";
+			this->button2->UseVisualStyleBackColor = true;
+			// 
+			// label1
+			// 
+			this->label1->AutoSize = true;
+			this->label1->Font = (gcnew System::Drawing::Font(L"GOST type A", 19.8F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->label1->Location = System::Drawing::Point(627, 36);
+			this->label1->Name = L"label1";
+			this->label1->Size = System::Drawing::Size(124, 35);
+			this->label1->TabIndex = 2;
+			this->label1->Text = L"√‡ÙËÍË:";
+			// 
+			// label2
+			// 
+			this->label2->AutoSize = true;
+			this->label2->Font = (gcnew System::Drawing::Font(L"GOST type A", 19.8F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->label2->Location = System::Drawing::Point(605, 268);
+			this->label2->Name = L"label2";
+			this->label2->Size = System::Drawing::Size(172, 35);
+			this->label2->TabIndex = 3;
+			this->label2->Text = L"»ÌÙÓÏ‡ˆËˇ:";
+			// 
+			// dataGridView1
+			// 
+			this->dataGridView1->ColumnHeadersHeightSizeMode = System::Windows::Forms::DataGridViewColumnHeadersHeightSizeMode::AutoSize;
+			this->dataGridView1->Location = System::Drawing::Point(489, 320);
+			this->dataGridView1->Name = L"dataGridView1";
+			this->dataGridView1->RowHeadersWidth = 51;
+			this->dataGridView1->RowTemplate->Height = 24;
+			this->dataGridView1->Size = System::Drawing::Size(405, 200);
+			this->dataGridView1->TabIndex = 4;
+			// 
+			// menuStrip1
+			// 
+			this->menuStrip1->ImageScalingSize = System::Drawing::Size(20, 20);
+			this->menuStrip1->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(1) { this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem });
+			this->menuStrip1->Location = System::Drawing::Point(0, 0);
+			this->menuStrip1->Name = L"menuStrip1";
+			this->menuStrip1->Size = System::Drawing::Size(906, 28);
+			this->menuStrip1->TabIndex = 5;
+			this->menuStrip1->Text = L"menuStrip1";
+			// 
+			// Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem
+			// 
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Name = L"Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem";
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Size = System::Drawing::Size(124, 24);
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Text = L"<- Õ‡ „Î‡‚ÌÛ˛";
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Click += gcnew System::EventHandler(this, &TopsisForm::Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem_Click);
+			// 
+			// TopsisForm
+			// 
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
+			this->ClientSize = System::Drawing::Size(906, 532);
+			this->Controls->Add(this->dataGridView1);
+			this->Controls->Add(this->label2);
+			this->Controls->Add(this->label1);
+			this->Controls->Add(this->button2);
+			this->Controls->Add(this->button1);
+			this->Controls->Add(this->menuStrip1);
+			this->MainMenuStrip = this->menuStrip1;
+			this->MaximizeBox = false;
+			this->MaximumSize = System::Drawing::Size(924, 579);
+			this->MinimumSize = System::Drawing::Size(924, 579);
+			this->Name = L"TopsisForm";
+			this->Text = L"¬˚·Ó ÔÓÒÚ‡‚˘ËÍ‡";
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dataGridView1))->EndInit();
+			this->menuStrip1->ResumeLayout(false);
+			this->menuStrip1->PerformLayout();
+			this->ResumeLayout(false);
+			this->PerformLayout();
+
 		}
 #pragma endregion
-	};
+	private: System::Void Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem_Click(System::Object^ sender, System::EventArgs^ e);
+};
 }

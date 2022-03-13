@@ -1,5 +1,13 @@
 #pragma once
 
+#include "AboutForm.h"
+#include "ChangingForm.h"
+#include "InputForm.h"
+#include "MenuForm.h"
+#include "TopsisForm.h"
+
+#include <iostream>
+
 namespace Frontend {
 
 	using namespace System;
@@ -74,7 +82,6 @@ namespace Frontend {
 			this->label1->TabIndex = 8;
 			this->label1->Text = L"”Í‡ÊËÚÂ Ì‡Á‚‡ÌËÂ Ù‡ÈÎ‡:";
 			this->label1->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
-			this->label1->Click += gcnew System::EventHandler(this, &SavingForm::label1_Click);
 			// 
 			// textBox1
 			// 
@@ -82,7 +89,6 @@ namespace Frontend {
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->Size = System::Drawing::Size(271, 22);
 			this->textBox1->TabIndex = 7;
-			this->textBox1->TextChanged += gcnew System::EventHandler(this, &SavingForm::textBox1_TextChanged);
 			// 
 			// button1
 			// 
@@ -105,13 +111,13 @@ namespace Frontend {
 			this->menuStrip1->Size = System::Drawing::Size(574, 28);
 			this->menuStrip1->TabIndex = 5;
 			this->menuStrip1->Text = L"menuStrip1";
-			this->menuStrip1->ItemClicked += gcnew System::Windows::Forms::ToolStripItemClickedEventHandler(this, &SavingForm::menuStrip1_ItemClicked);
 			// 
 			// Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1
 			// 
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Name = L"Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1";
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Size = System::Drawing::Size(124, 24);
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Text = L"<- Õ‡ „Î‡‚ÌÛ˛";
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Click += gcnew System::EventHandler(this, &SavingForm::Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1_Click);
 			// 
 			// SavingForm
 			// 
@@ -126,6 +132,7 @@ namespace Frontend {
 			this->MaximumSize = System::Drawing::Size(592, 384);
 			this->MinimumSize = System::Drawing::Size(592, 384);
 			this->Name = L"SavingForm";
+			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"—Óı‡ÌÂÌËÂ ·‡Á˚ ‰‡ÌÌ˚ı";
 			this->menuStrip1->ResumeLayout(false);
 			this->menuStrip1->PerformLayout();
@@ -134,13 +141,8 @@ namespace Frontend {
 
 		}
 #pragma endregion
-	private: System::Void label1_Click(System::Object^ sender, System::EventArgs^ e) {
-	}
-private: System::Void textBox1_TextChanged(System::Object^ sender, System::EventArgs^ e) {
-	}
-private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
-	}
-private: System::Void menuStrip1_ItemClicked(System::Object^ sender, System::Windows::Forms::ToolStripItemClickedEventArgs^ e) {
-	}
+	
+private: System::Void Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e);
 };
 }

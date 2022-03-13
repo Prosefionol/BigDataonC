@@ -1,5 +1,12 @@
 #pragma once
 
+#include "InputForm.h"
+#include "MenuForm.h"
+#include "SavingForm.h"
+#include "TopsisForm.h"
+#include "ChangingForm.h"
+
+
 namespace Frontend {
 
 	using namespace System;
@@ -85,6 +92,7 @@ namespace Frontend {
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Name = L"Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem";
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Size = System::Drawing::Size(124, 24);
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Text = L"<- Õ‡ „Î‡‚ÌÛ˛";
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem->Click += gcnew System::EventHandler(this, &AboutForm::Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem_Click);
 			// 
 			// label1
 			// 
@@ -108,7 +116,6 @@ namespace Frontend {
 			this->label2->TabIndex = 2;
 			this->label2->Text = L"–‡Á‡·ÓÚ˜ËÍ: ";
 			this->label2->TextAlign = System::Drawing::ContentAlignment::TopCenter;
-			this->label2->Click += gcnew System::EventHandler(this, &AboutForm::label2_Click);
 			// 
 			// label3
 			// 
@@ -185,6 +192,7 @@ namespace Frontend {
 			this->MaximumSize = System::Drawing::Size(362, 552);
 			this->MinimumSize = System::Drawing::Size(362, 552);
 			this->Name = L"AboutForm";
+			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"Œ ÔÓ„‡ÏÏÂ";
 			this->menuStrip1->ResumeLayout(false);
 			this->menuStrip1->PerformLayout();
@@ -193,7 +201,7 @@ namespace Frontend {
 
 		}
 #pragma endregion
-	private: System::Void label2_Click(System::Object^ sender, System::EventArgs^ e) {
-	}
+	
+private: System::Void Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem_Click(System::Object^ sender, System::EventArgs^ e);
 };
 }

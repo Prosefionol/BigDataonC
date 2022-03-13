@@ -2,7 +2,7 @@
 
 // Описание функций
 // Считывание из файла
-void GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
+bool GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 {
 	std::ifstream ifile(filename);
 	try
@@ -12,8 +12,9 @@ void GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 			// Создаём временные переменные
 			std::string supp;
 			Product prod;
-
+			
 			ifile >> n;
+			
 			e = new Elem[n];
 
 			for (int i = 0; i < n; i++)
@@ -29,18 +30,23 @@ void GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 		}
 		else
 		{
-			throw Oshibka("Problema s otkritiem fila");
+			throw Oshibka("Проблема с открытием файла!");
 		}
 	}
 	catch (Oshibka& o)
 	{
-		std::cerr << o.GetNazv() << std::endl;
+		System::Windows::Forms::MessageBox::Show(stoS(o.GetNazv()), "Ошибка!");
+		ifile.close();
+		return false;
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
+		ifile.close();
+		return false;
 	}
 	ifile.close();
+	return true;
 }
 
 // Печать данных
@@ -57,16 +63,16 @@ void PrintData(Elem* e, int n) throw (Oshibka&)
 		}
 		else
 		{
-			throw Oshibka("Net dannih");
+			throw Oshibka("Нет данных!");
 		}
 	}
 	catch (Oshibka& o)
 	{
-		std::cerr << o.GetNazv() << std::endl;
+		System::Windows::Forms::MessageBox::Show(stoS(o.GetNazv()), "Ошибка!");
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 }
 
@@ -91,16 +97,16 @@ void ChangeData(Elem* e, int n, int ch) throw (Oshibka&)
 		}
 		else
 		{
-			throw Oshibka("Nomer za granicey dopustimih");
+			throw Oshibka("Номер за границей допустимых!");
 		}
 	}
 	catch (Oshibka& o)
 	{
-		std::cerr << o.GetNazv() << std::endl;
+		System::Windows::Forms::MessageBox::Show(stoS(o.GetNazv()), "Ошибка!");
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 }
 
@@ -130,7 +136,7 @@ void AddData(Elem* (&e), int& n) throw (Oshibka&)
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 	delete[] buffer;
 }
@@ -147,7 +153,7 @@ void CopyData(Elem* enew, Elem* eold, int n) throw (Oshibka&)
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 }
 
@@ -175,16 +181,16 @@ void DeleteData(Elem* e, int n, int del) throw (Oshibka&)
 		}
 		else
 		{
-			throw Oshibka("Nomer za granicey dopustimih");
+			throw Oshibka("Номер за границей допустимых!");
 		}
 	}
 	catch (Oshibka& o)
 	{
-		std::cerr << o.GetNazv() << std::endl;
+		System::Windows::Forms::MessageBox::Show(stoS(o.GetNazv()), "Ошибка!");
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 	delete[] buffer;
 }
@@ -211,12 +217,12 @@ void SortingRelevance(Elem* e, int n) throw (Oshibka&)
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 }
 
 // Сохранение в файл
-void SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
+bool SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 {
 	std::ofstream ofile(filename);
 	try
@@ -242,18 +248,23 @@ void SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 		}
 		else
 		{
-			throw Oshibka("Problema s otkritiem fila");
+			throw Oshibka("Проблема с открытием файла!");
 		}
 	}
 	catch (Oshibka& o)
 	{
-		std::cerr << o.GetNazv() << std::endl;
+		System::Windows::Forms::MessageBox::Show(stoS(o.GetNazv()), "Ошибка!");
+		ofile.close();
+		return false;
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
+		ofile.close();
+		return false;
 	}
 	ofile.close();
+	return true;
 }
 
 // Применение метода TOPSIS
@@ -287,16 +298,6 @@ void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 				normc[i * size + j] = int(normc[i * size + j] * 1000 + 0.5) / 1000.;
 			}
 		}
-		// Тестовый вывод
-		/* std::cout << "matrica 1 " << std::endl;
-		for (int i = 0; i < n; i++)
-		{
-			for (int j = 0; j < size; j++)
-			{
-				std::cout << " " << normc[i * size + j];
-			}
-			std::cout << std::endl;
-		}*/
 		// Заполняем таблицу идеальных решений
 		for (int j = 0; j < size; j++)
 		{
@@ -320,12 +321,6 @@ void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 				}
 			}
 		}
-		// Тестовый вывод
-		/* std::cout << "matrica 2 " << std::endl;
-		for (int i = 0; i < size; i++)
-		{
-			std::cout << aplus[i] << " " << aminus[i] << std::endl;
-		}*/
 		// Заполняем таблицы близости
 		for (int i = 0; i < n; i++)
 		{
@@ -347,13 +342,6 @@ void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 			pos[i] = int(pos[i] * 1000 + 0.5) / 1000.;
 			neg[i] = int(neg[i] * 1000 + 0.5) / 1000.;
 		}
-		// Тестовый вывод
-		/* std::cout << "matrica 3 " << std::endl;
-		for (int i = 0; i < n; i++)
-		{
-			std::cout << pos[i] << " " << neg[i] << std::endl;
-		}*/
-		// Записываем значения релевантности
 		for (int i = 0; i < n; i++)
 		{
 			e[i].SetRelevance(int(neg[i] / (neg[i] + pos[i]) * 1000 + 0.5) / 1000.);
@@ -361,9 +349,45 @@ void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 	}
 	catch (...)
 	{
-		std::cerr << "Chto-to poshlo ne tak!" << std::endl;
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
 	}
 	delete[] normc;
 	delete[] pos;
 	delete[] neg;
+}
+
+// Опустошить файл
+void ClearFile(std::string filename)
+{
+	std::ofstream delfile(filename, std::ios::out | std::ios::trunc);
+	delfile.close();
+}
+
+// Функции преобразования типов
+// Из фронтенда в бэкенд
+std::string& Stos(System::String^ s)
+{
+	std::string n_s;
+	const char* ch = (const char*)(System::Runtime::InteropServices::Marshal::StringToHGlobalAnsi(s)).ToPointer();
+	n_s = ch;
+
+	System::Runtime::InteropServices::Marshal::FreeHGlobal(System::IntPtr((void*)ch));
+	return n_s;
+}
+
+// Из бэкенда в фронтенд
+System::String^ stoS(std::string& s)
+{
+	System::String^ n_s = gcnew System::String(s.c_str());
+	return n_s;
+}
+
+// Из фронтенда в бэкенд
+std::string& S_to_s(System::String^ s_o, std::string& s_n)
+{
+	const char* ch = (const char*)(System::Runtime::InteropServices::Marshal::StringToHGlobalAnsi(s_o)).ToPointer();
+	s_n = ch;
+
+	System::Runtime::InteropServices::Marshal::FreeHGlobal(System::IntPtr((void*)ch));
+	return s_n;
 }

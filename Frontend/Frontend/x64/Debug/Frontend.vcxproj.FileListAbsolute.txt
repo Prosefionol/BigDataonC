@@ -2,3 +2,8 @@ D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.AssemblyRe
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.SuggestedBindingRedirects.cache
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.MenuForm.resources
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.GenerateResource.cache
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.AboutForm.resources
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.ChangingForm.resources
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.InputForm.resources
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.SavingForm.resources
+D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.TopsisForm.resources

@@ -1,5 +1,13 @@
 #pragma once
 
+#include "AboutForm.h"
+#include "ChangingForm.h"
+#include "MenuForm.h"
+#include "SavingForm.h"
+#include "TopsisForm.h"
+
+#include <iostream>
+
 namespace Frontend {
 
 	using namespace System;
@@ -43,6 +51,7 @@ namespace Frontend {
 	private: System::Windows::Forms::TextBox^ textBox1;
 	private: System::Windows::Forms::Label^ label1;
 
+
 	private: System::ComponentModel::IContainer^ components;
 
 	private:
@@ -79,8 +88,9 @@ namespace Frontend {
 			// Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1
 			// 
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Name = L"Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1";
-			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Size = System::Drawing::Size(124, 26);
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Size = System::Drawing::Size(124, 24);
 			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Text = L"<- Õ‡ „Î‡‚ÌÛ˛";
+			this->Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1->Click += gcnew System::EventHandler(this, &InputForm::Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1_Click);
 			// 
 			// button1
 			// 
@@ -92,6 +102,7 @@ namespace Frontend {
 			this->button1->TabIndex = 2;
 			this->button1->Text = L"—˜ËÚ‡Ú¸ ·‡ÁÛ ‰‡ÌÌ˚ı";
 			this->button1->UseVisualStyleBackColor = true;
+			this->button1->Click += gcnew System::EventHandler(this, &InputForm::button1_Click);
 			// 
 			// textBox1
 			// 
@@ -112,7 +123,6 @@ namespace Frontend {
 			this->label1->TabIndex = 4;
 			this->label1->Text = L"”Í‡ÊËÚÂ ÔÛÚ¸ Í Ù‡ÈÎÛ:";
 			this->label1->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
-			this->label1->Click += gcnew System::EventHandler(this, &InputForm::label1_Click);
 			// 
 			// InputForm
 			// 
@@ -128,6 +138,7 @@ namespace Frontend {
 			this->MaximumSize = System::Drawing::Size(592, 384);
 			this->MinimumSize = System::Drawing::Size(592, 384);
 			this->Name = L"InputForm";
+			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"¬‚Ó‰ ·‡Á˚ ‰‡ÌÌ˚ı";
 			this->menuStrip1->ResumeLayout(false);
 			this->menuStrip1->PerformLayout();
@@ -136,7 +147,8 @@ namespace Frontend {
 
 		}
 #pragma endregion
-	private: System::Void label1_Click(System::Object^ sender, System::EventArgs^ e) {
-	}
+	
+private: System::Void Ì‡√Î‡‚ÌÛ˛ToolStripMenuItem1_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e);
 };
 }

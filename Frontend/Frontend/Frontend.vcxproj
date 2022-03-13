@@ -157,6 +157,9 @@
     <EmbeddedResource Include="AboutForm.resx">
       <DependentUpon>AboutForm.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ChangingForm.resx">
+      <DependentUpon>ChangingForm.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="InputForm.resx">
       <DependentUpon>InputForm.h</DependentUpon>
     </EmbeddedResource>
@@ -165,6 +168,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SavingForm.resx">
       <DependentUpon>SavingForm.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TopsisForm.resx">
+      <DependentUpon>TopsisForm.h</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

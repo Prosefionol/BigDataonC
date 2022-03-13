@@ -1,5 +1,11 @@
 #pragma once
 
+#include "AboutForm.h"
+#include "ChangingForm.h"
+#include "InputForm.h"
+#include "SavingForm.h"
+#include "TopsisForm.h"
+
 namespace Frontend {
 
 	using namespace System;
@@ -74,6 +80,7 @@ namespace Frontend {
 			this->button1->TabIndex = 0;
 			this->button1->Text = L"Ввод базы данных";
 			this->button1->UseVisualStyleBackColor = true;
+			this->button1->Click += gcnew System::EventHandler(this, &MenuForm::button1_Click);
 			// 
 			// button2
 			// 
@@ -99,6 +106,7 @@ namespace Frontend {
 			this->button3->TabIndex = 2;
 			this->button3->Text = L"Найти лучший вариант";
 			this->button3->UseVisualStyleBackColor = true;
+			this->button3->Click += gcnew System::EventHandler(this, &MenuForm::button3_Click);
 			// 
 			// button4
 			// 
@@ -111,6 +119,7 @@ namespace Frontend {
 			this->button4->TabIndex = 3;
 			this->button4->Text = L"Сохранить базу данных";
 			this->button4->UseVisualStyleBackColor = true;
+			this->button4->Click += gcnew System::EventHandler(this, &MenuForm::button4_Click);
 			// 
 			// button5
 			// 
@@ -123,6 +132,7 @@ namespace Frontend {
 			this->button5->TabIndex = 4;
 			this->button5->Text = L"О программе";
 			this->button5->UseVisualStyleBackColor = true;
+			this->button5->Click += gcnew System::EventHandler(this, &MenuForm::button5_Click);
 			// 
 			// button6
 			// 
@@ -135,6 +145,7 @@ namespace Frontend {
 			this->button6->TabIndex = 5;
 			this->button6->Text = L"Выход";
 			this->button6->UseVisualStyleBackColor = true;
+			this->button6->Click += gcnew System::EventHandler(this, &MenuForm::button6_Click);
 			// 
 			// MenuForm
 			// 
@@ -160,7 +171,12 @@ namespace Frontend {
 
 		}
 #pragma endregion
-	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
-	}
+	
+private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button4_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button5_Click(System::Object^ sender, System::EventArgs^ e);
+private: System::Void button6_Click(System::Object^ sender, System::EventArgs^ e);
 };
 }
