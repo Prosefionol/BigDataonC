@@ -31,6 +31,15 @@ System::Void Frontend::SavingForm::button1_Click(System::Object^ sender, System:
 	if (SaveToFile(buf, n, filename))
 	{
 		System::Windows::Forms::MessageBox::Show("База данных успешно сохранена!", "Уведомление");
+
+		if (System::Windows::Forms::MessageBox::Show("Выйти из программы?", "Навигация", System::Windows::Forms::MessageBoxButtons::YesNo)
+			!= System::Windows::Forms::DialogResult::No)
+		{
+			ClearFile("data.txt");
+			delete[] buf;
+			Application::Exit();
+			return System::Void();
+		}
 	}
 
 	delete[] buf;

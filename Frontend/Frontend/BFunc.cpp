@@ -132,7 +132,8 @@ void AddData(Elem* (&e), int& n) throw (Oshibka&)
 			prod.property[4] >> prod.property[5] >> prod.property[6] >> prod.property[7];
 		std::cin >> prod.relevance;
 
-		e[n].GetDatabase(supp, prod);
+		e[s].GetDatabase(supp, prod);
+		n = ns;
 	}
 	catch (...)
 	{
@@ -159,7 +160,7 @@ void CopyData(Elem* enew, Elem* eold, int n) throw (Oshibka&)
 
 // ”даление данных
 // del - номер удал€емого переменного
-void DeleteData(Elem* e, int n, int del) throw (Oshibka&)
+void DeleteData(Elem* (&e), int& n, int del) throw (Oshibka&)
 {
 	Elem* buffer = new Elem[n];
 	try

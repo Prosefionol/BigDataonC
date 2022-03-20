@@ -25,8 +25,15 @@ System::Void Frontend::InputForm::button1_Click(System::Object^ sender, System::
 	{
 		System::Windows::Forms::MessageBox::Show("База данных считана успешно!\nВсего считано " + n + " запись(си).", "Уведомление");
 		SaveToFile(buf, n, "data.txt");
+		if (System::Windows::Forms::MessageBox::Show("Просмотреть считаные данные?", "Навигация", System::Windows::Forms::MessageBoxButtons::YesNo)
+			!= System::Windows::Forms::DialogResult::No)
+		{
+			ChangingForm^ form = gcnew ChangingForm();
+			this->Hide();
+			form->Show();
+		}
 	}
-	
+		
 	delete[] buf;
 	return System::Void();
 }
