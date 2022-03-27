@@ -196,7 +196,7 @@ void DeleteData(Elem* (&e), int& n, int del) throw (Oshibka&)
 	delete[] buffer;
 }
 
-// Сортировка данных
+// Сортировка данных по убыванию
 void SortingRelevance(Elem* e, int n) throw (Oshibka&)
 {
 	try
@@ -208,6 +208,32 @@ void SortingRelevance(Elem* e, int n) throw (Oshibka&)
 			for (int j = i + 1; j < n; j++)
 			{
 				if (e[i].GetProduct().relevance < e[j].GetProduct().relevance)
+				{
+					buffer = e[i];
+					e[i] = e[j];
+					e[j] = buffer;
+				}
+			}
+		}
+	}
+	catch (...)
+	{
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
+	}
+}
+
+// Сортировка данных по возрастанию
+void RelevanceSorting(Elem* e, int n) throw (Oshibka&)
+{
+	try
+	{
+		Elem buffer;
+
+		for (int i = 0; i < n; i++)
+		{
+			for (int j = i + 1; j < n; j++)
+			{
+				if (e[i].GetProduct().relevance > e[j].GetProduct().relevance)
 				{
 					buffer = e[i];
 					e[i] = e[j];
@@ -391,4 +417,25 @@ std::string& S_to_s(System::String^ s_o, std::string& s_n)
 
 	System::Runtime::InteropServices::Marshal::FreeHGlobal(System::IntPtr((void*)ch));
 	return s_n;
+}
+
+// Нахождение среднего значения релевантности
+double FindAverageRelevance(Elem* e, int n) throw (Oshibka&)
+{
+	double avg = 0.;
+
+	try
+	{
+		for (int i = 0; i < n; i++)
+		{
+			avg = avg + e[i].GetProduct().relevance;
+		}
+		avg = int(avg / n * 1000 + 0.5) / 1000.;
+	}
+	catch (...)
+	{
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
+	}
+
+	return avg;
 }
