@@ -13,8 +13,10 @@ void CopyData(Elem* enew, Elem* eold, int n) throw (Oshibka&); // Копирование да
 void DeleteData(Elem* (&e), int& n, int del) throw (Oshibka&); // Удаление данных
 void SortingRelevance(Elem* e, int n) throw (Oshibka&); // Сортировка данных по убыванию
 void RelevanceSorting(Elem* e, int n) throw (Oshibka&); // Сортировка данных по возрастанию
+void Sorting(Elem* e, int n, int k) throw (Oshibka&); // Сортировка данных по критерию
 bool SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&); // Сохранение в файл
 void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&); // Применение метода TOPSIS
+void ApplyMCDM(Elem* (&e), int& n) throw (Oshibka&); // Применение оригинального метода
 double FindAverageRelevance(Elem* e, int n) throw (Oshibka&); // Нахождение среднего значения релевантности
 void ClearFile(std::string filename); // Опустошить файл
 

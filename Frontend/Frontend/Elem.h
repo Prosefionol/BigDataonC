@@ -38,6 +38,10 @@ public:
 	{
 		pr.relevance = rel;
 	}
+	void SetProperty(int k, int prop)
+	{
+		pr.property[k] = prop;
+	}
 
 	Elem& operator= (Elem eold);
 };

@@ -21,7 +21,8 @@ System::Void Frontend::TopsisForm::TopsisForm_Shown(System::Object^ sender, Syst
 		return System::Void();
 	}
 
-	ApplyTopsis(buf, n);
+	ApplyMCDM(buf, n);
+	// ApplyTopsis(buf, n);
 	SaveToFile(buf, n, "data.txt");
 
 	dataGridView1->Rows->Clear();

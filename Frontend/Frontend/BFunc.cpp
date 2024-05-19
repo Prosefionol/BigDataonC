@@ -248,6 +248,32 @@ void RelevanceSorting(Elem* e, int n) throw (Oshibka&)
 	}
 }
 
+// Сортировка данных по критерию
+void Sorting(Elem* e, int n, int k) throw (Oshibka&)
+{
+	try
+	{
+		Elem buffer;
+
+		for (int i = 0; i < n; i++)
+		{
+			for (int j = i + 1; j < n; j++)
+			{
+				if (e[i].GetProduct().property[k] > e[j].GetProduct().property[k])
+				{
+					buffer = e[i];
+					e[i] = e[j];
+					e[j] = buffer;
+				}
+			}
+		}
+	}
+	catch (...)
+	{
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
+	}
+}
+
 // Сохранение в файл
 bool SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 {
@@ -307,6 +333,123 @@ void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 	double prom[size] = {0};
 	try
 	{
+		// Промежуточные значения для нормирования коэффициент
+		for (int j = 0; j < size; j++)
+		{
+			for (int i = 0; i < n; i++)
+			{
+				prom[j] = prom[j] + pow(e[i].GetProduct().property[j], 2);
+			}
+			prom[j] = sqrt(prom[j]);
+		}
+		// Заполняем массив нормированными взвешенными коэффициентами
+		for (int i = 0; i < n; i++)
+		{
+			for (int j = 0; j < size; j++)
+			{
+				normc[i * size + j] = e[i].GetProduct().property[j] / prom[j] * w[j];
+				normc[i * size + j] = int(normc[i * size + j] * 1000 + 0.5) / 1000.;
+			}
+		}
+		// Заполняем таблицу идеальных решений
+		for (int j = 0; j < size; j++)
+		{
+			for (int i = 0; i < n; i++)
+			{
+				if (i == 0)
+				{
+					aplus[j] = normc[j];
+					aminus[j] = normc[j];
+				}
+				else
+				{
+					if (normc[i * size + j] < aminus[j])
+					{
+						aminus[j] = normc[i * size + j];
+					}
+					if (normc[i * size + j] > aplus[j])
+					{
+						aplus[j] = normc[i * size + j];
+					}
+				}
+			}
+		}
+		// Заполняем таблицы близости
+		for (int i = 0; i < n; i++)
+		{
+			for (int j = 0; j < size; j++)
+			{
+				if (j == 0)
+				{
+					pos[i] = 0.;
+					neg[i] = 0.;
+				}
+				else
+				{
+					pos[i] = pos[i] + pow(aplus[j] - normc[i * size + j], 2);
+					neg[i] = neg[i] + pow(normc[i * size + j] - aminus[j], 2);
+				}
+			}
+			pos[i] = sqrt(pos[i]);
+			neg[i] = sqrt(neg[i]);
+			pos[i] = int(pos[i] * 1000 + 0.5) / 1000.;
+			neg[i] = int(neg[i] * 1000 + 0.5) / 1000.;
+		}
+		for (int i = 0; i < n; i++)
+		{
+			e[i].SetRelevance(int(neg[i] / (neg[i] + pos[i]) * 1000 + 0.5) / 1000.);
+		}
+	}
+	catch (...)
+	{
+		System::Windows::Forms::MessageBox::Show("Что-то пошло не так", "Ошибка!");
+	}
+	delete[] normc;
+	delete[] pos;
+	delete[] neg;
+}
+
+// Применение оригинального метода
+void ApplyMCDM(Elem* (&e), int& n) throw (Oshibka&)
+{
+	// const int size = 7;
+	// const double w[size] = { 0.23, 0.23, 0.15, 0.15, 0.08, 0.08, 0.08 };
+	const int size = 8;
+	const double w[size] = { 0.2, 0.1, 0.05, 0.1, 0.2, 0.2, 0.1, 0.05 };
+	const double selectionCoeff = 0.05;
+	int changeCoeff;
+	int weightedAverage;
+	double* normc = new double[size * n];
+	double* pos = new double[n];
+	double* neg = new double[n];
+	double aplus[size];
+	double aminus[size];
+	double prom[size] = { 0 };
+	try
+	{
+		// Применение промежуточного среднего
+		changeCoeff = int(floor(n * selectionCoeff));
+		for (int j = 0; j < size; j++)
+		{
+			Sorting(e, n, j);
+			weightedAverage = 0;
+			for (int i = changeCoeff; i < n - changeCoeff; i++)
+			{
+				weightedAverage = weightedAverage + e[i].GetProduct().property[j];
+			}
+			if (changeCoeff != 0)
+			{
+				weightedAverage = weightedAverage / (2 * changeCoeff);
+			}
+			for (int i = 0; i < changeCoeff; i++)
+			{
+				e[i].SetProperty(j, weightedAverage);
+			}
+			for (int i = n - 1; i > n - changeCoeff - 1; i--)
+			{
+				e[i].SetProperty(j, weightedAverage);
+			}
+		}
 		// Промежуточные значения для нормирования коэффициент
 		for (int j = 0; j < size; j++)
 		{

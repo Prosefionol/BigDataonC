@@ -7,3 +7,12 @@ D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.ChangingForm.resou
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.InputForm.resources
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.SavingForm.resources
 D:\BigDataonC\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.TopsisForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.AssemblyReference.cache
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.SuggestedBindingRedirects.cache
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.AboutForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.ChangingForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.InputForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.MenuForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.SavingForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.TopsisForm.resources
+D:\DiplomMaster\BigDataonC\Frontend\Frontend\x64\Debug\Frontend.vcxproj.GenerateResource.cache
