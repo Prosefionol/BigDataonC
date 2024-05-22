@@ -2,7 +2,7 @@
 
 // Описание функций
 // Считывание из файла
-bool GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
+bool GetFromFile(Elem* (&e), int& n, int& state, std::string filename) throw (Oshibka&)
 {
 	std::ifstream ifile(filename);
 	try
@@ -13,7 +13,7 @@ bool GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 			std::string supp;
 			Product prod;
 			
-			ifile >> n;
+			ifile >> n >> state;
 			
 			e = new Elem[n];
 
@@ -22,7 +22,7 @@ bool GetFromFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 				ifile >> supp;
 				ifile >> prod.name;
 				ifile >> prod.property[0] >> prod.property[1] >> prod.property[2] >> prod.property[3] >>
-					prod.property[4] >> prod.property[5] >> prod.property[6] >> prod.property[7];
+					prod.property[4] >> prod.property[5] >> prod.property[6];
 				ifile >> prod.relevance;
 
 				e[i].GetDatabase(supp, prod);
@@ -90,7 +90,7 @@ void ChangeData(Elem* e, int n, int ch) throw (Oshibka&)
 			std::cin >> supp;
 			std::cin >> prod.name;
 			std::cin >> prod.property[0] >> prod.property[1] >> prod.property[2] >> prod.property[3] >>
-				prod.property[4] >> prod.property[5] >> prod.property[6] >> prod.property[7];
+				prod.property[4] >> prod.property[5] >> prod.property[6];
 			std::cin >> prod.relevance;
 
 			e[ch].GetDatabase(supp, prod);
@@ -129,7 +129,7 @@ void AddData(Elem* (&e), int& n) throw (Oshibka&)
 		std::cin >> supp;
 		std::cin >> prod.name;
 		std::cin >> prod.property[0] >> prod.property[1] >> prod.property[2] >> prod.property[3] >>
-			prod.property[4] >> prod.property[5] >> prod.property[6] >> prod.property[7];
+			prod.property[4] >> prod.property[5] >> prod.property[6];
 		std::cin >> prod.relevance;
 
 		e[s].GetDatabase(supp, prod);
@@ -275,14 +275,14 @@ void Sorting(Elem* e, int n, int k) throw (Oshibka&)
 }
 
 // Сохранение в файл
-bool SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
+bool SaveToFile(Elem* (&e), int& n, int state, std::string filename) throw (Oshibka&)
 {
 	std::ofstream ofile(filename);
 	try
 	{
 		if (ofile)
 		{
-			ofile << n << std::endl;
+			ofile << n << " " << state << std::endl;
 			
 			for (int i = 0; i < n; i++)
 			{
@@ -290,7 +290,7 @@ bool SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 				ofile << e[i].GetProduct().name << std::endl;
 				ofile << e[i].GetProduct().property[0] << " " << e[i].GetProduct().property[1] << " " << e[i].GetProduct().property[2] << " "
 					<< e[i].GetProduct().property[3] << " " << e[i].GetProduct().property[4] << " " << e[i].GetProduct().property[5] << " "
-					<< e[i].GetProduct().property[6] << " " << e[i].GetProduct().property[7] << std::endl;
+					<< e[i].GetProduct().property[6] << std::endl;
 				ofile << e[i].GetProduct().relevance;
 				
 				if (i < n - 1)
@@ -323,8 +323,8 @@ bool SaveToFile(Elem* (&e), int& n, std::string filename) throw (Oshibka&)
 // Применение метода TOPSIS
 void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 {
-	const int size = 8;
-	const double w[size] = { 0.2, 0.1, 0.05, 0.1, 0.2, 0.2, 0.1, 0.05 };
+	const int size = 7;
+	const double w[size] = { 0.23, 0.23, 0.15, 0.15, 0.08, 0.08, 0.08 };
 	double* normc = new double[size * n];
 	double* pos = new double[n];
 	double* neg = new double[n];
@@ -412,10 +412,8 @@ void ApplyTopsis(Elem* (&e), int& n) throw (Oshibka&)
 // Применение оригинального метода
 void ApplyMCDM(Elem* (&e), int& n) throw (Oshibka&)
 {
-	// const int size = 7;
-	// const double w[size] = { 0.23, 0.23, 0.15, 0.15, 0.08, 0.08, 0.08 };
-	const int size = 8;
-	const double w[size] = { 0.2, 0.1, 0.05, 0.1, 0.2, 0.2, 0.1, 0.05 };
+	const int size = 7;
+	const double w[size] = { 0.23, 0.23, 0.15, 0.15, 0.08, 0.08, 0.08 };
 	const double selectionCoeff = 0.05;
 	int changeCoeff;
 	int weightedAverage;

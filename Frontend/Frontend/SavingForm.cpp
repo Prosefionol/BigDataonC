@@ -17,10 +17,11 @@ System::Void Frontend::SavingForm::button1_Click(System::Object^ sender, System:
 	}
 
 	std::string filename;
+	int state;
 	int n = 0;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("База данных не была загружена!", "Уведомление");
@@ -28,7 +29,7 @@ System::Void Frontend::SavingForm::button1_Click(System::Object^ sender, System:
 		return System::Void();
 	}
 	S_to_s(textBox1->Text->ToString(), filename);
-	if (SaveToFile(buf, n, filename))
+	if (SaveToFile(buf, n, state, filename))
 	{
 		System::Windows::Forms::MessageBox::Show("База данных успешно сохранена!", "Уведомление");
 

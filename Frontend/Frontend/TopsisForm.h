@@ -52,6 +52,7 @@ namespace Frontend {
 	private: System::Windows::Forms::DataVisualization::Charting::Chart^ chart1;
 	private: System::Windows::Forms::RadioButton^ radioButton1;
 	private: System::Windows::Forms::RadioButton^ radioButton2;
+	private: System::Windows::Forms::Button^ button2;
 
 	private:
 		/// <summary>
@@ -79,6 +80,7 @@ namespace Frontend {
 			this->chart1 = (gcnew System::Windows::Forms::DataVisualization::Charting::Chart());
 			this->radioButton1 = (gcnew System::Windows::Forms::RadioButton());
 			this->radioButton2 = (gcnew System::Windows::Forms::RadioButton());
+			this->button2 = (gcnew System::Windows::Forms::Button());
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dataGridView1))->BeginInit();
 			this->menuStrip1->SuspendLayout();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->chart1))->BeginInit();
@@ -88,7 +90,7 @@ namespace Frontend {
 			// 
 			this->button1->Font = (gcnew System::Drawing::Font(L"GOST type A", 19.8F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->button1->Location = System::Drawing::Point(22, 407);
+			this->button1->Location = System::Drawing::Point(298, 407);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(237, 113);
 			this->button1->TabIndex = 0;
@@ -135,14 +137,14 @@ namespace Frontend {
 			this->menuStrip1->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(1) { this->íàÃëàâíóþToolStripMenuItem });
 			this->menuStrip1->Location = System::Drawing::Point(0, 0);
 			this->menuStrip1->Name = L"menuStrip1";
-			this->menuStrip1->Size = System::Drawing::Size(906, 28);
+			this->menuStrip1->Size = System::Drawing::Size(906, 30);
 			this->menuStrip1->TabIndex = 5;
 			this->menuStrip1->Text = L"menuStrip1";
 			// 
 			// íàÃëàâíóþToolStripMenuItem
 			// 
 			this->íàÃëàâíóþToolStripMenuItem->Name = L"íàÃëàâíóþToolStripMenuItem";
-			this->íàÃëàâíóþToolStripMenuItem->Size = System::Drawing::Size(124, 24);
+			this->íàÃëàâíóþToolStripMenuItem->Size = System::Drawing::Size(124, 26);
 			this->íàÃëàâíóþToolStripMenuItem->Text = L"<- Íà ãëàâíóþ";
 			this->íàÃëàâíóþToolStripMenuItem->Click += gcnew System::EventHandler(this, &TopsisForm::íàÃëàâíóþToolStripMenuItem_Click);
 			// 
@@ -181,7 +183,7 @@ namespace Frontend {
 			this->radioButton1->AutoSize = true;
 			this->radioButton1->Font = (gcnew System::Drawing::Font(L"GOST type A", 10.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->radioButton1->Location = System::Drawing::Point(475, 432);
+			this->radioButton1->Location = System::Drawing::Point(672, 432);
 			this->radioButton1->Name = L"radioButton1";
 			this->radioButton1->Size = System::Drawing::Size(189, 22);
 			this->radioButton1->TabIndex = 7;
@@ -194,7 +196,7 @@ namespace Frontend {
 			this->radioButton2->AutoSize = true;
 			this->radioButton2->Font = (gcnew System::Drawing::Font(L"GOST type A", 10.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->radioButton2->Location = System::Drawing::Point(475, 460);
+			this->radioButton2->Location = System::Drawing::Point(672, 460);
 			this->radioButton2->Name = L"radioButton2";
 			this->radioButton2->Size = System::Drawing::Size(189, 22);
 			this->radioButton2->TabIndex = 8;
@@ -202,11 +204,24 @@ namespace Frontend {
 			this->radioButton2->Text = L"Îò õóäøåãî ê ëó÷øåìó";
 			this->radioButton2->UseVisualStyleBackColor = true;
 			// 
+			// button2
+			// 
+			this->button2->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
+				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
+			this->button2->Location = System::Drawing::Point(22, 407);
+			this->button2->Name = L"button2";
+			this->button2->Size = System::Drawing::Size(237, 113);
+			this->button2->TabIndex = 9;
+			this->button2->Text = L"Èçáàâèòüñÿ îò âûáðîñîâ â äàííûõ";
+			this->button2->UseVisualStyleBackColor = true;
+			this->button2->Click += gcnew System::EventHandler(this, &TopsisForm::button2_Click);
+			// 
 			// TopsisForm
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->ClientSize = System::Drawing::Size(906, 532);
+			this->Controls->Add(this->button2);
 			this->Controls->Add(this->radioButton2);
 			this->Controls->Add(this->radioButton1);
 			this->Controls->Add(this->chart1);
@@ -238,5 +253,6 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 private: System::Void HeaderT();
 private: System::Void DataTablesT(Elem* (&el), int& n);
 private: System::Void DrawChart(Elem* (&el), int& n);
+private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e);
 };
 }

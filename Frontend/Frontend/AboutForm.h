@@ -100,17 +100,17 @@ namespace Frontend {
 				static_cast<System::Byte>(204)));
 			this->label1->Location = System::Drawing::Point(12, 47);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(320, 180);
+			this->label1->Size = System::Drawing::Size(320, 154);
 			this->label1->TabIndex = 1;
 			this->label1->Text = L"Программа была разработана в качестве выпускной квалификационной работы, а также "
-				L"для последующего применения на холодильном предприятии.";
+				L"для последующего применения на предприятии.";
 			this->label1->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label2
 			// 
 			this->label2->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label2->Location = System::Drawing::Point(12, 236);
+			this->label2->Location = System::Drawing::Point(12, 213);
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(320, 29);
 			this->label2->TabIndex = 2;
@@ -121,18 +121,18 @@ namespace Frontend {
 			// 
 			this->label3->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label3->Location = System::Drawing::Point(12, 265);
+			this->label3->Location = System::Drawing::Point(12, 242);
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(320, 32);
 			this->label3->TabIndex = 3;
-			this->label3->Text = L"Купаренков И.А. ИУ3-83Б.";
+			this->label3->Text = L"Купаренков И.А. ИУ3-41М.";
 			this->label3->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label4
 			// 
 			this->label4->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label4->Location = System::Drawing::Point(12, 297);
+			this->label4->Location = System::Drawing::Point(12, 274);
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(320, 29);
 			this->label4->TabIndex = 4;
@@ -143,7 +143,7 @@ namespace Frontend {
 			// 
 			this->linkLabel1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->linkLabel1->Location = System::Drawing::Point(12, 326);
+			this->linkLabel1->Location = System::Drawing::Point(12, 303);
 			this->linkLabel1->Name = L"linkLabel1";
 			this->linkLabel1->Size = System::Drawing::Size(320, 23);
 			this->linkLabel1->TabIndex = 5;

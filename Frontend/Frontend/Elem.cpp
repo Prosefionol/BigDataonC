@@ -12,7 +12,6 @@ Elem::Elem()
 	pr.property[4] = 0;
 	pr.property[5] = 0;
 	pr.property[6] = 0;
-	pr.property[7] = 0;
 	pr.relevance = 0.0;
 }
 
@@ -28,7 +27,6 @@ Elem::Elem(std::string supplier_, Product pr_)
 	pr.property[4] = pr_.property[4];
 	pr.property[5] = pr_.property[5];
 	pr.property[6] = pr_.property[6];
-	pr.property[7] = pr_.property[7];
 	pr.relevance = pr_.relevance;
 }
 
@@ -41,7 +39,7 @@ void Elem::Print()
 	std::cout << supplier << std::endl;
 	std::cout << pr.name << std::endl;
 	std::cout << pr.property[0] << " " << pr.property[1] << " " << pr.property[2] << " " << pr.property[3] << " "
-		<< pr.property[4] << " " << pr.property[5] << " " << pr.property[6] << " " << pr.property[7] << " " << std::endl;
+		<< pr.property[4] << " " << pr.property[5] << " " << pr.property[6] << " " << std::endl;
 	std::cout << pr.relevance << std::endl;
 }
 
@@ -57,7 +55,6 @@ void Elem::GetDatabase(std::string supplier_, Product pr_)
 	pr.property[4] = pr_.property[4];
 	pr.property[5] = pr_.property[5];
 	pr.property[6] = pr_.property[6];
-	pr.property[7] = pr_.property[7];
 	pr.relevance = pr_.relevance;
 }
 
@@ -73,7 +70,6 @@ Elem& Elem::operator= (Elem eold)
 	this->pr.property[4] = eold.pr.property[4];
 	this->pr.property[5] = eold.pr.property[5];
 	this->pr.property[6] = eold.pr.property[6];
-	this->pr.property[7] = eold.pr.property[7];
 	this->pr.relevance = eold.pr.relevance;
 
 	return *this;

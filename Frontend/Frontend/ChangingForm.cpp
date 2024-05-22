@@ -10,9 +10,10 @@ System::Void Frontend::ChangingForm::наГлавнуюToolStripMenuItem_Click(System::Ob
 System::Void Frontend::ChangingForm::ChangingForm_Shown(System::Object^ sender, System::EventArgs^ e)
 {
 	int n = 0;
+	int state;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
@@ -25,7 +26,7 @@ System::Void Frontend::ChangingForm::ChangingForm_Shown(System::Object^ sender, 
 
 	Header();
 	dataGridView1->RowCount = n + 1;
-	dataGridView1->ColumnCount = 10;
+	dataGridView1->ColumnCount = 9;
 	DataTables(buf, n);
 
 	dataGridView1->AutoResizeRowHeadersWidth(DataGridViewRowHeadersWidthSizeMode::AutoSizeToAllHeaders);
@@ -53,39 +54,34 @@ System::Void Frontend::ChangingForm::Header()
 	dataGridView1->Columns->Add(c2);
 
 	DataGridViewTextBoxColumn^ c3 = gcnew DataGridViewTextBoxColumn();
-	c3->HeaderText = "Цена доставки";
+	c3->HeaderText = "Уровень инноваций";
 	c3->Width = 150;
 	dataGridView1->Columns->Add(c3);
 
 	DataGridViewTextBoxColumn^ c4 = gcnew DataGridViewTextBoxColumn();
-	c4->HeaderText = "Удобство доставки";
+	c4->HeaderText = "Транспортная логистика";
 	c4->Width = 150;
 	dataGridView1->Columns->Add(c4);
 
 	DataGridViewTextBoxColumn^ c5 = gcnew DataGridViewTextBoxColumn();
-	c5->HeaderText = "Своевременность доставки";
+	c5->HeaderText = "Гарантийные обязательства";
 	c5->Width = 150;
 	dataGridView1->Columns->Add(c5);
 	
 	DataGridViewTextBoxColumn^ c6 = gcnew DataGridViewTextBoxColumn();
-	c6->HeaderText = "Качество";
+	c6->HeaderText = "Репутация поставщика";
 	c6->Width = 150;
 	dataGridView1->Columns->Add(c6);
 
 	DataGridViewTextBoxColumn^ c7 = gcnew DataGridViewTextBoxColumn();
-	c7->HeaderText = "Раннее сотрудничество с поставщиком";
+	c7->HeaderText = "Коммуникация";
 	c7->Width = 150;
 	dataGridView1->Columns->Add(c7);
 
 	DataGridViewTextBoxColumn^ c8 = gcnew DataGridViewTextBoxColumn();
-	c8->HeaderText = "Репутация поставщика";
+	c8->HeaderText = "Масштабируемость и гибкость";
 	c8->Width = 150;
 	dataGridView1->Columns->Add(c8);
-
-	DataGridViewTextBoxColumn^ c9 = gcnew DataGridViewTextBoxColumn();
-	c9->HeaderText = "Система лояльности";
-	c9->Width = 150;
-	dataGridView1->Columns->Add(c9);
 
 	dataGridView1->TopLeftHeaderCell->Value = "Данные";
 	dataGridView1->AutoResizeColumns();
@@ -105,16 +101,16 @@ System::Void Frontend::ChangingForm::DataTables(Elem* (&el), int& n)
 		dataGridView1->Rows[i]->Cells[6]->Value = el[i].GetProduct().property[4];
 		dataGridView1->Rows[i]->Cells[7]->Value = el[i].GetProduct().property[5];
 		dataGridView1->Rows[i]->Cells[8]->Value = el[i].GetProduct().property[6];
-		dataGridView1->Rows[i]->Cells[9]->Value = el[i].GetProduct().property[7];
 	}
 }
 
 System::Void Frontend::ChangingForm::button1_Click(System::Object^ sender, System::EventArgs^ e)
 {
 	int n = 0;
+	int state;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
@@ -215,21 +211,12 @@ System::Void Frontend::ChangingForm::button1_Click(System::Object^ sender, Syste
 		return System::Void();
 	}
 
-	S_to_s(dataGridView1->Rows[ch]->Cells[9]->Value->ToString(), sbuf);
-	prod.property[7] = atoi(sbuf.c_str());
-	if (prod.property[7] == 0)
-	{
-		System::Windows::Forms::MessageBox::Show("Неправильный формат входных данных в столбце 10", "Уведомление");
-		delete[] buf;
-		Frontend::ChangingForm::ChangingForm_Shown(sender, e);
-		return System::Void();
-	}
-
 	prod.relevance = 0.;
+	state = 3;
 
 	buf[ch].GetDatabase(supp, prod);
 
-	SaveToFile(buf, n, "data.txt");
+	SaveToFile(buf, n, state, "data.txt");
 	Frontend::ChangingForm::ChangingForm_Shown(sender, e);
 
 	delete[] buf;
@@ -239,9 +226,10 @@ System::Void Frontend::ChangingForm::button1_Click(System::Object^ sender, Syste
 System::Void Frontend::ChangingForm::button2_Click(System::Object^ sender, System::EventArgs^ e)
 {
 	int n = 0;
+	int state;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
@@ -330,21 +318,12 @@ System::Void Frontend::ChangingForm::button2_Click(System::Object^ sender, Syste
 		return System::Void();
 	}
 
-	S_to_s(dataGridView1->Rows[n-1]->Cells[9]->Value->ToString(), sbuf);
-	prod.property[7] = atoi(sbuf.c_str());
-	if (prod.property[7] == 0)
-	{
-		System::Windows::Forms::MessageBox::Show("Неправильный формат входных данных в столбце 10", "Уведомление");
-		delete[] buf;
-		Frontend::ChangingForm::ChangingForm_Shown(sender, e);
-		return System::Void();
-	}
-
 	prod.relevance = 0.;
+	state = 3;
 
 	buf[n-1].GetDatabase(supp, prod);
 	
-	SaveToFile(buf, n, "data.txt");
+	SaveToFile(buf, n, state, "data.txt");
 	Frontend::ChangingForm::ChangingForm_Shown(sender, e);
 
 	delete[] buf;
@@ -354,9 +333,10 @@ System::Void Frontend::ChangingForm::button2_Click(System::Object^ sender, Syste
 System::Void Frontend::ChangingForm::button3_Click(System::Object^ sender, System::EventArgs^ e)
 {
 	int n = 0;
+	int state;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
@@ -381,8 +361,9 @@ System::Void Frontend::ChangingForm::button3_Click(System::Object^ sender, Syste
 	int del = dataGridView1->CurrentCell->RowIndex;
 	DeleteData(buf, n, del);
 	dataGridView1->Rows->RemoveAt(del);
+	state = 3;
 
-	SaveToFile(buf, n, "data.txt");
+	SaveToFile(buf, n, state, "data.txt");
 	Frontend::ChangingForm::ChangingForm_Shown(sender, e);
 
 	delete[] buf;

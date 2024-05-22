@@ -18,13 +18,14 @@ System::Void Frontend::InputForm::button1_Click(System::Object^ sender, System::
 
 	std::string filename;
 	int n = 0;
+	int state;
 	Elem* buf = new Elem[n];
 
 	S_to_s(textBox1->Text->ToString(), filename);
-	if (GetFromFile(buf, n, filename))
+	if (GetFromFile(buf, n, state, filename))
 	{
 		System::Windows::Forms::MessageBox::Show("База данных считана успешно!\nВсего считано " + n + " запись(си).", "Уведомление");
-		SaveToFile(buf, n, "data.txt");
+		SaveToFile(buf, n, state, "data.txt");
 		if (System::Windows::Forms::MessageBox::Show("Просмотреть считаные данные?", "Навигация", System::Windows::Forms::MessageBoxButtons::YesNo)
 			!= System::Windows::Forms::DialogResult::No)
 		{

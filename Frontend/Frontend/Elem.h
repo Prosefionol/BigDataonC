@@ -10,7 +10,7 @@
 struct Product
 {
 	std::string name;
-	int property[8];
+	int property[7];
 	double relevance;
 };
 

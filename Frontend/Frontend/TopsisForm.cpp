@@ -10,10 +10,11 @@ System::Void Frontend::TopsisForm::наГлавнуюToolStripMenuItem_Click(System::Obje
 System::Void Frontend::TopsisForm::TopsisForm_Shown(System::Object^ sender, System::EventArgs^ e)
 {
 	int n = 0;
+	int state;
 	double avg;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
@@ -21,9 +22,13 @@ System::Void Frontend::TopsisForm::TopsisForm_Shown(System::Object^ sender, Syst
 		return System::Void();
 	}
 
-	ApplyMCDM(buf, n);
-	// ApplyTopsis(buf, n);
-	SaveToFile(buf, n, "data.txt");
+	if ((state == 0) || (state == 3))
+	{
+		ApplyTopsis(buf, n);
+		state = 1;
+	}
+
+	SaveToFile(buf, n, state, "data.txt");
 
 	dataGridView1->Rows->Clear();
 	dataGridView1->Columns->Clear();
@@ -45,9 +50,10 @@ System::Void Frontend::TopsisForm::TopsisForm_Shown(System::Object^ sender, Syst
 System::Void Frontend::TopsisForm::button1_Click(System::Object^ sender, System::EventArgs^ e)
 {
 	int n = 0;
+	int state;
 	Elem* buf = new Elem[n];
 
-	GetFromFile(buf, n, "data.txt");
+	GetFromFile(buf, n, state, "data.txt");
 	if (n == 0)
 	{
 		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
@@ -73,7 +79,39 @@ System::Void Frontend::TopsisForm::button1_Click(System::Object^ sender, System:
 		}
 	}
 
-	SaveToFile(buf, n, "data.txt");
+	SaveToFile(buf, n, state, "data.txt");
+	delete[] buf;
+	Frontend::TopsisForm::TopsisForm_Shown(sender, e);
+	return System::Void();
+}
+
+System::Void Frontend::TopsisForm::button2_Click(System::Object^ sender, System::EventArgs^ e)
+{
+	int n = 0;
+	int state;
+	Elem* buf = new Elem[n];
+
+	GetFromFile(buf, n, state, "data.txt");
+	if (n == 0)
+	{
+		System::Windows::Forms::MessageBox::Show("Информация не была загружена или в текущей базе данных отсутствуют сведения!", "Уведомление");
+		delete[] buf;
+		return System::Void();
+	}
+
+	if (state == 2)
+	{
+		System::Windows::Forms::MessageBox::Show("Избавление от выбросов в данных уже было произведено!", "Уведомление");
+		delete[] buf;
+		return System::Void();
+	}
+	else
+	{
+		ApplyMCDM(buf, n);
+		state = 2;
+	}
+
+	SaveToFile(buf, n, state, "data.txt");
 	delete[] buf;
 	Frontend::TopsisForm::TopsisForm_Shown(sender, e);
 	return System::Void();
