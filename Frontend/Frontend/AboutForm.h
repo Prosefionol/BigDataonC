@@ -83,7 +83,7 @@ namespace Frontend {
 			this->menuStrip1->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(1) { this->наГлавнуюToolStripMenuItem });
 			this->menuStrip1->Location = System::Drawing::Point(0, 0);
 			this->menuStrip1->Name = L"menuStrip1";
-			this->menuStrip1->Size = System::Drawing::Size(344, 28);
+			this->menuStrip1->Size = System::Drawing::Size(344, 30);
 			this->menuStrip1->TabIndex = 0;
 			this->menuStrip1->Text = L"menuStrip1";
 			// 
@@ -100,7 +100,7 @@ namespace Frontend {
 				static_cast<System::Byte>(204)));
 			this->label1->Location = System::Drawing::Point(12, 47);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(320, 154);
+			this->label1->Size = System::Drawing::Size(320, 187);
 			this->label1->TabIndex = 1;
 			this->label1->Text = L"Программа была разработана в качестве выпускной квалификационной работы, а также "
 				L"для последующего применения на предприятии.";
@@ -110,7 +110,7 @@ namespace Frontend {
 			// 
 			this->label2->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label2->Location = System::Drawing::Point(12, 213);
+			this->label2->Location = System::Drawing::Point(11, 234);
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(320, 29);
 			this->label2->TabIndex = 2;
@@ -121,7 +121,7 @@ namespace Frontend {
 			// 
 			this->label3->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label3->Location = System::Drawing::Point(12, 242);
+			this->label3->Location = System::Drawing::Point(11, 263);
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(320, 32);
 			this->label3->TabIndex = 3;
@@ -132,7 +132,7 @@ namespace Frontend {
 			// 
 			this->label4->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label4->Location = System::Drawing::Point(12, 274);
+			this->label4->Location = System::Drawing::Point(11, 295);
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(320, 29);
 			this->label4->TabIndex = 4;
@@ -143,7 +143,7 @@ namespace Frontend {
 			// 
 			this->linkLabel1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->linkLabel1->Location = System::Drawing::Point(12, 303);
+			this->linkLabel1->Location = System::Drawing::Point(12, 324);
 			this->linkLabel1->Name = L"linkLabel1";
 			this->linkLabel1->Size = System::Drawing::Size(320, 23);
 			this->linkLabel1->TabIndex = 5;
@@ -155,7 +155,7 @@ namespace Frontend {
 			// 
 			this->label5->Font = (gcnew System::Drawing::Font(L"GOST type A", 16.2F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(204)));
-			this->label5->Location = System::Drawing::Point(12, 377);
+			this->label5->Location = System::Drawing::Point(11, 386);
 			this->label5->Name = L"label5";
 			this->label5->Size = System::Drawing::Size(320, 68);
 			this->label5->TabIndex = 6;
@@ -164,9 +164,9 @@ namespace Frontend {
 			// 
 			// linkLabel2
 			// 
-			this->linkLabel2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+			this->linkLabel2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 10.2F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
-			this->linkLabel2->Location = System::Drawing::Point(12, 445);
+			this->linkLabel2->Location = System::Drawing::Point(12, 454);
 			this->linkLabel2->Name = L"linkLabel2";
 			this->linkLabel2->Size = System::Drawing::Size(320, 28);
 			this->linkLabel2->TabIndex = 7;
